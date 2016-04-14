@@ -6,15 +6,14 @@
     <groupId>com.criteo.hackathon</groupId>
     <artifactId>the-spy-who-loved-me</artifactId>
     <version>1.0-SNAPSHOT</version>
+    
     <properties>
-        <log4j.version>1.2.17</log4j.version>
         <mockito.version>1.9.5</mockito.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>4.2.5.RELEASE</spring.version>
         <spring.boot.version>1.3.3.RELEASE</spring.boot.version>
         <slf4j.version>1.7.5</slf4j.version>
         <logback.version>1.0.6</logback.version>
-        <log.path>logs/</log.path>
     </properties>
 
     <dependencies>
@@ -47,23 +46,6 @@
                     <groupId>commons-logging</groupId>
                     <artifactId>commons-logging</artifactId>
                 </exclusion>
-                <exclusion>
-                    <groupId>log4j</groupId>
-                    <artifactId>log4j</artifactId>
-                </exclusion>
-                <exclusion>      
-                    <groupId>org.apache.logging.log4j</groupId>
-                    <artifactId>log4j-api</artifactId>
-                    
-                  </exclusion>
-                  <exclusion>
-                    <groupId>org.apache.logging.log4j</groupId>
-                    <artifactId>log4j-core</artifactId>
-                  </exclusion>
-                  <exclusion>
-                    <groupId>org.apache.logging.log4j</groupId>
-                    <artifactId>log4j-slf4j-impl</artifactId>
-                  </exclusion>
             </exclusions>
         </dependency>
         <dependency>
@@ -93,23 +75,23 @@
             <version>${spring.version}</version>
         </dependency>
 
-        <!-- <dependency>
+        <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
             <version>${slf4j.version}</version>
-        </dependency> -->
+        </dependency>
         <!-- <dependency> <groupId>org.slf4j</groupId> <artifactId>slf4j-log4j12</artifactId> 
             <version>{slf4j.version}</version> </dependency> -->
-<!--         <dependency>
+        <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
             <version>${logback.version}</version>
-        </dependency> -->
-        <!-- <dependency>
+        </dependency>
+        <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-core</artifactId>
             <version>${logback.version}</version>
-        </dependency> -->
+        </dependency>
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-core</artifactId>
