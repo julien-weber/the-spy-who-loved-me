@@ -41,15 +41,17 @@ public class EndToEndTest {
         Processor processor = new Processor();
 		processor.process(goodResumesInText, badResumesInText);
 
-    	//TODO get from ML
-    	 List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
-         List<Double> XWithTfIdf = Arrays.asList(1.0, 1.0, 2.0);
-         Path pathToResume = null;
-
+    	//TODO integrate with ML
+    	List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
+    	//weight = processor.GetWeight();
+        List<Double> XWithTfIdf = Arrays.asList(1.0, 1.0, 2.0);
+        //String resumeToPredictStr = "target/txts/NewCadidate.pdf";
+     	//File resumeToPredict = new File(resumeToPredictStr);
+        //XWithTfIdf = processor.GetXWithTfIdf(resumeToPredict);
 
         //Making a prediction for a new Resume.
         Prediction prediction = Prediction.getInstance();
-        double finalScore = prediction.getFinalScore(weight, pathToResume, XWithTfIdf);
+        double finalScore = prediction.getFinalScore(weight, null, XWithTfIdf);
         log.info("the final score is " + finalScore);
         if (finalScore >  0.5)
         {

@@ -89,6 +89,16 @@ public class Processor {
 		outputResumeTokenInfo();
 	}
 
+	public List<Double> GetWeight()
+	{
+		return null;
+	}
+
+	public List<Double> GetXWithTfIdf(File resumeFile)
+	{
+		return null;
+	}
+
 	void computeIDF() {
 		for (String key : dictionary.keySet()) {
 			double idf = Math.log(resumeCount / dictionary.get(key));
