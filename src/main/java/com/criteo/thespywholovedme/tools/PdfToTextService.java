@@ -15,7 +15,7 @@ import java.util.List;
 
 public class PdfToTextService {
 
-    private static final String[] EXTENSIONS = {"pdf"};
+    private static final String[] EXTENSIONS = { "pdf" };
 
     private File outputDirectory;
 
@@ -24,21 +24,22 @@ public class PdfToTextService {
     }
 
     public List<File> convert(File input) {
-        if(input.isFile()) {
+        if (input.isFile()) {
             File output = convertFile(input);
             return Lists.newArrayList(output);
-        } else if(input.isDirectory()) {
+        } else if (input.isDirectory()) {
             return convertFromDirectory(input);
         } else {
-            throw new RuntimeException("not a directory or a file? What is this!? " + input.getAbsolutePath());
+            return Lists.newArrayList();
         }
+
     }
 
     private List<File> convertFromDirectory(File inputDirectory) {
         Collection<File> pdfFiles = FileUtils.listFiles(inputDirectory, EXTENSIONS, false);
 
         List<File> output = Lists.newArrayList();
-        for(File pdfFile : pdfFiles) {
+        for (File pdfFile: pdfFiles) {
             File txtFile = convertFile(pdfFile);
             output.add(txtFile);
         }
@@ -48,7 +49,7 @@ public class PdfToTextService {
 
     private File convertFile(File pdfFile) {
 
-        try(InputStream input = FileUtils.openInputStream(pdfFile)) {
+        try (InputStream input = FileUtils.openInputStream(pdfFile)) {
             BodyContentHandler handler = new BodyContentHandler();
             Metadata metadata = new Metadata();
             PDFParser parser = new PDFParser();
@@ -61,9 +62,8 @@ public class PdfToTextService {
 
             return outputFile;
         } catch (Exception e) {
-            throw new RuntimeException("Error converting pdf file ["+pdfFile.getAbsolutePath()+"]", e);
+            throw new RuntimeException("Error converting pdf file [" + pdfFile.getAbsolutePath() + "]", e);
         }
-
 
     }
 }
