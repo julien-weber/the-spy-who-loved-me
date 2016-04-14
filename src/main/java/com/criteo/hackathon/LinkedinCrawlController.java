@@ -28,9 +28,9 @@ public class LinkedinCrawlController {
       return;
     }
 
-    // inputFile will be relative to resources folder
+    // inputFile should be relative to project folder
     inputFile = args[0];
-    // outputdir recommended to relative project folder
+    // outputdir should be relative to project folder
     LinkedinCrawler.setOutputDir(args[1]);
 
     /*
