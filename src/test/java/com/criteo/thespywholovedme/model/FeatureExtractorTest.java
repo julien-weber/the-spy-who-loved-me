@@ -52,7 +52,7 @@ public class FeatureExtractorTest {
         negResumes.add(resume3);
 
         FeatureExtractor featureExtractor = new FeatureExtractor();
-        featureExtractor.writeFeatures(file, dictionary, posResumes, negResumes);
+        featureExtractor.writeFeatures( dictionary, posResumes, negResumes);
 
     }
 

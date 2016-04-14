@@ -21,9 +21,10 @@ public class FeatureExtractor  {
 
 
     private static RealMatrix US;
+    private static String filePath = "src/test/resources/model/featureVectorFile";
     
 
-    public void  writeFeatures(String filePath, List<TermIDF> dictionary, List<Map<String,Integer>> posResumes,
+    public void  writeFeatures(List<TermIDF> dictionary, List<Map<String,Integer>> posResumes,
                               List<Map<String,Integer>> negResumes) {
         String[] outputStringFeatures =  extractStringFeatures(dictionary,  posResumes, negResumes);
         
