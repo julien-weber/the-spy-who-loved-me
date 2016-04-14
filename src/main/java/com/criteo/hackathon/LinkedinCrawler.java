@@ -18,6 +18,7 @@ import java.util.Set;
 public class LinkedinCrawler extends WebCrawler {
 
     private static final Logger logger = LoggerFactory.getLogger(LinkedinCrawler.class);
+    private static final String outputDir = "profiles_hired";
 
     /**
      * You should implement this function to specify whether the given url
@@ -78,7 +79,7 @@ public class LinkedinCrawler extends WebCrawler {
 
         if (null != html) {
             try {
-                File file = new File(System.getProperty("user.dir") + "/profiles/" + url.replace('/','_'));
+                File file = new File(System.getProperty("user.dir") + "/" + outputDir + "/" + url.replace('/','_'));
 
                 // if file doesnt exists, then create it
                 if (file.exists()) {

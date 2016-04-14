@@ -19,6 +19,7 @@ import java.util.List;
  */
 public class LinkedinCrawlController {
   private static final Logger logger = LoggerFactory.getLogger(LinkedinCrawlController.class);
+  private static final String inputFile = "input_profile_hired";
 
   private static int NUM_CRAWLER = 10;
 
@@ -100,13 +101,15 @@ public class LinkedinCrawlController {
      * URLs that are fetched and then the crawler starts following links
      * which are found in these pages
      */
-    String profileInput = System.getProperty("user.dir") + "/input_profile";
+    String profileInput = System.getProperty("user.dir") + "/" + inputFile;
     List<String> inputs = Files.readLines(new File(profileInput), Charsets.UTF_8);
 //    logger.info("Crawling " + inputs.size() + " profiles");
 //    controller.addSeed("http://www.linkedin.com/in/marion-passama-2a24316a");
-    controller.addSeed("http://www.linkedin.com/in/yuwen-xue-036b3916");
-    for (String input : inputs)
-      controller.addSeed(input);
+//    controller.addSeed("http://www.linkedin.com/in/yuwen-xue-036b3916");
+    for (String input : inputs) {
+      int pos = input.indexOf("linkedin.com");
+      controller.addSeed("https://www."+input.substring(pos));
+    }
 //    controller.addSeed("https://www.linkedin.com/in/marion-passama-2a24316a");
 //    controller.addSeed("https://www.linkedin.com/in/yuwen-xue-036b3916");
 //    controller.addSeed("https://www.linkedin.com/in/julien-weber-603ab014/en");
