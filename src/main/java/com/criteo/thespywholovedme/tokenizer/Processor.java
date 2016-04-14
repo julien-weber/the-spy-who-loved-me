@@ -32,7 +32,7 @@ public class Processor {
 	void process(String[] dirs) {
 		if (dirs == null || dirs.length == 0)
 			return;
-		
+
 		// assume the first directory is for resumes that receive positive reviews
 		for (int i=0; i< dirs.length; i++) {
 			if (dirs[i] == null || dirs[i].isEmpty())
@@ -40,7 +40,7 @@ public class Processor {
 
 			Path dir = new File(dirs[i]).toPath();
 
-			try (DirectoryStream<Path> stream = Files.newDirectoryStream(dir, "*.txt")) 
+			try (DirectoryStream<Path> stream = Files.newDirectoryStream(dir, "*.txt"))
 			{
 				for (Path entry: stream) {
 					resumeCount++;
@@ -61,7 +61,7 @@ public class Processor {
 		outputResumeTokenInfo();
 	}
 
-	void process(List<File> positive, List<File> negative) {
+	public void process(List<File> positive, List<File> negative) {
 
 		for (File file : positive) {
 			if (file == null || !file.exists() || file.isDirectory())
@@ -71,7 +71,7 @@ public class Processor {
 			processFile(file, true);
 
 		}
-		
+
 		for (File file : negative) {
 			if (file == null || !file.exists() || file.isDirectory())
 				continue;
@@ -80,7 +80,7 @@ public class Processor {
 			processFile(file, true);
 
 		}
-		
+
 		System.out.println("size of dictionary: " + dictionary.size());
 
 		computeIDF();
@@ -101,14 +101,14 @@ public class Processor {
 	void outputResumeTokenInfo() {
 		for (Map<String, Integer> tokenInfo: positive_tokenInfoList) {
 			for (String token : tokenInfo.keySet()) {
-				System.out.println(token + ": " + tokenInfo.get(token));	
+				System.out.println(token + ": " + tokenInfo.get(token));
 			}
 			System.out.println();
 		}
 
 		for (Map<String, Integer> tokenInfo: negative_tokenInfoList) {
 			for (String token : tokenInfo.keySet()) {
-				System.out.println(token + ": " + tokenInfo.get(token));	
+				System.out.println(token + ": " + tokenInfo.get(token));
 			}
 			System.out.println();
 		}

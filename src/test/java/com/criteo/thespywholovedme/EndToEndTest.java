@@ -25,21 +25,21 @@ public class EndToEndTest {
     	//Training:
 
     	//1. Convert Files from Pdf to Text
-    	String outputPathGoodResumes = "src/test/resources/txts/positive";
+    	String outputPathGoodResumes = "target/txts/positive";
     	File outputDirectoryGoodResumes = new File(outputPathGoodResumes);
         File goodResumesPdf = new File("src/test/resources/pdfs/positive");
         PdfToTextService pdfToTextServiceGoodResumes = new PdfToTextService(outputDirectoryGoodResumes);
         List<File> goodResumesInText = pdfToTextServiceGoodResumes.convert(goodResumesPdf);
 
-    	String outputPathBadResumes = "src/test/resources/txts/negative";
+    	String outputPathBadResumes = "target/txts/negative";
     	File outputDirectoryBadResumes = new File(outputPathBadResumes);
         File badResumesPdf = new File("src/test/resources/pdfs/negative");
         PdfToTextService pdfToTextServiceBadResumes = new PdfToTextService(outputDirectoryBadResumes);
         List<File> badResumesInText = pdfToTextServiceBadResumes.convert(badResumesPdf);
 
         //2. Tokenizer + ML
-        //Processor processor = new Processor(goodResumesInText,badResumesInText);
-		//processor.process();
+        Processor processor = new Processor();
+		processor.process(goodResumesInText, badResumesInText);
 
     	//TODO get from ML
     	 List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
