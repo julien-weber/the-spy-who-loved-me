@@ -34,7 +34,7 @@ public class TokenizerHelper {
 		//		.replaceAll("[^0-9a-z\\s]", "").replaceAll("\\d+", " number ");
 
 		String normalizedInput = input.toLowerCase().trim().replaceAll("[^0-9a-z#+\\s]", " ");
-		String[] tks = normalizedInput.split("([.,!?:;'\"-]|\\s)+");
+		String[] tks = normalizedInput.split("(\\s)+");
 		
 		Set<String> acceptedTokens = new HashSet<String>();
 		for (int i=0; i<tks.length; i++) {
