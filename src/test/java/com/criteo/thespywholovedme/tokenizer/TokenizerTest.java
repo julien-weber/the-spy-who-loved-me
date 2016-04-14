@@ -12,7 +12,7 @@ import org.junit.Test;
 import com.criteo.thespywholovedme.tokenizer.Processor;
 import com.criteo.*;
 public class TokenizerTest {
-	
+	/*
     @Test
 	public void TestTokenizer(String[] args) {
 		int argCount = args.length;
@@ -30,4 +30,6 @@ public class TokenizerTest {
 		System.out.println("Done");
 		return;
 	}
+	*/
+
 }

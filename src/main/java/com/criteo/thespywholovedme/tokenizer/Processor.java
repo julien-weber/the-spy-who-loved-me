@@ -34,12 +34,11 @@ public class Processor {
 	private Set<String> uniqueWords = new HashSet<>();
 	private Map<String, Integer> dictionary = new HashMap<>();
 	private Map<String, Double> dictionaryIDF = new HashMap<>();
+	private int resumeCount = 0;
+
 	private List<Map<String, Integer>> positive_tokenInfoList = new ArrayList<>();
 	private List<Map<String, Integer>> negative_tokenInfoList = new ArrayList<>();
-	
 	private List<TermIDF> IDFList = new ArrayList<>();
-	
-	private int resumeCount = 0;
 	
 	public Processor(String[] args) {
 		this.args = args;
