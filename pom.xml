@@ -6,6 +6,11 @@
     <groupId>com.criteo.hackathon</groupId>
     <artifactId>the-spy-who-loved-me</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <log4j.version>1.2.17</log4j.version>
+        <mockito.version>1.9.5</mockito.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.apache.tika</groupId>
@@ -37,6 +42,16 @@
             <artifactId>junit</artifactId>
             <scope>test</scope>
             <version>4.12</version>
+        </dependency>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <version>${mockito.version}</version>
         </dependency>
     </dependencies>
     <build>
