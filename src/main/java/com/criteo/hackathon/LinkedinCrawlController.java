@@ -14,9 +14,6 @@ import java.io.File;
 import java.util.List;
 
 
-/**
- * @author Yasser Ganjisaffar
- */
 public class LinkedinCrawlController {
   private static final Logger logger = LoggerFactory.getLogger(LinkedinCrawlController.class);
   private static String inputFile;
@@ -31,15 +28,17 @@ public class LinkedinCrawlController {
       return;
     }
 
+    // inputFile will be relative to resources folder
     inputFile = args[0];
+    // outputdir recommended to relative project folder
     LinkedinCrawler.setOutputDir(args[1]);
 
     /*
      * crawlStorageFolder is a folder where intermediate crawl data is
      * stored.
      */
-    String crawlStorageFolder = System.getProperty("user.dir");
-    System.out.println("Storage dir is " + crawlStorageFolder);
+    String crawlStorageFolder = "target";
+    logger.info("Storage dir is " + crawlStorageFolder);
 
     /*
      * numberOfCrawlers shows the number of concurrent threads that should
@@ -73,7 +72,7 @@ public class LinkedinCrawlController {
      */
     config.setMaxPagesToFetch(1000);
 
-    /**
+    /*
      * Do you want crawler4j to crawl also binary data ?
      * example: the contents of pdf, or the metadata of images etc
      */
@@ -110,9 +109,11 @@ public class LinkedinCrawlController {
      * URLs that are fetched and then the crawler starts following links
      * which are found in these pages
      */
-    String profileInput = System.getProperty("user.dir") + "/" + inputFile;
-    List<String> inputs = Files.readLines(new File(profileInput), Charsets.UTF_8);
-    logger.info("Crawling " + inputs.size() + " profiles");
+    ClassLoader classLoader = LinkedinCrawlController.class.getClassLoader();
+    File file = new File(classLoader.getResource(inputFile).getFile());
+    List<String> inputs = Files.readLines(file, Charsets.UTF_8);
+    logger.info("Crawling " + inputs.size() + " profiles from " + file.toString());
+
     for (String input : inputs) {
       int pos = input.indexOf("linkedin.com");
       controller.addSeed("https://www."+input.substring(pos));

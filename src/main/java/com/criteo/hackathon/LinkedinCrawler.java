@@ -18,6 +18,7 @@ import java.util.Set;
 public class LinkedinCrawler extends WebCrawler {
 
     private static final Logger logger = LoggerFactory.getLogger(LinkedinCrawler.class);
+
     private static String outputDir;
 
     public static void setOutputDir(String passedInOutputDir) {
@@ -83,14 +84,20 @@ public class LinkedinCrawler extends WebCrawler {
 
         if (null != html) {
             try {
-                File file = new File(System.getProperty("user.dir") + "/" + outputDir + "/" + url.replace('/','_'));
-
+                File dir = new File(outputDir);
+                if (!dir.exists()) {
+                    boolean successful = dir.mkdirs();
+                    if (!successful) {
+                      logger.info("failed trying to create the directory " + dir.toString());
+                    }
+                }
+                File file = new File(outputDir + "/" + url.replace('/','_'));
+                logger.info("write to file " + file.toString());
                 // if file doesnt exists, then create it
                 if (file.exists()) {
                     file.delete();
                 }
                 file.createNewFile();
-
 
                 FileWriter fw = new FileWriter(file.getAbsoluteFile());
                 BufferedWriter bw = new BufferedWriter(fw);
