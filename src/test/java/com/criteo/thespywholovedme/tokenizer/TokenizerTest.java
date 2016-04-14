@@ -12,24 +12,31 @@ import org.junit.Test;
 import com.criteo.thespywholovedme.tokenizer.Processor;
 import com.criteo.*;
 public class TokenizerTest {
-	/*
-    @Test
-	public void TestTokenizer(String[] args) {
-		int argCount = args.length;
-		if (argCount != 2)
-		{
-			System.out.println("Please provide locations of two directories: \n"
-					+ "1. positive reusmes \n"
-					+ "2. negative resumes");
-			return;
-		}
 
-		Processor processor = new Processor(args);
-		processor.process();
+    @Test
+	public void TestTokenizer() {
+
+		Processor processor = new Processor();
+		
+		List<File> positive = new LinkedList<File>();
+		List<File> negative = new LinkedList<File>();
+		
+		processor.process(positive, negative);
 		
 		System.out.println("Done");
 		return;
 	}
-	*/
 
+    @Test
+	public void TestTokenizerWithDirs() {
+
+		Processor processor = new Processor();
+		
+		String[] dirs = {"/Users/yu.li/hackathon/good", "/Users/yu.li/hackathon/bad"};
+		
+		processor.process(dirs);
+		
+		System.out.println("Done");
+		return;
+	}
 }

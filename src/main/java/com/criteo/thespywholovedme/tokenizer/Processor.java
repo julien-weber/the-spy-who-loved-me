@@ -17,20 +17,9 @@ import java.util.ArrayList;
 import java.util.Map;
 import java.util.Set;
 
+import com.criteo.thespywholovedme.model.TermIDF;
+
 public class Processor {
-
-	public static class TermIDF {
-	    private String term;
-	    private Double idf;
-	    
-	    public TermIDF(String term, Double idf)
-	    {
-	    	this.term = term;
-	    	this.idf = idf;
-	    }
-	}
-
-	private String[] args;
 	private Set<String> uniqueWords = new HashSet<>();
 	private Map<String, Integer> dictionary = new HashMap<>();
 	private Map<String, Double> dictionaryIDF = new HashMap<>();
@@ -39,25 +28,23 @@ public class Processor {
 	private List<Map<String, Integer>> positive_tokenInfoList = new ArrayList<>();
 	private List<Map<String, Integer>> negative_tokenInfoList = new ArrayList<>();
 	private List<TermIDF> IDFList = new ArrayList<>();
-	
-	public Processor(String[] args) {
-		this.args = args;
-	}
 
-	void process() {
+	void process(String[] dirs) {
+		if (dirs == null || dirs.length == 0)
+			return;
 		
 		// assume the first directory is for resumes that receive positive reviews
-		for (int i=0; i< args.length; i++) {
-			if (args[i] == null || args[i].isEmpty())
+		for (int i=0; i< dirs.length; i++) {
+			if (dirs[i] == null || dirs[i].isEmpty())
 				continue;
 
-			Path dir = new File(args[i]).toPath();
+			Path dir = new File(dirs[i]).toPath();
 
 			try (DirectoryStream<Path> stream = Files.newDirectoryStream(dir, "*.txt")) 
 			{
 				for (Path entry: stream) {
 					resumeCount++;
-					processFile(entry, i==0);
+					processFile(entry.toFile(), i==0);
 				}
 
 			} catch (DirectoryIteratorException ex) {
@@ -67,13 +54,41 @@ public class Processor {
 			}
 		}
 		System.out.println("size of dictionary: " + dictionary.size());
-		
+
 		computeIDF();
-		
+
 		System.out.println();
 		outputResumeTokenInfo();
 	}
-	
+
+	void process(List<File> positive, List<File> negative) {
+
+		for (File file : positive) {
+			if (file == null || !file.exists() || file.isDirectory())
+				continue;
+
+			resumeCount++;
+			processFile(file, true);
+
+		}
+		
+		for (File file : negative) {
+			if (file == null || !file.exists() || file.isDirectory())
+				continue;
+
+			resumeCount++;
+			processFile(file, true);
+
+		}
+		
+		System.out.println("size of dictionary: " + dictionary.size());
+
+		computeIDF();
+
+		System.out.println();
+		outputResumeTokenInfo();
+	}
+
 	void computeIDF() {
 		for (String key : dictionary.keySet()) {
 			double idf = Math.log(resumeCount / dictionary.get(key));
@@ -82,7 +97,7 @@ public class Processor {
 			System.out.println(key + ": " + dictionaryIDF.get(key));
 		}
 	}
-	
+
 	void outputResumeTokenInfo() {
 		for (Map<String, Integer> tokenInfo: positive_tokenInfoList) {
 			for (String token : tokenInfo.keySet()) {
@@ -90,7 +105,7 @@ public class Processor {
 			}
 			System.out.println();
 		}
-		
+
 		for (Map<String, Integer> tokenInfo: negative_tokenInfoList) {
 			for (String token : tokenInfo.keySet()) {
 				System.out.println(token + ": " + tokenInfo.get(token));	
@@ -99,15 +114,15 @@ public class Processor {
 		}
 	}
 
-	void processFile(Path path, boolean positive) {
+	void processFile(File file, boolean positive) {
 		// read file line by line
-		try (BufferedReader br = new BufferedReader(new FileReader(path.toFile()))) {
+		try (BufferedReader br = new BufferedReader(new FileReader(file))) {
 			List<Map<String, Integer>> tokenInfoList = positive ?
 					positive_tokenInfoList : negative_tokenInfoList;
-			
+
 			Map<String, Integer> tokenInfo = new HashMap<>();
 			tokenInfoList.add(tokenInfo);
-			
+
 			String line;
 			while ((line = br.readLine()) != null) {
 				System.out.println(line);
@@ -121,7 +136,7 @@ public class Processor {
 						if (!dictionary.containsKey(token)) {
 							dictionary.put(token, 1);
 						}
-						
+
 						if (!tokenInfo.containsKey(token)) {
 							tokenInfo.put(token,  1);
 						} else {
