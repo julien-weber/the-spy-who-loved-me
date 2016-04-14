@@ -4,18 +4,15 @@ import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.List;
 
-import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.junit.Test;
-
-import com.criteo.thespywholovedme.tools.Log4j;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class PredictionTest {
     private static final double DELTA = 1e-15;
-    static {
-        Log4j.initialize();
-    }
-   static Logger log = Logger.getLogger(PredictionTest.class.getName());
+
+    static Logger log = LoggerFactory.getLogger(PredictionTest.class);
 
     @Test
     public void testGetScore() {
@@ -28,7 +25,7 @@ public class PredictionTest {
 
         double score = 0.0;
         for (int ii = 0; ii < weight.size(); ++ii) {
-            score += weight.get(ii) * XWithTfIdf.get(ii); 
+            score += weight.get(ii) * XWithTfIdf.get(ii);
         }
         double expectedFinalScore = 1.0 / (1.0 + Math.exp(-1.0 * score));
 
