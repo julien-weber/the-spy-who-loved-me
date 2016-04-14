@@ -18,7 +18,11 @@ import java.util.Set;
 public class LinkedinCrawler extends WebCrawler {
 
     private static final Logger logger = LoggerFactory.getLogger(LinkedinCrawler.class);
-    private static final String outputDir = "profiles_hired";
+    private static String outputDir;
+
+    public static void setOutputDir(String passedInOutputDir) {
+        outputDir = passedInOutputDir;
+    }
 
     /**
      * You should implement this function to specify whether the given url

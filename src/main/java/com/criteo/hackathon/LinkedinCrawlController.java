@@ -19,11 +19,20 @@ import java.util.List;
  */
 public class LinkedinCrawlController {
   private static final Logger logger = LoggerFactory.getLogger(LinkedinCrawlController.class);
-  private static final String inputFile = "input_profile_hired";
+  private static String inputFile;
 
   private static int NUM_CRAWLER = 10;
 
   public static void main(String[] args) throws Exception {
+    if (args.length != 2) {
+      logger.info("Needed parameters: ");
+      logger.info("\t the input file containing the linkedin urls, under the current user dir.");
+      logger.info("\t the output dir for the results");
+      return;
+    }
+
+    inputFile = args[0];
+    LinkedinCrawler.setOutputDir(args[1]);
 
     /*
      * crawlStorageFolder is a folder where intermediate crawl data is
@@ -103,16 +112,11 @@ public class LinkedinCrawlController {
      */
     String profileInput = System.getProperty("user.dir") + "/" + inputFile;
     List<String> inputs = Files.readLines(new File(profileInput), Charsets.UTF_8);
-//    logger.info("Crawling " + inputs.size() + " profiles");
-//    controller.addSeed("http://www.linkedin.com/in/marion-passama-2a24316a");
-//    controller.addSeed("http://www.linkedin.com/in/yuwen-xue-036b3916");
+    logger.info("Crawling " + inputs.size() + " profiles");
     for (String input : inputs) {
       int pos = input.indexOf("linkedin.com");
       controller.addSeed("https://www."+input.substring(pos));
     }
-//    controller.addSeed("https://www.linkedin.com/in/marion-passama-2a24316a");
-//    controller.addSeed("https://www.linkedin.com/in/yuwen-xue-036b3916");
-//    controller.addSeed("https://www.linkedin.com/in/julien-weber-603ab014/en");
     /*
      * Start the crawl. This is a blocking operation, meaning that your code
      * will reach the line after this only when crawling is finished.
