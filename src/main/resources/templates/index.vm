@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+
+<body>
+	<h1>Hello!</h1>
+	#if($message)
+	<h2>$message</h2>
+	#end
+	
+</body>
