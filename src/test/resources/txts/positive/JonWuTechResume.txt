@@ -1,0 +1,80 @@
+
+JONATHAN WU 
+20748 Saticoy St., Winnetka, CA 91306 ▪ 818.233.0741 ▪ jonwu511@gmail.com 
+
+S K I L L S  
+
+Languages: Java(Spring3, J2EE,Camel,JSTL,Velocity,JSP,Hibernate,JPA,JDBC,Servlets, Axis,Web 
+Services(SOAP,RESTful),Quartz, JMS,JUnit,JMock,GWT),Scala, SQL, Javascript(AJAX, 
+JSON, jQuery,YUI), HTML/XHTML, CSS, C/C++,PHP, ASP, Visual Basic 
+
+Techniques:  Agile,Inversion of Control,Object-Oriented Design and Programming,Functional 
+Programming, MVC, ORM, AJAX 
+
+Systems:   Eclipse,Apache Tomcat,Jetty,Resin,Apache2, IIS, Subversion,CVS, 
+MySql,HSQLDB,H2,MS SQL Server, Microsoft Windows, Mac OSX,Linux,Jenkins, 
+Selenium,Bamboo,Maven,Jira 
+
+W O R K  E X P E R I E N C E   
+
+Datapop, Inc. Los Angeles, CA 
+Senior Software Engineer Sept. 2012 – Present 
+•   Developed solutions to make processing external reports easier 
+
+•   Used H2 to create a framework that merges, normalizes, or aggregates CSV/TSV files  
+•   Abstracted AdWords and BingAds report clients and created a generalized interface to pull from 
+
+both services and enhanced those reports with data provided by external web services 
+•   Implemented an analytic report that identifies search query gaps between PLA and SEM 
+
+campaigns 
+ 
+Leadpoint, Inc. Los Angeles, CA 
+Software Engineer May 2010 – Sept. 2012 
+•   Part of Marketplace Agile software development team 
+
+-­   Developed pricing guidance system based on historic bids to implement marketplace transparency  
+-­   Improved real-time hot transfer demand service to more accurately communicate current demand 
+
+by modeling the many-to-many relationship of leads to orders. 
+•   Managed company’s Real-time Voice Platform 
+
+-­   Cut order matching time in half on the voice platform 
+-­   Implemented new integrations with Marketplace platform using web services and APIs 
+-­   Created real-time callback mechanism based on web form submissions, potentially increasing 
+
+revenue based on data versus voice lead pricing. 
+-­   Expanded available metrics by tracking phone calls based on A/B server tests and page visited  
+
+•   Business Intelligence support 
+-­   Created and modified SQL queries for reports for Sales, QA, and Financial departments 
+-­   Tracked down and fixed bugs related to reporting platform 
+
+ 
+Gefen Inc. Chatsworth, CA 
+Software Engineer Feb. 2006 – May 2010 
+•   Analyzed company procedures and developed software solutions to streamline operations. 
+
+-­   Designed and Implemented Spring3 application to manage software users for a new product. 
+-­   Programmed CGI scripts for embedded web server in a DVI Matrix switcher. 
+-­   Designed and implemented new shipping system that involved a new FedEx Web Services Client.   
+-­   Created new revenue stream by creating extended warranty system for products. 
+-­   Created new inventory system to manage product logistics for multiple warehouse locations.   
+-­   Built complex SQL queries and AJAX enabled JSP pages for detailed inventory, sales statistics, and 
+
+
+
+system tracking operations reports.   
+•   Maintained and improved company’s existing J2EE application.  
+
+-­   Increased RMA management system efficiency by 75%. 
+-­   Improved advanced search capabilities for orders, products, and returns. 
+-­   Updated web pages to make them standards compliant. 
+
+ 
+
+E D U C A T I O N  
+
+University of California, Los Angeles Los Angeles, CA 
+
+

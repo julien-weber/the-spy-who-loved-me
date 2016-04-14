@@ -110,7 +110,7 @@ public class LinkedinCrawlController {
      * which are found in these pages
      */
     ClassLoader classLoader = LinkedinCrawlController.class.getClassLoader();
-    File file = new File(classLoader.getResource(inputFile).getFile());
+    File file = new File(inputFile);
     List<String> inputs = Files.readLines(file, Charsets.UTF_8);
     logger.info("Crawling " + inputs.size() + " profiles from " + file.toString());
 
