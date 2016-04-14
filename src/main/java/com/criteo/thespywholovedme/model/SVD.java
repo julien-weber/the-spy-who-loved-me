@@ -3,8 +3,11 @@ package com.criteo.thespywholovedme.model;
 import org.apache.commons.math3.linear.MatrixUtils;
 import org.apache.commons.math3.linear.RealMatrix;
 import org.apache.commons.math3.linear.SingularValueDecomposition;
+import java.util.List;
 
 public class SVD {
+	 private static RealMatrix UHalfS;
+	 
 	   public static RealMatrix getSVD(double[][] matrixData) { 
 
 	      // create M-by-N matrix
@@ -21,7 +24,7 @@ public class SVD {
 	      double[] sv = svd.getSingularValues();
 	      double[] squareSV = square(sv);
 	      RealMatrix S = convertToDiagMatrix(squareSV);
-	      RealMatrix UHalfS = svd.getU().multiply(S);
+	      UHalfS = svd.getU().multiply(S); // store
 	      RealMatrix VHalfS = svd.getV().multiply(S);
 	      return VHalfS;
 	   }
@@ -41,4 +44,12 @@ public class SVD {
 	  RealMatrix fResult = MatrixUtils.createRealMatrix(result);
 	  return fResult;
 	}
+	   
+	   
+	   public List<Double> computeUHalfs(List<Double> X) {
+		   ((RealMatrix) X).multiply(UHalfS);
+		   
+		   return null;
+		   
+	   }
 	}

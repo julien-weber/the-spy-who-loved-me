@@ -8,6 +8,7 @@ import java.util.Map;
 import org.junit.Test;
 
 public class FeatureExtractorTest {
+	private static String filePath = "src/test/resources/model/featureVectorFile";
 
     @Test
     public void testFeatureExtractor() {
@@ -42,7 +43,7 @@ public class FeatureExtractorTest {
         negResumes.add(resume3);
 
         FeatureExtractor featureExtractor = new FeatureExtractor();
-        featureExtractor.writeFeatures(dictionary, posResumes, negResumes);
+        featureExtractor.writeFeatures(filePath, dictionary, posResumes, negResumes);
 
     }
 

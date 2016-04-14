@@ -1,9 +1,9 @@
 package com.criteo.thespywholovedme.model;
 
 //import org.apache.axis.utils.StringUtils;
-import org.apache.commons.math3.linear.MatrixUtils;
+//import org.apache.commons.math3.linear.MatrixUtils;
 import org.apache.commons.math3.linear.RealMatrix;
-import org.apache.commons.math3.linear.SingularValueDecomposition;
+//import org.apache.commons.math3.linear.SingularValueDecomposition;
 
 //import org.apache.log4j.Logger;
 
@@ -18,14 +18,17 @@ import java.util.Map;
 public class FeatureExtractor {
 
     private static RealMatrix US;
-    private static String filePath = "src/test/resources/model/featureVectorFile";
+   
 
-    public void writeFeatures(List<TermIDF> dictionary, List<Map<String, Integer>> posResumes, List<Map<String, Integer>> negResumes) {
+    public void writeFeatures(String filePath,List<TermIDF> dictionary, List<Map<String, Integer>> posResumes, List<Map<String, Integer>> negResumes) {
         String[] outputStringFeatures = extractStringFeatures(dictionary, posResumes, negResumes);
 
         writetoFile(filePath, outputStringFeatures);
 
     }
+    
+    
+    
 
     public String[] extractStringFeatures(List<TermIDF> dictionary, List<Map<String, Integer>> posResumes, List<Map<String, Integer>> negResumes) {
         List<List<Double>> X1_N = extractFeatures(dictionary, posResumes, negResumes);
@@ -53,8 +56,9 @@ public class FeatureExtractor {
         return X1_N;
     }
 
-    public void writeFeatures(List<TermIDF> dictionary, Map<String, Integer> resume) {
+    public List<Double> computeSVDX(List<TermIDF> dictionary, Map<String, Integer> resume) {
         List<Double> X = extractFeatures(dictionary, resume);
+        return X;
 
     }
 
@@ -65,11 +69,11 @@ public class FeatureExtractor {
         for (TermIDF termIdf: dictionary) {
             String term = termIdf.getTerm();
             Integer count = resume.get(term);
-            double tgidf = 0;
+            double tfidf = 0;
             if (count != null) {
-                tgidf = count * termIdf.getIdf();
+                tfidf = count * termIdf.getIdf();
             }
-            X.add(tgidf);
+            X.add(tfidf);
 
         }
 
