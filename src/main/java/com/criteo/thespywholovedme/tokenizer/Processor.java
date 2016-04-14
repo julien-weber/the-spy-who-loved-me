@@ -17,6 +17,7 @@ import java.util.ArrayList;
 import java.util.Map;
 import java.util.Set;
 
+import com.criteo.thespywholovedme.model.FeatureExtractor;
 import com.criteo.thespywholovedme.model.TermIDF;
 
 public class Processor {
@@ -91,6 +92,9 @@ public class Processor {
 
 	public List<Double> GetWeight()
 	{
+		FeatureExtractor extractor = new FeatureExtractor();
+		String [] keyWords = extractor.extractStringFeatures(IDFList, positive_tokenInfoList, negative_tokenInfoList);
+
 		return null;
 	}
 
