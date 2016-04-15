@@ -41,17 +41,4 @@ public class TokenizerTest {
 		
 		System.out.println("TestTokenizer done");
 	}
-
-    @Test
-	public void TestTokenizerWithDirs() {
-
-		Processor processor = new Processor();
-		
-		String[] dirs = {"/Users/yu.li/hackathon/good", "/Users/yu.li/hackathon/bad"};
-		
-		processor.process(dirs);
-		
-		System.out.println("TestTokenizerWithDirs done");
-		return;
-	}
 }
