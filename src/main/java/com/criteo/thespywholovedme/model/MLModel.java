@@ -28,12 +28,12 @@ public class MLModel {
 		PythonInterpreter interp = new PythonInterpreter();
 		File file = new File(filePath);
 		String absPath = file.getAbsolutePath();
-		String command = " scr/main/python/script " + absPath;
+	//	String command = " src/main/python/script " + absPath;
 
 		try {
-		//	Runtime.getRuntime().exec(command);	
+			//Runtime.getRuntime().exec(command);	
 			
-		  interp.exec("src/main/python/learning_model.py learning " + absPath);
+		//  interp.exec(" python src/main/python/learning_model.py  " + absPath);
 		}
 		catch (Exception ex) {
 		  ex.printStackTrace();
