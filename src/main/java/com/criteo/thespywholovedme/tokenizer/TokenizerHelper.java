@@ -56,7 +56,7 @@ public class TokenizerHelper {
 				continue;
 			
 			String token = tks[i];
-			if (!token.equals("iis") && !token.equals("aws")) {
+			if (!techWords.contains(token)) {
 				token = EnglishNoun.singularOf(tks[i]);
 			}
 			if (!dictStopWords.contains(token))
