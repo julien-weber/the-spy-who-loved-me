@@ -3,6 +3,7 @@
 <head>
 	<style>
 		.scoreNumber{color:#2DE583}
+		#errorDiv{color:#F00}
 	</style>
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript" src="/scripts/dropzone.js"></script>
@@ -14,9 +15,10 @@
 		  var myDropzone = new Dropzone("#dropzone-form");
 		  myDropzone.on("success", function(file, response) {
 		  	if(response.error != null) {
-		    	$("#errorDiv").html("<span color='red'>There was an error:</span>" + response.error);
+		    	$("#errorDiv").html("There was an <b>ERROR:</b>" + response.error);
 		    	$("#scoreH2").empty();
             } else {
+            	
             	$("#scoreH2")
             		.append("The Score is: <span class='scoreNumber'>" + response.score +"</span>")
             		.append("<img src='images/steve.jpg'/>");

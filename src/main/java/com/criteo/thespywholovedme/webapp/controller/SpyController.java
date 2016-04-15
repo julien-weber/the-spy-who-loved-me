@@ -8,6 +8,7 @@ import java.util.Map;
 
 import javax.servlet.http.HttpServletResponse;
 
+import org.apache.commons.lang.StringUtils;
 import org.python.google.common.collect.Maps;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -58,12 +59,20 @@ public class SpyController {
 
                 response.score = prediction;
             } catch (Exception e) {
+                e.printStackTrace();
                 response.error = "You failed to upload " + uploadedFileName + " => " + e.getMessage();
             }
         } else {
             response.error = "You failed to upload " + uploadedFileName + " because the file was empty";
         }
 
+        try {
+            if (StringUtils.isBlank(response.getError())) {
+                Thread.sleep(5000);
+            }
+        } catch (InterruptedException e) {
+
+        }
         return response;
     }
 
