@@ -55,10 +55,29 @@ public class SVD {
 		   double[][] arr = convertListToArray(Xlist);
 		   
 		   RealMatrix XM = MatrixUtils.createRealMatrix(arr);
+		   
+		   double[][] xmArray = UHalfS.getData();
+		   int rows = xmArray.length;
+		   
+		   double[][] firstNArray = new double[rows][8];
+		   
+		   for ( int i = 0; i < rows; i++ ) {
+			   for ( int j = 0; j < 8; j++) {
+				   firstNArray[i][j] = xmArray[i][j];  
+			   }
+			   
+		   }
+		   XM = MatrixUtils.createRealMatrix(firstNArray);
+		   
+		   
 		   XM.multiply(UHalfS);
 		   
-		   return null;
-		   
+		   double[] result = XM.getRow(0);
+		   List<Double> resultList = new ArrayList<Double>();
+		   for (int i = 0; i < result.length; i++) {
+			   resultList.add(result[i]);
+		   }
+		   return resultList;		   
 	   }
 	   
 	   public static double[][] convertListToArray(List<List<Double>> xnlist) {
