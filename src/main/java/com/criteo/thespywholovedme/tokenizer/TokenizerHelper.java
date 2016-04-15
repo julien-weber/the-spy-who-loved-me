@@ -43,7 +43,7 @@ public class TokenizerHelper {
 				Normalizer.Form.NFD);
 		//normalizedInput = normalizePattern.matcher(normalizedInput).replaceAll("");
 
-		normalizedInput = input.toLowerCase().trim().replaceAll("[^0-9a-z#+\\s('s)]", " ");
+		normalizedInput = input.toLowerCase().trim().replaceAll("[^0-9a-z#+\\s('s)]", " ").replaceAll("[()]", " ");
 		String[] tks = normalizedInput.split("(\\s)+");
 		
 		Set<String> acceptedTokens = new HashSet<String>();
@@ -55,12 +55,10 @@ public class TokenizerHelper {
 			if (!tks[i].matches(".*[a-zA-Z]+.*"))
 				continue;
 			
-			String token = tks[i];
-			if (!techWords.contains(token)) {
-				token = EnglishNoun.singularOf(tks[i]);
-			}
-			if (!dictStopWords.contains(token))
+			if (!dictStopWords.contains(tks[i])) {
+				String token = EnglishNoun.singularOf(tks[i]);
 				acceptedTokens.add(token);
+			}
 		}
 
 		return acceptedTokens;

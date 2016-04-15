@@ -39,7 +39,7 @@ public class TokenizerTest {
 
 		processor.process(positive, negative);
 		
-		System.out.println("Done");
+		System.out.println("TestTokenizer done");
 	}
 
     @Test
@@ -51,7 +51,7 @@ public class TokenizerTest {
 		
 		processor.process(dirs);
 		
-		System.out.println("Done");
+		System.out.println("TestTokenizerWithDirs done");
 		return;
 	}
 }
