@@ -60,6 +60,8 @@ public class Processor {
 
 		computeIDF();
 
+		MLModel.createModel(IDFList, positive_tokenInfoList, negative_tokenInfoList);
+		
 		System.out.println();
 		outputResumeTokenInfo();
 	}
@@ -92,12 +94,6 @@ public class Processor {
 		outputResumeTokenInfo();
 	}
 
-	public List<Double> GetWeight()
-	{
-		MLModel.createModel(IDFList, positive_tokenInfoList, negative_tokenInfoList);
-		return MLModel.getWeightVector();
-	}
-
 	public List<Double> GetXWithTfIdf(File resumeFile)
 	{
 		return null;
@@ -108,21 +104,21 @@ public class Processor {
 			double idf = Math.log(resumeCount / dictionary.get(key));
 			dictionaryIDF.put(key, idf);
 			IDFList.add(new TermIDF(key, idf));
-			System.out.println(key + ": " + dictionaryIDF.get(key));
+			//System.out.println(key + ": " + dictionaryIDF.get(key));
 		}
 	}
 
 	void outputResumeTokenInfo() {
 		for (Map<String, Integer> tokenInfo: positive_tokenInfoList) {
 			for (String token : tokenInfo.keySet()) {
-				System.out.println(token + ": " + tokenInfo.get(token));
+				//System.out.println(token + ": " + tokenInfo.get(token));
 			}
 			System.out.println();
 		}
 
 		for (Map<String, Integer> tokenInfo: negative_tokenInfoList) {
 			for (String token : tokenInfo.keySet()) {
-				System.out.println(token + ": " + tokenInfo.get(token));
+				//System.out.println(token + ": " + tokenInfo.get(token));
 			}
 			System.out.println();
 		}

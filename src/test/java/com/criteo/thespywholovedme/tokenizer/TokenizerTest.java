@@ -22,30 +22,24 @@ public class TokenizerTest {
 		List<File> positive = new LinkedList<File>();
 		List<File> negative = new LinkedList<File>();
 		
-		try {
-			URL url = getClass().getResource("src/test/resources/txts/negative");
-			if (url != null) {
-				File dir = new File(url.toURI());
-				for (File nextFile : dir.listFiles()) {
-					positive.add(nextFile);
-				}
-			}
+		File positivResumesTxt = new File("src/test/resources/txts/positive");
 
-			url = getClass().getResource("src/test/resources/txts/negative");
-			if (url != null) {
-				File dir = new File(url.toURI());
-				for (File nextFile : dir.listFiles()) {
-					negative.add(nextFile);
-				}
+		if (positivResumesTxt.isDirectory()) {
+			for (File nextFile : positivResumesTxt.listFiles()) {
+				positive.add(nextFile);
 			}
-		} catch (URISyntaxException ex) {
-			ex.printStackTrace();
-		}	
-		
+		}
+
+		File negativeResumesTxt = new File("src/test/resources/txts/negative");
+		if (negativeResumesTxt.isDirectory()) {
+			for (File nextFile : negativeResumesTxt.listFiles()) {
+				negative.add(nextFile);
+			}
+		}
+
 		processor.process(positive, negative);
 		
 		System.out.println("Done");
-		return;
 	}
 
     @Test

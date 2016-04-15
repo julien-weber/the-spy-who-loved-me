@@ -47,7 +47,10 @@ public class TokenizerHelper {
 			if (!tks[i].matches(".*[a-zA-Z]+.*"))
 				continue;
 			
-			String token = EnglishNoun.singularOf(tks[i]);
+			String token = tks[i];
+			if (!token.equals("iis") && !token.equals("aws")) {
+				token = EnglishNoun.singularOf(tks[i]);
+			}
 			if (!dictStopWords.contains(token))
 				acceptedTokens.add(token);
 		}
