@@ -44,7 +44,6 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>${spring.version}</version>
             <exclusions>
                 <exclusion>
                     <groupId>commons-logging</groupId>
@@ -56,33 +55,27 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
             <scope>test</scope>
-            <version>${spring.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>${spring.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context-support</artifactId>
-            <version>${spring.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-aop</artifactId>
-            <version>${spring.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-aspects</artifactId>
-            <version>${spring.version}</version>
         </dependency>
 
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
-            <version>${slf4j.version}</version>
         </dependency>
         <!--dependency>
             <groupId>ch.qos.logback</groupId>
@@ -123,7 +116,6 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <scope>test</scope>
-            <version>4.12</version>
         </dependency>
         <dependency>
             <groupId>org.mockito</groupId>
@@ -148,7 +140,6 @@
         <dependency>
             <groupId>com.googlecode.json-simple</groupId>
             <artifactId>json-simple</artifactId>
-            <version>1.1.1</version>
         </dependency>
         <dependency>
             <groupId>edu.uci.ics</groupId>
@@ -175,10 +166,9 @@
             <artifactId>commons-cli</artifactId>
             <version>1.2</version>
         </dependency>
-<dependency>
+        <dependency>
             	<groupId>org.json</groupId>
             	<artifactId>json</artifactId>
-            	<version>20090211</version>
             </dependency>
             <dependency>
                 <groupId>org.jsoup</groupId>
@@ -232,10 +222,12 @@
                                 <!-- <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                         <manifestEntries> <Main-Class>${app.main.class}</Main-Class> </manifestEntries>
                         </transformer> -->
-                                <!-- <transformer implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
-                        <resource>META-INF/spring.handlers</resource> </transformer> <transformer
-                        implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
-                        <resource>META-INF/spring.schemas</resource> </transformer> -->
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
+                                    <resource>META-INF/spring.handlers</resource> 
+                                </transformer> 
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
+                                    <resource>META-INF/spring.schemas</resource> 
+                                </transformer>
                             </transformers>
                             <filters>
                                 <filter>
@@ -245,6 +237,9 @@
                                         <exclude>META-INF/*.DSA</exclude>
                                         <exclude>META-INF/*.RSA</exclude>
                                     </excludes>
+                                </filter>
+                                <filter>
+                                    <artifact></artifact>
                                 </filter>
                             </filters>
                         </configuration>
