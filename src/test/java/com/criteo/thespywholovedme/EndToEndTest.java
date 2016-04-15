@@ -1,14 +1,10 @@
 package com.criteo.thespywholovedme;
 
 import java.io.File;
-import java.nio.file.Path;
-import java.util.Arrays;
 import java.util.List;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.filefilter.FileFilterUtils;
-import org.apache.commons.io.filefilter.IOFileFilter;
-import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;
 import org.slf4j.Logger;
@@ -16,7 +12,6 @@ import org.slf4j.LoggerFactory;
 
 import com.criteo.thespywholovedme.model.MLModel;
 import com.criteo.thespywholovedme.prediction.Prediction;
-import com.criteo.thespywholovedme.prediction.PredictionTest;
 import com.criteo.thespywholovedme.tokenizer.Processor;
 import com.criteo.thespywholovedme.tools.PdfToTextService;
 import com.google.common.collect.Lists;
@@ -25,9 +20,7 @@ public class EndToEndTest {
 
     static Logger log = LoggerFactory.getLogger(EndToEndTest.class);
 
-    @Test
-    @Ignore
-    public void training() {
+    public Processor training() {
 
         String goodResumesPath = "profiles_hired_output";
         List<File> goodResumesInText = Lists.newArrayList(FileUtils.listFiles(new File(goodResumesPath), FileFilterUtils.trueFileFilter(), FileFilterUtils.directoryFileFilter()));
@@ -39,10 +32,11 @@ public class EndToEndTest {
         Processor processor = new Processor();
         processor.process(goodResumesInText, badResumesInText);
 
+        return processor;
     }
 
     @Test
-    public void PredictTest() {
+    public void predictTest() {
         // String resumeToPredictStr = "target/txts/JonWuTechResume.pdf";
         String resumeToPredictStr = "src/test/resources/pdfs/JonWuTechResume.pdf";
 
@@ -52,7 +46,7 @@ public class EndToEndTest {
         List<File> convertedResumes = pdfToTextService.convert(resumeToPredict);
         File convertedResume = convertedResumes.get(0);
 
-        Processor processor = new Processor();
+        Processor processor = training();
         // List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
         List<Double> weight = MLModel.getWeightVector();
 
