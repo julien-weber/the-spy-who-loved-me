@@ -4,6 +4,7 @@ import org.apache.commons.math3.linear.MatrixUtils;
 import org.apache.commons.math3.linear.RealMatrix;
 import org.apache.commons.math3.linear.SingularValueDecomposition;
 import java.util.List;
+import java.util.ArrayList;
 
 public class SVD {
 	 private static RealMatrix UHalfS;
@@ -46,10 +47,29 @@ public class SVD {
 	}
 	   
 	   
-	   public List<Double> computeUHalfs(List<Double> X) {
-		   ((RealMatrix) X).multiply(UHalfS);
+	   public static List<Double> computeUHalfs(List<Double> X) {
+		   List<List<Double>> Xlist = new ArrayList<List<Double>>();
+		   Xlist.add(X);
+		   
+		   double[][] arr = convertListToArray(Xlist);
+		   
+		   RealMatrix XM = MatrixUtils.createRealMatrix(arr);
+		   XM.multiply(UHalfS);
 		   
 		   return null;
 		   
 	   }
+	   
+	   public static double[][] convertListToArray(List<List<Double>> xnlist) {
+
+	        int rowSize = xnlist.size();
+	        int colSize = xnlist.get(0).size();
+	        double[][] arr = new double[rowSize][colSize];
+	        for (int i = 0; i < rowSize; i++) {
+	            for (int j = 0; j < colSize; j++) {
+	                arr[i][j] = xnlist.get(i).get(j);
+	            }
+	        }
+	        return arr;
+	    }
 	}

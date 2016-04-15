@@ -16,8 +16,6 @@ import java.util.List;
 import java.util.Map;
 
 public class FeatureExtractor {
-
-    private static RealMatrix US;
    
 
     public void writeFeatures(String filePath,List<TermIDF> dictionary, List<Map<String, Integer>> posResumes, List<Map<String, Integer>> negResumes) {
@@ -27,12 +25,16 @@ public class FeatureExtractor {
 
     }
     
+    public List<Double> getSVDX(List<TermIDF> dictionary, Map<String, Integer> resume) {
+        List<Double> X = extractFeatures(dictionary, resume);
+        return SVD.computeUHalfs(X);
+    }
     
     
 
     public String[] extractStringFeatures(List<TermIDF> dictionary, List<Map<String, Integer>> posResumes, List<Map<String, Integer>> negResumes) {
         List<List<Double>> X1_N = extractFeatures(dictionary, posResumes, negResumes);
-        double[][] array = convertListToArray(X1_N);
+        double[][] array = SVD.convertListToArray(X1_N);
         RealMatrix vU = SVD.getSVD(array);
 
         return getFeatureString(vU, posResumes.size());
@@ -56,11 +58,7 @@ public class FeatureExtractor {
         return X1_N;
     }
 
-    public List<Double> computeSVDX(List<TermIDF> dictionary, Map<String, Integer> resume) {
-        List<Double> X = extractFeatures(dictionary, resume);
-        return X;
-
-    }
+ 
 
     public List<Double> extractFeatures(List<TermIDF> dictionary, Map<String, Integer> resume) {
 
@@ -81,18 +79,7 @@ public class FeatureExtractor {
 
     }
 
-    private double[][] convertListToArray(List<List<Double>> xnlist) {
-
-        int rowSize = xnlist.size();
-        int colSize = xnlist.get(0).size();
-        double[][] arr = new double[rowSize][colSize];
-        for (int i = 0; i < rowSize; i++) {
-            for (int j = 0; j < colSize; j++) {
-                arr[i][j] = xnlist.get(i).get(j);
-            }
-        }
-        return arr;
-    }
+    
     /*
      * private RealMatrix SVD(double[][] matrixData) { // double[][] matrixData
      * = { {1d,2d,3d}, {2d,5d,3d}}; RealMatrix m =

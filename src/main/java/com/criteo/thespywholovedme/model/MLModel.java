@@ -11,9 +11,13 @@ import java.util.Map;
 public class MLModel {
 	private static String filePath = "src/test/resources/model/featureVectorFile";
 	
-	public void createModel(List<TermIDF> dictionary, List<Map<String, Integer>> posResumes, List<Map<String, Integer>> negResumes) {
+	private static List<Double> weightVector;
+	private static List<TermIDF> masterDictionary;
+	
+	public static void createModel(List<TermIDF> dictionary, List<Map<String, Integer>> posResumes, List<Map<String, Integer>> negResumes) {
 		FeatureExtractor featureExtractor = new FeatureExtractor();
 		featureExtractor.writeFeatures(filePath, dictionary, posResumes, negResumes);
+		masterDictionary = dictionary;
 		
 		PythonInterpreter interp = new PythonInterpreter();
 		try {
@@ -22,9 +26,18 @@ public class MLModel {
 		catch (Exception ex) {
 		  ex.printStackTrace();
 		}
+				
+	}
+	
+	
+	public static List<Double> getSVDX(Map<String, Integer> resume) {
+		FeatureExtractor featureExtractor = new FeatureExtractor();
+		return featureExtractor.getSVDX(masterDictionary, resume);
 		
-		
-		
+	}
+	
+	public static List<Double> getWeightVector() {
+		return weightVector;
 		
 	}
 
