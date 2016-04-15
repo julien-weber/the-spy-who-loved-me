@@ -4,6 +4,8 @@ import java.text.Normalizer;
 import java.util.*;
 import java.util.regex.Pattern;
 
+import org.apache.commons.lang.NumberUtils;
+
 public class TokenizerHelper {
 
 	static Set<String> dictStopWords;
@@ -25,28 +27,29 @@ public class TokenizerHelper {
 	private static final Pattern normalizePattern = Pattern.compile("\\p{InCombiningDiacriticalMarks}+");
 	private static int nMaxToken = 15;
 
-	public final static Set<String> tokenize(String input) {
+	public final static Set<String> tokenize(String input) {		
 		if (input.isEmpty())
 			return null;
-		
-		//String normalizedInput = Normalizer.normalize(input,
-		//		Normalizer.Form.NFD);
-		//normalizedInput = normalizePattern.matcher(normalizedInput).replaceAll(
-		//		"");
-		//String strs = normalizedInput.toLowerCase().trim()
-		//		.replaceAll("[^0-9a-z\\s]", "").replaceAll("\\d+", " number ");
+				
+		String normalizedInput = Normalizer.normalize(input,
+				Normalizer.Form.NFD);
+		//normalizedInput = normalizePattern.matcher(normalizedInput).replaceAll("");
 
-		String normalizedInput = input.toLowerCase().trim().replaceAll("[^0-9a-z#+\\s]", " ").replaceAll("\\d+", " number ");
+		normalizedInput = input.toLowerCase().trim().replaceAll("[^0-9a-z#+\\s('s)]", " ");
 		String[] tks = normalizedInput.split("(\\s)+");
-
+		
 		Set<String> acceptedTokens = new HashSet<String>();
 		for (int i=0; i<tks.length; i++) {
 			// ignore empty string or single character token
 			if (tks[i].length() < 2)
 				continue;
 			
-			if (!dictStopWords.contains(tks[i]))
-				acceptedTokens.add(tks[i]);
+			if (!tks[i].matches(".*[a-zA-Z]+.*"))
+				continue;
+			
+			String token = EnglishNoun.singularOf(tks[i]);
+			if (!dictStopWords.contains(token))
+				acceptedTokens.add(token);
 		}
 
 		return acceptedTokens;
