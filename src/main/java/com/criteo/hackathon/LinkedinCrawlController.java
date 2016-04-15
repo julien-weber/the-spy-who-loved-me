@@ -1,5 +1,6 @@
 package com.criteo.hackathon;
 
+import com.criteo.hackathon.utils.ArgumentsParser;
 import com.google.common.base.Charsets;
 import com.google.common.io.Files;
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
@@ -17,21 +18,20 @@ import java.util.List;
 public class LinkedinCrawlController {
   private static final Logger logger = LoggerFactory.getLogger(LinkedinCrawlController.class);
   private static String inputFile;
+  private static String inputUrl;
 
   private static int NUM_CRAWLER = 10;
 
   public static void main(String[] args) throws Exception {
-    if (args.length != 2) {
-      logger.info("Needed parameters: ");
-      logger.info("\t the input file containing the linkedin urls, under the current user dir.");
-      logger.info("\t the output dir for the results");
-      return;
-    }
+
+    ArgumentsParser parser = new ArgumentsParser(args);
 
     // inputFile should be relative to project folder
-    inputFile = args[0];
+    inputFile = parser.getInputFile();
+    inputUrl = parser.getInputUrl();
+
     // outputdir should be relative to project folder
-    LinkedinCrawler.setOutputDir(args[1]);
+    LinkedinCrawler.setOutputDir(parser.getOutputDir());
 
     /*
      * crawlStorageFolder is a folder where intermediate crawl data is
@@ -110,18 +110,27 @@ public class LinkedinCrawlController {
      * which are found in these pages
      */
     ClassLoader classLoader = LinkedinCrawlController.class.getClassLoader();
-    File file = new File(inputFile);
-    List<String> inputs = Files.readLines(file, Charsets.UTF_8);
-    logger.info("Crawling " + inputs.size() + " profiles from " + file.toString());
 
-    for (String input : inputs) {
-      int pos = input.indexOf("linkedin.com");
-      controller.addSeed("https://www."+input.substring(pos));
+    if (null != inputFile) {
+      File file = new File(inputFile);
+      List<String> inputs = Files.readLines(file, Charsets.UTF_8);
+      logger.info("Crawling " + inputs.size() + " profiles from " + file.toString());
+
+      for (String input : inputs) {
+        int pos = input.indexOf("linkedin.com");
+        controller.addSeed("https://www." + input.substring(pos));
+      }
+    }
+
+    if (null != inputUrl) {
+      controller.addSeed(inputUrl);
+      logger.info("Crawling the profile from " + inputUrl);
     }
     /*
      * Start the crawl. This is a blocking operation, meaning that your code
      * will reach the line after this only when crawling is finished.
      */
     controller.start(LinkedinCrawler.class, numberOfCrawlers);
+
   }
 }
