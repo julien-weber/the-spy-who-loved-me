@@ -15,6 +15,7 @@ public class SVD {
 	   
 	  //double[][] matrixData = { {1d,2d,3d,4d}, {2d,5d,3d,5d}};
 	  RealMatrix m = MatrixUtils.createRealMatrix(matrixData);
+	  m = m.transpose();
 	  System.out.println(m.getColumnDimension());
 	  System.out.println(m.getRowDimension());
 	  SingularValueDecomposition svd = new SingularValueDecomposition(m);
