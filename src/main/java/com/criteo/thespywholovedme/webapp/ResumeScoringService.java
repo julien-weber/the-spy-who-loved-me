@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import com.criteo.thespywholovedme.tools.PdfToTextService;
 
 @Service
-public class ResumePredictionService {
+public class ResumeScoringService {
 
     @Autowired
     private PdfToTextService pdfToTextService;

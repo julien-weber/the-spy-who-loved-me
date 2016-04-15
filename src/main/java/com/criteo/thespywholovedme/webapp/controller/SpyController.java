@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.criteo.thespywholovedme.webapp.ResumePredictionService;
+import com.criteo.thespywholovedme.webapp.ResumeScoringService;
 
 @Controller
 public class SpyController {
@@ -31,7 +31,7 @@ public class SpyController {
     private String uploadDirectory;
 
     @Autowired
-    private ResumePredictionService resumePredictionService;
+    private ResumeScoringService resumePredictionService;
 
     @RequestMapping("/")
     public String home() {
