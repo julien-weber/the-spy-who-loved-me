@@ -26,6 +26,7 @@ public class EndToEndTest {
     static Logger log = LoggerFactory.getLogger(EndToEndTest.class);
 
     @Test
+    @Ignore
     public void training() {
 
         String goodResumesPath = "profiles_hired_output";
