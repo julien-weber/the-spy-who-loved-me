@@ -10,22 +10,39 @@
 	<script type="text/javascript">
 		Dropzone.autoDiscover = false;
 		$(function() {
+			$("#loading").hide();
 		  // Now that the DOM is fully loaded, create the dropzone, and setup the
 		  // event listeners
 		  var myDropzone = new Dropzone("#dropzone-form");
+		  myDropzone.on("sending", function(){
+		  	$("#loading").show();
+		  });
+		  myDropzone.on("complete", function(){
+		  	$("#loading").hide();
+		  });
 		  myDropzone.on("success", function(file, response) {
 		  	if(response.error != null) {
 		    	$("#errorDiv").html("There was an <b>ERROR:</b>" + response.error);
 		    	$("#scoreH2").empty();
             } else {
-            	
-            	$("#scoreH2")
-            		.append("The Score is: <span class='scoreNumber'>" + response.score +"</span>")
-            		.append("<img src='images/steve.jpg'/>");
+            	showScore(response.score);
             	$("#errorDiv").empty();
             }
 		  });
 		})
+		
+		function showScore(score) {
+			var image = '';
+			if(score >= 0.9) {
+				image = 'steve.jpg';
+			} else {
+				image = 'jarjar.png';
+			}
+			
+			$("#scoreH2")
+            		.append("The Score is: <span class='scoreNumber'>" + score +"</span>")
+            		.append("<img src='images/"+image+"'/>");
+		}
 	</script>
 	<link rel="stylesheet" href="/scripts/dropzone.css">
 </head>
@@ -33,7 +50,7 @@
 	<h1>ISpy</h1>
 	<div id="errorDiv"></div>
 	<h2 id="scoreH2"></h2>
-	
+	<img id="loading" style="hidden" src="images/hex-loader2.gif" />
 	<div>
 		<form id="dropzone-form" method="POST" enctype="multipart/form-data" action="/upload" class="dropzone">
 			
