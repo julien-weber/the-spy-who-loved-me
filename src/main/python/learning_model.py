@@ -2,7 +2,6 @@ import pandas as pd
 import statsmodels.api as sm
 import numpy as np
 
-def learning (filename):
   data = np.loadtxt(filename, delimiter=',')
   [nRow,nCol] = data.shape
   data_train = data[:,0:nCol-2]
