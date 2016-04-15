@@ -29,8 +29,8 @@ import com.criteo.thespywholovedme.model.TermIDF;
 public class Processor {
 	private static String xhackfile = "src/test/resources/model/xhack";
 
-	private Set<String> uniqueWords = new HashSet<>();
-	private Map<String, Integer> dictionary = new HashMap<>();
+	Set<String> uniqueWords = new HashSet<>();
+	Map<String, Integer> dictionary = new HashMap<>();
 
 	private Map<String, Double> dictionaryIDF = new HashMap<>();
 	private int resumeCount = 0;
