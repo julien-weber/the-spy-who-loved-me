@@ -20,7 +20,9 @@ public class EndToEndTest {
 
     static Logger log = LoggerFactory.getLogger(EndToEndTest.class);
 
-    public Processor training() {
+    @Test
+    @Ignore
+    public void training() {
 
         String goodResumesPath = "profiles_hired_output";
         List<File> goodResumesInText = Lists.newArrayList(FileUtils.listFiles(new File(goodResumesPath), FileFilterUtils.trueFileFilter(), FileFilterUtils.directoryFileFilter()));
@@ -32,7 +34,7 @@ public class EndToEndTest {
         Processor processor = new Processor();
         processor.process(goodResumesInText, badResumesInText);
 
-        return processor;
+        // return processor;
     }
 
     @Test
@@ -46,7 +48,7 @@ public class EndToEndTest {
         List<File> convertedResumes = pdfToTextService.convert(resumeToPredict);
         File convertedResume = convertedResumes.get(0);
 
-        Processor processor = training();
+        Processor processor = new Processor();// training();
         // List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
         List<Double> weight = MLModel.getWeightVector();
 

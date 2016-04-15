@@ -30,8 +30,11 @@ public class SVD {
         double[] sv = svd.getSingularValues();
         double[] squareSV = square(sv);
         RealMatrix S = convertToDiagMatrix(squareSV);
-        UHalfS = svd.getU().multiply(S); // store
+        UHalfS = svd.getU().multiply(S);
+
+        // store
         DictionaryHelper.saveMatrix(UHalfS, UHALFS_PATH);
+
         RealMatrix VHalfS = svd.getV().multiply(S);
         return VHalfS;
     }

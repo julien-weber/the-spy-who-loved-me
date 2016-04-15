@@ -67,17 +67,8 @@ public class SpyApplication {
 
     @Bean
     public Processor processor() {
-        String goodResumesPath = "profiles_hired_output";
-        List<File> goodResumesInText = Lists.newArrayList(FileUtils.listFiles(new File(goodResumesPath), FileFilterUtils.trueFileFilter(), FileFilterUtils.directoryFileFilter()));
 
-        String badResumesPath = "profiles_rejected_output";
-        List<File> badResumesInText = Lists.newArrayList(FileUtils.listFiles(new File(badResumesPath), FileFilterUtils.trueFileFilter(), FileFilterUtils.directoryFileFilter()));
-
-        // 2. Tokenizer + ML
-        Processor processor = new Processor();
-        processor.process(goodResumesInText, badResumesInText);
-
-        return processor;
+        return new Processor();
     }
 
     @Bean
