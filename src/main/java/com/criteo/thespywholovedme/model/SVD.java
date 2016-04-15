@@ -82,7 +82,7 @@ public class SVD {
 
         RealMatrix localUHalfS = MatrixUtils.createRealMatrix(firstNArray);
 
-        XM.multiply(localUHalfS);
+        XM = XM.multiply(localUHalfS);
 
         double[] result = XM.getRow(0);
         List<Double> resultList = new ArrayList<Double>();

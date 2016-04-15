@@ -33,7 +33,7 @@ public class Prediction {
         for (int ii = 0; ii < weight.size(); ++ii) {
             score += weight.get(ii) * XWithTfIdf.get(ii);
         }
-        double finalScore = 1 / (1 + Math.exp(-1.0 * score));
+        double finalScore = 1.0 / (1.0 + Math.exp(-1.0 * score));
         log.info("the final score is " + finalScore);
         return finalScore;
     }
