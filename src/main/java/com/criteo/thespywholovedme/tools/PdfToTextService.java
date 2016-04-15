@@ -85,6 +85,13 @@ public class PdfToTextService {
     			.replaceAll("Damien Lefortier.*", "")
     			.replaceAll("E-mail.*\\n.*87", "")
     			.replaceAll("Szehon Ho.*\\n.*\\n.*\\n.*\\n.*9961", "")
-    			.replaceAll("Yoann Aubineau\\n.*\\n.*\\n.*gmail\\.com", "");
+    			.replaceAll("Yoann Aubineau\\n.*\\n.*\\n.*gmail\\.com", "")
+    			.replaceAll("Contacts.*\\n.*\\n.*\\n.*\\n.*\\n.*\\n.*41", "")
+    			.replaceAll("Lucas Bruand", "")
+    			.replaceAll(".*P. Moutoussamy.*", "")
+    			.replaceAll("20 ann.*\\n.*gmail\\.com", "")
+    			.replaceAll("François PAYS.*\\n.*\\n.*\\n.*\\n.*\\n.*nationality", "")
+    			.replaceAll("Guillaume Lemoine.*\\n.*France", "")
+    			.replaceAll(".*Philippe.*BRIEND.*\\n.*\\n.*\\n.*\\n.*\\n.*gmail\\.com", "");
     }
 }
