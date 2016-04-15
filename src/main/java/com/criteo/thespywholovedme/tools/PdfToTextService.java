@@ -67,7 +67,7 @@ public class PdfToTextService {
 
             parser.parse(input, handler, metadata, parseContext);
             File outputFile = new File(outputDirectory, FilenameUtils.getBaseName(pdfFile.getName()) + ".txt");
-            FileUtils.write(outputFile, handler.toString(), "UTF-8");
+            FileUtils.write(outputFile, makeAnonymous(handler.toString()), "UTF-8");
             System.out.println("Created: [" + outputFile.getAbsolutePath() + "]");
 
             return outputFile;
@@ -75,5 +75,16 @@ public class PdfToTextService {
             throw new RuntimeException("Error converting pdf file [" + pdfFile.getAbsolutePath() + "]", e);
         }
 
+    }
+    
+    private String makeAnonymous(String initial) {
+    	return initial
+    			.replaceAll("Benoit DELAYEN.*\\n.*\\n.*\\n.*free\\.fr", "")
+    			.replaceAll("Elena Smirnova.*\\n.*\\n.*\\n.*2075", "")
+    			.replaceAll("Guillaume Bort.*\\n.*\\n.*bort\\.fr", "")
+    			.replaceAll("Damien Lefortier.*", "")
+    			.replaceAll("E-mail.*\\n.*87", "")
+    			.replaceAll("Szehon Ho.*\\n.*\\n.*\\n.*\\n.*9961", "")
+    			.replaceAll("Yoann Aubineau\\n.*\\n.*\\n.*gmail\\.com", "");
     }
 }

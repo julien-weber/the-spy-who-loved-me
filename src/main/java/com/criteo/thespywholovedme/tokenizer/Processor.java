@@ -96,6 +96,8 @@ public class Processor {
 		System.out.println("size of dictionary: " + dictionary.size());
 		computeIDF();
 		outputResumeTokenInfo();
+		System.out.println("tokenization done");
+		
 		MLModel.createModel(IDFList, positive_tokenInfoList, negative_tokenInfoList);
 	}
 	
@@ -113,14 +115,12 @@ public class Processor {
 			for (String token : tokenInfo.keySet()) {
 				//System.out.println(token + ": " + tokenInfo.get(token));
 			}
-			System.out.println();
 		}
 
 		for (Map<String, Integer> tokenInfo: negative_tokenInfoList) {
 			for (String token : tokenInfo.keySet()) {
 				//System.out.println(token + ": " + tokenInfo.get(token));
 			}
-			System.out.println();
 		}
 	}
 

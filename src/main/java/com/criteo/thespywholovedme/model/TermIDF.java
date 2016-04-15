@@ -25,5 +25,16 @@ public  class TermIDF {
     public Double getIdf() {
         return idf;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (!(obj instanceof TermIDF))
+            return false;
+        if (obj == this)
+            return true;
+  
+        TermIDF rhs = (TermIDF) obj;
+        return term.equals(rhs.getTerm()) && idf == rhs.getIdf();
+    }
 }
 

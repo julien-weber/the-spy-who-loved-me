@@ -3,6 +3,7 @@ package com.criteo.thespywholovedme.webapp.controller;
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
+import java.io.InputStream;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletResponse;
@@ -42,24 +43,25 @@ public class SpyController {
     }
 
     @RequestMapping(method = RequestMethod.POST, value = "/upload")
-    public @ResponseBody ResponseMessage handlePdfUpload(@RequestParam("file") MultipartFile file, RedirectAttributes redirectAttributes) {
-        String name = file.getOriginalFilename();
+    public @ResponseBody ResponseMessage handlePdfUpload(@RequestParam("file") MultipartFile uploadedFile, RedirectAttributes redirectAttributes) {
+        String uploadedFileName = uploadedFile.getOriginalFilename();
         ResponseMessage response = new ResponseMessage();
-        if (!file.isEmpty()) {
+        if (!uploadedFile.isEmpty()) {
             try {
-                File uploadedPdf = new File(uploadDirectory + "/" + name);
-                BufferedOutputStream stream = new BufferedOutputStream(new FileOutputStream(uploadedPdf));
-                FileCopyUtils.copy(file.getInputStream(), stream);
-                stream.close();
-
+                File uploadedPdf = new File(uploadDirectory + "/" + uploadedFileName);
+                try (InputStream input = uploadedFile.getInputStream()) {
+                    try (BufferedOutputStream stream = new BufferedOutputStream(new FileOutputStream(uploadedPdf))) {
+                        FileCopyUtils.copy(uploadedFile.getInputStream(), stream);
+                    }
+                }
                 Double prediction = resumePredictionService.runPredictionForFile(uploadedPdf);
 
                 response.score = prediction;
             } catch (Exception e) {
-                response.error = "You failed to upload " + name + " => " + e.getMessage();
+                response.error = "You failed to upload " + uploadedFileName + " => " + e.getMessage();
             }
         } else {
-            response.error = "You failed to upload " + name + " because the file was empty";
+            response.error = "You failed to upload " + uploadedFileName + " because the file was empty";
         }
 
         return response;
