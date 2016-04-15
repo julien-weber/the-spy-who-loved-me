@@ -1,0 +1,70 @@
+
+Madhok G Shivaratre 
+Ph: (408) 718­4176  
+Email Id:​ ​madhokgs@gmail.com             LinkedIn Profile: ​www.linkedin.com/pub/madhok­shivaratre/5/69b/a58/ 
+ 
+Profile: 
+Software Engineer with 10 years of experience in software design, development and test. Areas of expertise include                                 
+Big Data, client­ server applications, desktop applications and user interface design. 
+ 
+Education: 
+Master of Science​ in Software Engineering 
+School​: Carnegie Mellon University, Silicon Valley Campus, CA, USA.  ​Dates Attended​: Aug 2012 ­ Aug 2013 
+ 
+Bachelor of Engineering​ in Electrical & Electronics  
+School​: R.V College of Engineering, Bangalore, India.  ​Dates Attended​: Oct 2000 ­ Jun 2004 
+ 
+Technical Expertise:  
+Languages: ​C++, ​Java, C, Python, ​HTML, CSS, JavaScript 
+Methodologies:​ Scrum, Extreme Programming (XP) and the other agile methodologies  
+ 
+Professional Experience: 
+Senior Data Engineer, Quixey Inc                                    ​Sept 2015 ­ Present 
+● Design and develop data infrastructure software for analytics and data science 
+● Ensure data quality and compatibility for key business intelligence and search relevance metrics 
+● Developed Spark jobs, Kafka producer/consumer; Worked extensively on AWS platform and Jenkins  
+ 
+Senior Research and Design Engineer, Synopsys        ​Sept 2013 ­ Sept 2015 
+● Specification, design Implementation and validation of Diagnosis software 
+● Enhancing, fixing bugs/defects and improve run­time performance of the ATPG and Diagnosis tools 
+● Design and Development of automation tool to run the ATPG tool on huge test cases  
+ 
+Research Assistant,​ ​Carnegie Mellon University        ​Sep 2012 – Aug 2013 
+● Developed Android application for collecting, analyzing and visualizing real time sensor network data. 
+● Designed and developed IOS application for real time analysis of Big Data.  
+ 
+Senior Software Engineer,​ ​Wyse Technologies (Acquired by Dell)        ​Sep 2010 – Aug 2012 
+● Worked on client server architecture and implemented secure Https based communications, multi threading,                         
+
+socket programming, memory management, GUI development and other new features including bugs/defects                       
+fixing in Thin Client management software 
+
+● Designed and implemented USB Firmware Tool for imaging Thin Clients 
+● Implemented OS Imaging of size greater than 4 GB 
+ 
+Senior Software Engineer,​ ​Horner Engineering​ ​APG          ​Feb 2009 – Sep 2010 
+● Design and development of OCS Management Software, calibrating software  
+● Implemented multi­threading, socket programming, TCP/IP communications in OCS Management Software and                     
+
+Envision Software 
+ 
+Software Engineer,​ ​Larsen and Toubro, Embedded Systems and Software         ​May 2005 – Jan 2009 
+● Developed applications, which configure and control motor control devices using serial communication 
+● Designed and developed Verification and Validation tool for automotive systems, Windows driver for USB                           
+
+printers, and application automating Bench level and End of line testing in manufacturing units 
+ 
+
+Awards 
+● “Thank you” award for year 2011­2012 from Wyse technologies for enhancing features and optimizing WDM                             
+
+software. 
+ 
+Interests 
+● Volunteered for teaching underprivileged children at “Dream a dream” non­profitable organization.  
+
+
+
+
+
+

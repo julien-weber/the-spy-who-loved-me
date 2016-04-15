@@ -1,0 +1,200 @@
+
+Curriculum Vitae
+
+Gabriel Guernik
+
+___________________________________________________________________
+
+
+Personal Details
+
+
+Name:			Gabriel Alfredo Guernik
+
+
+Address:		Pueyrredón 391 4º 21
+
+			Ciudad Autónoma de Buenos Aires
+
+			Argentina
+
+
+Home Phone:		+54 11 5354 4632 
+
+	
+
+Mobile:		+54 911 4095 1416	
+
+
+E-mail:		gabrielguernik@gmail.com
+
+
+Date of Birth:  	18 February 1979
+
+
+Nationality:		Argentinian
+
+
+Languages:		Spanish (mother tongue)
+
+			English (fluent)
+
+			French (moderate)
+
+
+Key Skills
+
+	
+
+Java Software Development
+
+Agile Methodologies
+
+ScrumMaster
+
+Quality Assurance
+
+
+Employment History
+
+
+August 2011 – present:	Avaya
+Position:	ScrumMaster / Agile Project Manager
+Avaya is one of the global leaders in contact centre and unified communications solutions. I participated in several projects related to the key contact centre business. 	
+
+I have been working with small R&D teams (6 to 15 members) distributed across Argentina, India, Brazil, UK, Canada and US, reporting to senior management and portfolio management teams. I have to interact daily with project stakeholders, either from sales, services, product management, application support. I have also usually been in charge in development and tools process adoption and customization.  
+
+As an Agile Project Manager, my responsibilities include:
+
+participation in project planning, scope definition, estimation and staffing
+
+coaching the team and stakeholders in Scrum and Agile
+
+facilitate Scrum meetings and communication among stakeholders and development team
+
+project status reporting to senior management
+
+project development and test plan writing
+
+reporting on project milestones
+
+supporting and defining development practices common across Scrum teams
+May 2013 – December 2013:	Avaya
+Position:	QA Leader
+Besides continuing as Agile Project Manager, for this period I took the QA Leader role, first for the 6 QA people inside a team with 13 members, and then in a cross-functional team of 6 members. There is a strong focus on automation activities, using tools as Selenium, OATS, DbUnit, soapUI and jMeter. 
+Even prior to this, I had led several test automation initiatives, using the aforementioned tools, besides custom frameworks developed on Java and Groovy. I also participated in the development of QA plans and implementation of QA best practices and processes across multiple projects.
+
+December 2008 – present:	Avaya
+Position:	Senior Software Developer
+Avaya is one of the global leaders in contact centre and unified communications solutions. I participated in several projects related to the key contact centre business. During the first 2 years, I was a Senior Java Developer and a member of a Scrum team. Great focus was devoted to evolving quality and agile practice, and I have got to be known as a “test automation evangelist”. 
+
+We have a distributed team and internal customers in Canada, US, India and UK, and daily phone calls are held with multiple team members.
+
+My responsibilities as software developer include: 
+
+requirement analysis with internal customers and other stakeholders
+
+software solution design
+
+design implementation
+
+code review and code quality monitoring
+
+test case review
+
+documentation writing and review
+
+automated test case writing
+
+In Avaya, I have employed the following technologies or frameworks:
+
+JavaSE 1.6/1.7, JavaEE, Groovy, Echo2 Framework, Servlets, Spring, Hibernate, Apache CXF, RestEasy
+HTML, JavaScript, SQL, XML
+
+jUnit, Apache Jmeter, soapUI, Selenium
+
+PostgreSQL, Apache Derby, Apache Tomcat
+
+Apache Maven, SVN, Eclipse IDE
+
+SIP (Session Initiation Protocol), CCXML, VXML
+
+Atlassian Jira, Bamboo, Confluence and Crucible
+
+Sonar for code quality metrics
+February 2008 - November 2008:	Visa Argentina SA
+
+Position:	Functional & Technical Analyst
+
+Visa Argentina is a local contractor for credit card transaction processing for both Visa International as well as American Express. It also offers complementary services related to the credit card business to local as well as international banks.
+
+I was part of the fidelity group, developing and maintaining applications for several Latin American banks.
+
+My duties included:
+
+joint requirements definition with the customer (local banks and Visa International business analists)
+
+functional and technical requirements analysis
+
+coordination and assistance during development
+
+functional testing
+
+application and application server configuration and deployment
+
+bug fixing and maintenance
+
+I mostly employed the following technologies or frameworks:
+
+JavaSE 1.5, JavaEE, EJB 2, Servlets
+
+HTML, SQL, XML, XSL
+
+Apache Jmeter
+
+MS SQL Server, Apache Tomcat, JonAS application server
+
+Apache Ant, CVS, Eclipse IDE
+
+December 2006 - February 2008:	Banco del Sol SA
+
+Position:	Java Developer
+
+Banco del Sol is a small bank (100 employees) focused on small credit outsourcing for bigger financial institutions.
+
+I took part in the migration of one the key organization's applications to the Java platform, the first application to be so migrated.
+
+My involvement in the system lifecycle spanned from the formalization of the specification, to the GUI, business processes and database schema design and implementation.
+
+I employed the following technologies or frameworks:
+
+JavaSE 1.6, JavaEE5, EJB 3, JPA, Struts
+
+HTML, SQL
+
+MS SQL Server, Glassfish application server
+
+Netbeans IDE
+
+
+Educational History
+
+
+Instituto Tecnológico ORT (ORT Technical Institute)
+
+Bachelor's Degree in Computer Systems Analysis
+
+
+Universidad de Buenos Aires (Buenos Aires University)
+
+Bachelor's Degree in Mathematics (70% complete)
+
+
+Qualifications
+
+
+Computer System Analyst
+
+Certified ScrumMaster
+
+

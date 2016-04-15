@@ -1,0 +1,78 @@
+
+WEHBI Bachar 
+Address: 36 rue de Picpus, 75012 Paris, France 
+Mobile:  0625689452  
+e-Mail: me@bachwehbi.net   
+
+ 
+
+Product Architect – Team Leader 
+
+Professional Experience 
+
+Product Architect, Team Leader 
+
+Montimage - France  October 2008 – Current 
+
+• Product architect and core developer of a network intelligence engine for high speed links (10 
+Gbps) supporting more than 1000 protocols and applications 
+
+• Product architect of an innovative content distribution application based on browser to browser 
+communication 
+
+• Implementation of a broadband reporting tool with Ericsson and deployment of multiple proof 
+of concepts on Mobile Network segments with 5 million users  
+
+• Long experience in project management in highly international context with major industrial 
+partners (including: Nokia, Ericsson, Alcatel, Thales, CaixaBank), responsible for budget 
+ranging between 300K€ - 1M€ 
+
+Co-Founder    
+
+Beebotte.com  April 2014 – Current 
+
+• Product architect and core developer of Beebotte, a SaaS cloud platform for connecting 
+intelligent objects and real time applications 
+
+• Responsible for day to day operations, coordinating a team of 3 members, ensuring liaisons 
+with partners: Microsoft BizSpark, Amazon AWS, SocketCluster  
+
+Lecturer     
+
+Telecom SudParis: Linux Kernel Essentials, Paris 7: Software Testing Methodologies  
+
+Education 
+
+• PhD in Computer Science - Telecom SudParis & Paris 6 December 2008 
+
+• Master in Computer Science - Paris 6 October 2005 
+
+• Engineering diploma in Computer Science  - Lebanese University October 2004 
+
+Management Skills 
+
+• Team leader 3 – 4 members, project management, budget management, deliverables, review 
+process, technology transfer, reporting 
+
+• Mentoring: Co-director of 2 PhD students, mentor of 5 Master thesis 
+
+Technical Skills 
+
+• Expert in C, C++, Java, JavaScript, Node.js, SQL and NoSQL, WebRTC 
+
+• Agile, micro-services, API design, user experience, machine learning, Big Data, Pub/Sub & 
+message oriented architecture 
+
+• Building complex, scalable and distributed systems 
+
+• Network & business intelligence, Analytics, 4G, Internet of Things, M2M 
+
+Languages: English, French, Arabic 
+
+Publications: 2 Book chapters, 4 Journal articles, 10+ Conference papers 
+
+Interests: Reading, coding, emerging technologies, finance, playing with my son 
+
+
+
+

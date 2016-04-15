@@ -1,0 +1,104 @@
+
+Guido SOFER INGLESI July 22, 2015
+guido@sofer.com.ar
+
+Date of Born: 25th September, 1991 +33 (6) 98 55 75 98
+Nationalities: Italian - Argentinian 10 rue Paul Bourget - 38100 Grenoble, France
+
+Academic
+
+• ENSIMAG Grenoble, France
+Master of Science in Computer Science and applied mathematics 2012 - 2015
+
+– Specialization: Information Systems Engineering
+
+• UFRGS Porto Alegre, Brazil
+Exchange Semester 2014
+
+– Courses oriented in Distributed Systems and Artificial Intelligence.
+
+• Lyce´e Jeanne d’Albret Saint Germain en Laye, France
+Post-secondary preparatory school 2010 - 2012
+
+– Classes preparing for entrance examinations to the French Grandes Ecoles
+
+– Specialization: Physics and Engineering Science (PSI)
+
+• Lyce´e franco-argentin ”Jean Mermoz” Buenos Aires, Argentine
+Primary and Secondary School 1994 - 2009
+
+– Bicultural environment both french and argentinian
+
+Computer Science Projects
+
+1. Final practicum - Graphical Editor for a XML Model of Nuclear Plant Supervision
+Interfaces February-August 2015
+
+• Design and implementation of a graphical XML editor in order to create useful interfaces to
+supervise a Nuclear Plant. Eclipse Plugin done with GEF. ATOS - Grenoble, France
+
+2. Bioinformatics - Database for Data Mining and Web Interface July - November 2014
+
+• Design and implementation of a custom database in order to optimize search of chains of
+amino acids in proteins. Design and implementation of a Web Tool to exploit this database.
+UFRGS - Porto Alegre, Brazil
+
+3. Mobile Game - Agile Method June 2014
+
+• Design and implementation of an entertaining and educational mobile-game in order to
+promote the crystallography year (2014). Specialization project. Agile methodology. Client:
+Laboratoire de Science et Inge´nierie des Mate´riaux et Proce´de´es (SIMaP). ENSIMAG -
+Grenoble, France
+
+4. User Behaviour Study - Current Task Detection by Oculometry February - June 2014
+
+• Study of User’s eyes mouvements while using a computer interface in order to detect the
+curent task. ”Laboratory Research Introduction” course. ENSIMAG - Grenoble, France
+
+
+
+5. Software Engineering project - Compiler January 2014
+
+• Implementation of a ”zero-de´fault” Deca compiler (a Java sub-language) ENSIMAG -
+Grenoble, France
+
+Languages
+
+• Spanish - Mother Tongue
+• French - Fluent
+• English - Fluent
+• Portuguese - Good command
+
+Informatics Skills
+
+• Main Programming Languages: Java, Python, C, C++
+• Other Programming Languages: XML, Ada, VHDL, Javascript, HTML, CLIPS, R
+• Software Debuging Tools: Valgrind, Eclipse Debug Mode, Netbeans Debug Mode
+• Databases: MySQL, PostgreSQL
+• Software Development and Management Tools: Netbeans, Eclipse, Vim, Git,
+• Software Environments: Windows, Linux (Ubuntu, CentOS), Shell
+• Diverse Tools: LATEX, OpenGL, Java Servlets
+• Office Tools: Office, LibreOffice
+
+Extracurricular Activities
+
+• 2008 Finalist in a national-level Mathematics contest in Argentina (Olimpiada de Matematica
+Argentina).
+
+• Organizer of the round table Human-Machine Interaction in the college forum ”Imagine Your
+Future”
+
+• Member of the welcome association of exchange students to the ENSIMAG - 2013
+
+Interests
+
+• Science, Technology and Society in general
+
+
+
+• Human-Computer Interaction
+• Waterpolo, Rugby
+• Travel and Cultures
+• Musical instruments
+
+

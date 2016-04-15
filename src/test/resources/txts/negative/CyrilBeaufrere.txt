@@ -1,0 +1,118 @@
+
+ 
+Cyril Beaufrere     ​Nationalité Française 
+Né le 17.02.1976 
+06 67 41 59 52 
+cyril.beaufrere@gmail.com 
+
+ 
+ 
+ 
+ 
+Compétences 
+
+ 
+● Management d’équipes, méthodologie Agile (Scrum). 
+● Certifié ITIL V3 Foundation. 
+● Capacity planning. 
+● Mise en œuvre : Sites webs à fort trafic, haute disponibilité et redondance des             
+
+données (Haproxy, Heartbeat, Keepalived, etc), performances web (Memcache,        
+Varnish, etc). 
+
+● Serveurs web : Nginx, Apache2. 
+● Monitoring : Munin, Icinga, Cacti, Collectd, Kibana, Grafana. 
+● MySQL/MariaDB : sharding (master/slave, master/master, réplications circulaires,      
+
+DRBD…). 
+● Git, Ansible. 
+
+ 
+ 
+ 
+Expérience Professionnelle 
+ 
+Mai 2011 - Maintenant : FamiHero.com - CTO & Co-founder 
+
+● Création de la société FamiHero.com, marketplace de services à la famille sur            
+laquelle nous avons développé plusieurs verticales (baby-sitting, ménage, soutien         
+scolaire, pet-sitting, etc). Trois millions d’Euros levés auprès de Jaïna Capital. 5            
+campagnes TV, deal stratégique avec la chaîne M6. 
+
+● Recrutement de l’équipe de développement, design et maintenance des plateformes          
+de production et de développement, tests QA, automatisation de l’ensemble des           
+composants applicatifs. 
+ 
+
+ 
+2009 - 2011: Twenga.com - Responsable de l’infrastructure 
+
+● Responsable d’une équipe de 6 administrateurs système et gestion de 1200 serveurs            
+répartis dans 2 data centers (NL et US). 
+
+● Mise en place de solutions haute-disponibilité pour les frontaux webs avec haproxy 
+● Refonte de l’architecture pour la rendre scalable et tolérante aux pannes. 
+● Mise en place de la haute disponibilité pour les données (MySQL, MogileFS). 
+● Trois mots pour résumer cette expérience : scalabilité, redondance, performances. 
+
+ 
+ 
+2002 - 2009: Afp.com - Administrateur système Linux/Unix 
+
+● Installation et administration des serveurs haute criticité.  
+● Support niveau 3 des incidents systèmes.  
+● Installation et administration du serveur de news INN.  
+● Missions à l'étranger pour la mise en place des serveurs dans les bureaux distants.  
+● Étude et mise en place de solutions techniques: haute disponibilité, clustering et            
+
+supervision/monitoring.  
+ 
+ 
+2001 - 2002 : Bouyguestelecom.fr - Administrateur système Unix  
+
+● Intégration, recette et administration système des serveurs Sun Enterprise 10K          
+pour la 3G.  
+
+● Gestion des baies de disques SAN  
+● Gestion des utilisateurs via NIS.  
+● Mise en place de Jumpstart.  
+
+ 
+ 
+
+
+
+ 
+2000 - 2001 : LFEEP - Administrateur système 
+● Administration des serveurs de messagerie et partage de fichiers.  
+● Mise en place des sauvegardes, de la haute disponibilité et du monitoring.  
+● Aide aux utilisateurs (configuration messagerie, imprimante, poste de travail).  
+● Déplacements pour l'installation et la configuration des routeurs CISCO dans les 
+
+fédérations parisiennes. 
+ 
+ 
+ 
+1998 - 2000 : Easynet.fr - Customer Care Support Manager 
+
+● Encadrement d'une équipe divisée en deux pôles (hotline clients particuliers et          
+administration système).  
+
+● Support administratif des clients. 
+● Suivi des contentieux et du plan qualité. 
+
+ 
+ 
+
+Centres d’intérêt 
+ 
+
+● Aéronautisme. 
+● Lecture. 
+● Jeux vidéo. 
+● Photographie. 
+● Guitare. 
+
+ 
+
+

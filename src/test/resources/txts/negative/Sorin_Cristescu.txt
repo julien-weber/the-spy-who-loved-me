@@ -1,0 +1,95 @@
+
+Sorin Cristescu
+Eindhoven Area, Netherlands
+Tech Lead/ Lead Engineer at Philips Healthcare
+
+Experience
+Tech Lead/ Lead Engineer at Philips Healthcare
+March 2008 - Present (6 years 10 months)
+
+Designing and developing standalone and SOA applications for the medical domain – using
+.NET/C#, WCF, multithreading, Rational ClearQuest, UML
+Active participation in all steps of the software life cycle: requirements engineering, analysis,
+design, implementation, testing, maintenance
+Organizing tasks, estimating effort/time, assessing risks, splitting tasks to team members
+(March 2008 – present)
+
+Senior Software Engineer at Oracle
+February 2007 - March 2008 (1 year 2 months)
+
+Designing and developing 3-tier applications based on Oracle tools – using Java, J2EE, JSF,
+OC4J, Oracle AS, TopLink, PL/SQL, Web Services, Adobe Flex
+(February 2007 – March 2008)
+
+Designing and implementing an e-travel agent – using graph algorithms, Java Swing, Struts, JSP,
+JDBC, Firebird and MySQL RDBMSs, Eclipse
+(January 2004 – present)
+1 recommendation available upon request
+
+Software Engineer at Philips Medical Systems
+July 2003 - December 2006 (3 years 6 months)
+
+Designing and implementing algorithms for medical image processing – using .NET/C#,
+Objective-C, Rational ClearCase, UML for design
+Involvement in all steps of the software life cycle: requirements engineering, analysis, design,
+implementation, testing, maintenance
+Organizing tasks, estimating effort/time, assessing risks, splitting tasks to team members
+Giving workshops on requirements engineering, analysis, design, UML
+(July 2003 – December 2006)
+
+Senior Technical System Designer at Philips Electronics Netherlands
+January 2001 - June 2003 (2 years 6 months)
+
+Designing and implementing the prototype of a component model for high volume electronics –
+using C, C++, Linux, COM, CORBA, TriMedia, Java, Firebird RDBMS, Struts, Ant, CVS, UML for
+design
+
+
+
+(August 2002 – June 2003)
+
+Designing and implementing an MP3 server and player – using .NET (ASP.NET, Windows Forms,
+Web Services, ADO.NET) and J2EE (servlets, JSP, EJB), UML for design
+(January 2002 – July 2002)
+
+Designing and implementing tools for software verification – using formal methods, C++ with UNIX
+synchronisation mechanisms, CAML, Tcl, SPIN/Promela, VeriSoft
+(January 2001 – June 2002)
+
+Education
+Universitatea „Politehnica” din Bucure#ti
+Doctor of Philosophy (PhD), Multiagent Systems, Semantic Web, 2007 - 2012
+Eindhoven University of Technology
+M.Sc., Software Engineering, 1998 - 2000
+
+Universitatea „Politehnica” din Bucure#ti
+M.Sc., Computer Science, 1997 - 1998
+
+Universitatea „Politehnica” din Bucure#ti
+Bachelor of Applied Science (B.A.Sc.), Computer Science, 1992 - 1997
+Liceul de Informatica Bucuresti
+1988 - 1992
+
+
+
+Sorin Cristescu
+Eindhoven Area, Netherlands
+Tech Lead/ Lead Engineer at Philips Healthcare
+
+1 person has recommended Sorin
+"Sorin was one of the most respected members of my team in Oracle. He proved his leadership
+trough his comprehensive understanding and passion for technologies, his understanding of the
+problem space and his extensive experience with software development processed and
+methodologies. Using his academic experience Sorin also brings valuable contributions in R&D
+work and innovative solutions."
+
+—Ion Moldoveanu, Development Manager, Oracle, managed Sorin at Oracle
+
+Profile Notes and Activity (3)
+10/09/2014—View by Raluca Otelea
+
+10/16/2014—View by Clémentine Daines
+
+10/16/2014—InMail sent by Clémentine Daines (Accepted)
+
+

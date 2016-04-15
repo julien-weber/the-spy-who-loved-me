@@ -1,0 +1,136 @@
+
+David LONY
+Paris Area, France
+Technical Leader at Parrot
+
+Summary
+Embedded Developer and Real Time Engineer in a wide variety of critical applications. Particularly
+ interested in Operating System concepts, kernel structure and modeling.   I have a significant
+ experience with software development for Real-Time Embedded Systems including the use of
+ debuggers, emulators, and other similar embedded software development tools.   My colleagues
+ could say that I am a perfectionist, I am a persevering person and learn very quickly. I like to work
+ hard, learn new things, meet different kind of people and be everyday more open minded. That is
+ what I am expecting of my future position.  Spécialisations : Operating Systems, Linux, Real Time,
+ Embedded Architecture, Distributed Architecture, Modeling
+
+Experience
+Technical Leader at Parrot
+March 2011  -  Present  (5 years)
+
+Parrot SA is a French wireless products manufacturer company based in Paris, France. It develops
+ products in relationship with entertainment in car. My principal work in Parrot is to lead a team
+ responsible of a multi-tuner library which support various radio standards on various architecture. 
+ Tasks: Technical Leader of a multi-tuner library (FM/AM, SDARS, DAB, DVB) Develop an Android
+ multimedia player based on the Vitamio plugin Integrate new product features. Developments
+ relate to the integration of telephony features, Bluetooth profiles, USB / IPOD, voice recognition,
+ wireless or internet routing. Solve interfacing problems according with the development of other
+ teams Improve software quality by integrating the defined process.  Environment: Linux, Android,
+ C/C++ Tools: GCC, GDB, GIT, Redmine, SDARS modulator, VHF/UHF modulator, Analog
+ modulator, ADT, USB Analyzer Standards: Radio Data System (RDS), SDARS, SiriusXM, DAB+,
+ DVB
+
+Embedded and Real Time Engineer at Bouygues Telecom
+March 2010  -  March 2011  (1 year 1 month)
+
+Bouygues Telecom is one of the most popular Internet Service Provider in France and it markets
+ a solution based on a gateway and a set-top box. These solutions are based on a Linux kernel
+ and a specific hardware. My duties are to write embedded software applications, in C or C++ on
+ these platforms. One of my task was for instance the development of an interface between the
+ flash player of the set-top box and the audio device driver.  Tasks:  Develop an interface between
+ the machblue flash player and the audio driver Install and configure the development environment
+
+
+
+ of the relevant teams Ability to work independently or in a small project team Ability to work on
+ multi-site product development  Environment: Set-top box, Gateway, Linux  Tools: GCC, GDB,
+ Subversion Standards: DLNA, TR-069, PCM
+
+Field Application Engineer at PragmaDev
+January 2007  -  December 2008  (2 years)
+
+PragmaDev markets Real Time Developer Studio (RTDS), a tool for UML, SDL and SDL-RT
+ modeling. This tool is dedicated to embedded and/or real time systems and allows the rapid
+ prototyping of applications on these environments. My role was to promote RTDS, to ensure a
+ technical support to the customers and to develop new functionalities. Based on a SDL model,
+ RTDS is able to generate the corresponding source code for most of the real-time operating
+ systems. I was in charge of this functionality for NUCLEUS, eCos, VxWorks or OSE. Moreover, I
+ have participated in the Embedded World show (2007 and 2008) in Nurember and in the System
+ Design Language Forum 2007 in Paris which was organized by PragmaDev.    Tasks:  Develop in
+ C/C++ the interface between RTDS and the systems calls of various real-time operating systems.
+  Develop functionalities of RTDS in Python  Debug the integration of new RTOS with tools like :
+ GDB, Tornado  Develop an interface between RTDS and Reqtify from GEENSYS  Build and
+ set-up a minimalist Linux kernel on an embedded platform (PC104)   Environment: Windows,
+ Linux, Solaris, OSE, VxWorks, NUCLEUS, eCos Tools: Cygwin, GCC, GDB, Subversion, Reqtify,
+ Tornado, Python Standards: SDL, SDL-RT, UML, µITRON, POSIX
+
+Embedded Engineer at SAGEM Telecommunication
+December 2006  -  January 2007  (2 months)
+
+SAGEM was in charge of the development of different set-top boxes : the Neuf Box, the Alice Box
+ and the Livebox. These boxes can be configured via a web interface. Most of the time, these
+ interfaces are based on a XSLT transformation. My tasks were to modify and to recompile an XML
+ library which was too voluminous for these boxes.   Tasks: Modify the XML library, recompile and
+ integrate it (Cross-compilation toolchain)    Environment: Linux 2.4, GCC, GDB Tools: GNU Cross-
+compilation toolchain Standards: SIP, XML, XSLT
+
+Engineer developer and consultant at B2i Engineering
+November 2005  -  December 2006  (1 year 2 months)
+
+B2i provided an embedded platform to the European project GST (http://www.gstforum.org/). This
+ platform is structured around an XScale processor and is based on a Windows CE 4.2 .NET
+ system, a CDC JVM and a OSGI framework. My work in the GST team was to develop solutions
+ based on JAVA and OSGI technologies. The team had to answer to various partners while bringing
+ and integrating solutions to conclude this project. The principal partners were RENAULT, France
+ Telecom and TDF while the technologies approached were OMA-DM/DS and DVBH.   Tasks:
+ Develop in JAVA J2ME a 16 bits VNC client on a PDA Develop en C/C++ the JNI for the GPS
+ driver  Develop in JAVA J2SE a SyncML module  Develop various modules based on OSGI
+
+
+
+ framework   Environment: Windows CE 4.2 .NET, Pocket PC 2003, Knopflerfish, JBED, CrEme,
+ Prosyst   Tools: Eclipse, eMbedded Visual C++, UML, Maven2, CVS  Standards: OSGI, OMA DM/
+DS, J2ME CDC, SyncML, Remote Frame Buffer Protocol
+
+Specialist in Architecture Analysis & Design Language (AADL) at SAGEM Defence and Security
+Branch
+April 2005  -  September 2005  (6 months)
+
+My internship in SAGEM was in the Research and Development's unit 23. This unit was in charge
+ of the development of an embedded system installed on the future A380 aircraft. This system
+ supports all the applications of monitoring/maintenance of the plane. SAGEM was planning to
+ use AADL (Architecture Analysis and Design Language) because the system is complex and
+ needs an exhaustive description and because AIRBUS Industries also uses this language. The
+ system is distributed and interconnects several fields with different levels of safety and security.
+ Its distribution requires the interconnection via Ethernet of different types of equipments. My
+ tasks were to model this system in AADL (hardware/software), to detect inconsistencies in the
+ architecture, to study AADL for the avionics domain and to give training to the relevant teams. 
+ Tasks: Model in AADL an embedded system for the A380 aircraft Develop a software in Perl and
+ XML/XSLT which generates HTML pages based on a AADL model Detect software and hardware
+ inconsistencies of embedded systems based on their AADL model   Environment: SUSE 9.1,
+ WINDOWS SERVER 2003  Tools: XMLSpy, Xalan, Apache, OSATE, Perl, Graphviz  Standards:
+ DO-178B level A, AADL, XSL, XML
+
+Education
+Université Pierre et Marie Curie (Paris VI)
+Master, Computer Science Systems and Distributed Applications, 2004 - 2005
+Université Denis Diderot (Paris VII)
+Bachelor Degree, Computer Science; Sciences option Mathematics, 2000 - 2004
+
+Interests
+New technology, snorkeling, travelling
+
+
+
+David LONY
+Paris Area, France
+Technical Leader at Parrot
+
+1 person has recommended David
+
+"David is a very dedicated person and never gives up. He's competent, even-tempered and puts a
+lot of respect in co-worker relationships. It was a pleasure to work with, and I'll be glad to work with
+him again."
+
+—Guillaume Béranger, Android Developer,  happn,  worked directly with David at Parrot
+
+

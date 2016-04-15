@@ -1,0 +1,103 @@
+
+TIMOTHÉE FAUCON
+3707A rue Saint-Hubert � Montréal, Québec H2L 3Z9, CANADA
+
++1 · 514 · 523 · 1609 � timothee.faucon@gmail.com
+A business oriented scientific manager having international experience. Performance driven team player with track
+record of innovative products and processes design, implementation and optimisation in various fields such as O&G
+services, healthcare (eyecare, dentistry) and nuclear waste management. Market and customer dedicated individual
+that ensures that results are exceeding expectations, thereby supporting achievement of business objectives.
+
+HIGHLIGHTS
+
+• MBA in Global Management
+• PhD in Imagery
+• Experience in Healthcare and Oil & Gas industries
+• Team management
+• project management
+
+• Patent holder
+• customer-focused, result-driven in innovative ap-
+
+plied research
+• Project reporting to upper management
+• International experience
+
+EDUCATION
+
+IE Business School, Madrid (Spain) July 2014
+Executive MBA – Top-ranked business school – Specialisation in Global Management
+Mines ParisTech, Paris (France) January 2007
+Ph.D. in Mathematical Morphology (applied mathematics)
+CPE Lyon, Lyon (France) October 2003
+Engineering degree in Physics, Electronics and Computer Sciences
+Jean-Monnet University, Saint-Étienne (France) October 2003
+M.Sc. degree in Vision and Image Processing
+
+EXPERIENCE
+
+Consultant April 2014
+Timothée Faucon, inc. Montréal, QC
+
+· Designed, implemented and optimized data management solutions in collaboration with an international multi-
+disciplinary team.
+
+Senior R&D Manager - Senior Researcher April 2008 - March 2014
+Diagnos inc. – Company specialised in data analysis and processing Brossard, QC
+
+· Led the development of a versatile in-house image processing library in order to make future release-ready de-
+ployments 70% faster and more efficient thereby reducing development costs by about $500,000 per year.
+
+· Managed highly skilled R&D team of PhD scientists and led the development of next generation of specialised
+algorithms intended for screening of patients for ophthalmic or cardiac complications.
+
+· Worked closely with executive management in the alignment to strategic business requirements, managing im-
+pact of changes in those requirements as they arise.
+
+· Engaged in sales and marketing processes as a technical expert to provide potential customers with accurate
+information about products and to get relevant feedback to improve our products.
+
+· Managed relationship with both academic and business partners to ensure smooth development and operations.
+Innovation Manager and Research Engineer January 2007 - April 2008
+ERM.S Group – Geo-statistics service provider in O&G industry Fontainebleau, France
+
+· Designed and led the development as well as testing of new tools for geoscientists, such as more efficient data
+filters, automatic geological structures detector and extractor, oil and gas reservoir’s volume estimation and also
+nicer data views for results reports to customers.
+
+
+
+· Managed relationship with partners and customers that helped guiding development and improving user expe-
+rience of the product.
+
+· Managed various R&D projects including notably the internally named GeodTect project which had a substantial
+impact on the quality of proprietary geostatistical filterings by taking into account the dip of geological layers.
+
+Ph.D. Student and Research Engineer November 2003 - January 2007
+Mines ParisTech / ERM.S Group Fontainebleau, France
+
+· Led the design, development, implementation, and integration of an innovative tool that reduced the processing
+time of seismic data by 94% which increased internal efficiency, halved service costs and allowed the
+company to attract and retain as customers large players in O&G industry. This work led to the publication of
+a patent on Seismic Cube Segmentation (Patent No : WO2006FR0086520060418)
+
+Intern - Engineer March 2003 - September 2003
+CEA Cadarache, France
+
+· Designed and developped algorithms for poly-chromaticity correction in high energy tomography studies with the
+aim of enhancing resulting image quality to better identify objects in large and dense radioactive containers.
+
+· Successful implementation of the poly-chromaticity correction algorithms led to their integration into a high
+energy tomograph simulator used to provide a solution in safe radioactive wastes container caracterisation and
+handling.
+
+ADDITIONAL INFORMATION
+
+Languages French : native – English : advanced – German : basic
+Technical skills C/C++/C# – Python – Java – R – Matlab – MySQL – Linux – Windows – MS Office
+Volunteering Creation and animation of Mines ParisTech alumni association in Canada
+
+Organiser of the Euroregate, an international rowing competition
+Scoutmaster of a scout group at Scouts de France during four years
+
+

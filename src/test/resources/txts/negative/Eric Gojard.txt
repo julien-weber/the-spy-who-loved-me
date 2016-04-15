@@ -1,0 +1,129 @@
+Eric GOJARD 
+ 
+10 boulevard Hérold, 92000 Nanterre  
+09 52 00 06 33 / 06 14 41 69 81 / eric.gojard@gmail.com 
+https://linkedin.com/in/ericgojard 
+ 
+ 
+Développeur lead  
+ 
+ 
+ 11 ans d’expérience dans le développement logiciel, dont deux ans en tant que lead 
+développeur 
+ Expertise du développement C++ 
+ Environnements techniques : C/C++, Visual Studio, Qt, MFC, javascript, lua, Ogre3D, DirectX… 
+ Principaux projets : HomeByMe, D’Fusion Studio 
+ 
+ 
+ 
+ 
+EXPÉRIENCE PROFESSIONNELLE 
+ 
+  
+ 
+01/13 – Auj. Lead Développeur « Business Features » chez 3DVIA (anciennement SquareClock) 
+ 
+Sous la responsabilité du directeur R&D, piloter l'équipe "Business features" (6 ingénieurs 
+développement logiciel) pour assurer l'évolution des fonctionnalités "métier" de la 
+plateforme applicative 3DVIA By.Me : 
+ définir les besoins d'évolution de la plateforme 3DVIA By.Me sur les sujets 
+fonctionnalités dédiées aux métiers de l'aménagement, modélisation de données 
+client et processus de production et déploiement d'applications 
+ élaboration avec les autres développeurs des spécifications d'évolutions et validation 
+avec les équipes produit et service. 
+ assurer le déroulement du plan de développement : implémentation des 
+fonctionnalités et suivi des développements des membres de l'équipe. 
+ 
+04/10 – 12/12 Ingénieur développement logiciel chez SquareClock 
+ 
+Développement des applications de configuration spatiale SquareClock : 
+ maintenance et évolution des applications d’aménagement Fly, Castorama, Lapeyre. 
+ mise en place d'une nouvelle infrastructure applicative et mise au point de l'API 
+javascript pour le développement d'applications de configuration spatiale. 
+ évolutions de la modélisation de catalogues des métiers de l'aménagement et 
+développement de fonctionnalités associées. 
+ 
+06/08 – 03/10 Ingénieur développement logicel chez Total Immersion 
+Ingénieur développement logiciel chez Total Immersion, éditeur de solutions de réalité 
+augmentée. Spécifications et développement des outils et infrastructures internes pour la 
+création de solutions de réalité augmentée, en particulier : 
+ gestion d'input complexes : mise en place d'une architecture unifiée permettant 
+l'extension à tous types de devices d'input (clavier/souris/tactile/devices de 
+tracking/capteurs...). 
+ intégration de fonctionnalités de rendu video avancées au moteur Ogre (gestion 
+correction déformation camera, projection sur surface non plane...). 
+ moteur de scripting lua et éditeur/débugger intégré à l'éditeur D'Fusion Studio. 
+ 
+08/05 – 05/08 Ingénieur support chez Virtools  
+Au sein de Virtools, éditeur de solutions de développement d’applications 3D interactives : 
+ gestion du support technique tous niveaux sur l'ensemble des clients Virtools. 
+ développement de corrections et publications de patches pour la plateforme Virtools 
+ suivi qualité et industrialisation des mises à jour et nouvelles versions Virtools. 
+ interface entre le retour client et l’équipe de développement : report et correction de 
+bugs, demandes de nouvelles fonctionnalités, amélioration des documentations et 
+exemples d’utilisation. 
+ à partir de 2008 : sous la responsabilité du directeur R&D, suivi du plan de 
+développement de la plateforme « Virtools Dev ». 
+ 
+ ERIC GOJARD   2 / 2 
+  
+ 
+ 
+ 
+EXPÉRIENCE PROFESSIONNELLE 
+(STAGES) 
+ 
+  
+ 
+02/04 – 08/04 Développeur moteur 3D chez Artefacts Studio  
+Programmeur stagiaire chez Artefacts Studio, studio de développement de jeux video et 
+de conception graphique. Développement d’un système de vertex et pixels shaders pour 
+un moteur graphique sous Renderware : 
+ définition de l’architecture du module de gestion de shaders (Directx 9.0b) et 
+implémentation 
+ interfaçage avec Renderware, middleware pour la création de jeu video. Plate-forme 
+cible : PC - Direct3D. 
+ création et optimisation de shaders HLSL. Implémentation de techniques de 
+déformations, normal maps, cell-shading. 
+ développement d’un plug-in 3DSMax pour l’équipe de graphistes, permettant 
+d’associer des shaders et leurs paramètres aux modèles 3D exportés. 
+ 
+07/02 – 06/03 Développeur logiciel chez CYNOVAD 
+Année de césure en tant que développeur logiciel chez CYNOVAD, société canadienne 
+de développement d’outils de numérisation et CFAO pour prothèses dentaires. 
+ développement de nouvelles méthodes de mesure de paramètres du système 
+optique.  
+ implémentation de ces méthodes au logiciel de calibration LYNX, aussi bien bas 
+niveau (contrôle de la camera CDD, de la table micro-contrôle) que haut niveau 
+(interface). 
+ développement d’un module de lecture et visualisation de prothèses numérisées à 
+différentes étapes du traitement. 
+ ajout de fonctionnalités de correction automatiques, d’édition et de comparaison de 
+modèles 3D. 
+ 
+ 
+ 
+FORMATIONS ET LANGUES 
+ 
+  
+ 
+2000 – 2004 École d’ingénieurs CPE Lyon : École supérieure de Chimie, Physique et Électronique, 
+section Électronique, Informatique et Télécommunications. Spécialité Image. 
+ 
+1997 – 2000 Classes préparatoires : 3 années de préparation aux concours d’entrée aux grandes 
+écoles au Prytanée National Militaire de la Flèche. 
+ 
+LANGUES Anglais : excellent niveau, titulaire du CAE (Cambridge Certificate in Advanced English). 
+Espagnol : niveau scolaire. 
+ 
+ 
+ 
+ACTIVITES ANNEXES 
+ 
+  
+ 
+MUSIQUE Batteur débutant. 
+ 
+VOYAGES Nombreux séjours en Europe, une année à Montréal. 
+ 
+DIVERS  Titulaire du permis B.

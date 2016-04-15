@@ -1,0 +1,262 @@
+
+ 
+Engineer – Lead Cloud Architect 
+
+ 
+Tommy BOIVIN 
+
+ 
+Phone: 06.85.86.69.39 
+
+Email: t​ommy.boivin2@gmail.com 
+ 
+ 
+Experience : 15+ ans 
+Language : French/English 
+ 
+ 
+Skills: 
+ ■ Product Management, Project Coordinator/Management, IT Governance 
+ ■ Agility/Scrum/Kanban, DevOPS, ITIL 
+ ■ Hosting, Cloud Computing Solutions, Service Delivery 
+ ■ Openstack, Vmware, Microsoft, SDN... 
+ ■ Architecture and Design 
+ 
+ 
+PROFESSIONAL EXPERIENCE 
+ 
+     
+NUMERGY  June 2014 ­ Present. 
+
+ 
+ 
+ 
+
+ 
+
+ 
+As Lead Cloud Architect, my mission is to lead a team of engineers, design and build the new 
+products. 
+ 
+
+❏ Having a good understanding of technical and functional business, I assist the Product 
+Managers to build the news products and work in the definition of planning, risk and 
+invest plan. 
+
+❏ I advise the CTO and the Product Managers in the strategic choices of architecture 
+and technical implementation. 
+
+❏ Lead of a team of engineers to develop and integrate solutions for cloud computing. 
+❏ I am responsible for the project until the delivery of the solution into production. 
+❏ Coordinate all the work between the PM , teams of engineers and ops. 
+❏ I assist the Pre­Sales in the construction of responses to tenders. 
+❏ I bring my expertise to production during major incidents. 
+
+ 
+ 
+
+     
+JET MULTIMEDIA / SFR  September 2007 ­ May 2014 
+
+ 
+ 
+ 
+
+ 
+
+ 
+As head of the SIC platform (Suite Infrastructure Cloud) and Technical Expert . My missions 
+were to make a high level of operational quality cloud platforms. 
+ 
+❏ Coordinate and control the cross­functional teams. 
+❏ Driving the evolution of the platforms​. 
+❏ Ensure the maintenance of the platforms in operational condition​. 
+❏ Perform reporting on capacity planning and managing suppliers​. 
+❏ Advising the Research and Development team and deploy new release into production​. 
+❏ Assist PreSales of tenders​. 
+❏ Implement the operating processes and certification​ (ISO 9001, ISO 27001, etc). 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+ 
+AVANADE   
+/systems.solutions/success/from Accenture & Microsoft  January 2005 ­ March 2007 
+
+   
+In an environment of 23,000 desktops , I implemented a strategy to update workstations to 
+Windows XP. 
+ 
+❏ I did analysis of user needs, risk and technical difficulties. 
+❏ Study of impact of the update on applications and working time 
+❏ Centralization and automation of tasks, deploying productivity tools​. 
+ 
+
+   
+As part of a project to consolidate 4,000 websites and intranet under Red Hat / Oracle , I design a 
+virtualization infrastructure servers under VMware. 
+ 
+❏ Managing a team of 4 people during the implementation of the solution. 
+❏ Building compliance of the solution for outsourcing to an external service provider 
+ 
+
+   
+For a project of migration from NT4 to Windows 2003, I designed a solution of migration of some                                   
+network services like DNS, DHCP, WINS, printing and Active Directory servers. 
+ 
+❏ Migrating directories NT and 2000 to a Windows 2003 directory. 
+❏ Ensure the consistent development of infrastructures. 
+❏ Define and implement targeted solutions and all its components 
+❏ Write documentation for the help desk team to recover all services in case of disaster 
+ 
+
+ 
+ 
+PLANAXIS Technologies  January 2001 ­ October 2004 
+
+   
+Project: Migration of 26,000 workstations Windows 95 / NT to Windows XP and 4000 NT servers 
+to Windows 2000. 
+ 
+In this very large migration project. I participated in definition of the new technical services and I 
+proposed new organizational models to work with this new services. Moreover, as project 
+coordinator on several projects, I was in charge of activities, resources, equipment and 
+information and bring to the attention of the project manager any coordination issues which I 
+cannot resolve 
+ 
+Some projects: 
+ 
+❏ Implementing and Administrating an Active Directory infrastructure. 
+❏ Deployment strategy of workstations and servers​. 
+❏ Definition and implementation of safety rules​. 
+❏ Definition of a disaster recovery plan and some SLA with customers for sensitive services. 
+❏ Train the operational teams on new technologies and process. 
+❏ Consolidating and optimizing the infrastructure (networks, servers, storage systems ...) for a 
+
+match­up with the services level expected. 
+ 
+
+ 
+SCII Technologies  January 1999 ­ November 2000 
+
+   
+At the Société Générale, part of the Windows deploiement team, my main task was to deliver 
+services and users assistance (kind of after­sale), as well as to the IT teams to migrate all 
+services from Windows 95 / Novell Netware to Windows NT. 
+ 
+❏ Design and documentation of the Windows NT infrastructure. 
+❏ Level 3 support , workstation and server​. 
+❏ Migration of Novell Netware 3.11 environment to Windows NT4. 
+❏ Design and build the master workstation for 5000 users. 
+❏ Development of administration tools and migration. 
+❏ Administration / IT asset management tool with TNG (softwares déploiement, inventory, 
+
+remote assistance and maintenance)  
+ 
+
+ 
+
+
+
+ICO​ ​Technologies   January 1998 ­ December 1998 
+   
+
+As part of a big migration project from a Windows environment 3.11 / Novell Netware to Windows 
+95 / NT (7,000 workstations), I had the responsibility to : 
+ 
+❏ Design, build and certify the new masters workstation. 
+❏ Writing deployment procedures and train new computer scientist. 
+❏ Administration of Novell Netware 3.12 and 4.11 servers. 
+ 
+
+ 
+ 
+MANPOWER   January 1997 ­ December 1997 
+   
+
+As part of the migration of a Macintosh to Unix / Windows NT (1,000 workstations), I designed                                 
+and administered a Windows NT infrastructure interoperable with Unix. I was also in charge of                             
+technical support for software engineering department (c ++, voice recognition) 
+ 
+
+ 
+ 
+CERTIFICATIONS 
+ 
+MCSA  2000/2003  Microsoft Certified Systems Administrator 
+MCSE  2000/2003  Microsoft Certified Systems Engineer 
+ITIL  2005  ITIL Foundation Certificate in IT Service Management 
+
+ 
+
+   
+ 
+ 
+EDUCATIONS 
+ 
+DEC in IT Management (Bac + 3)  1994  CEGEP of Granby ­ Haute­Yamaska, 
+
+Quebec, Canada 
+ 
+ 
+SKILLS 
+ 
+FONCTIONNAL​: 
+
+● Agilité/Scrum/Kanban 
+● ITIL 
+● COBIT (Notion) 
+● DevOps 
+
+ 
+TECHNICAL​: 
+
+● OpenLdap/Active Directory (AD) 
+● DHCP/DNS 
+● F5 Networks 
+● Centreon/Nagios 
+● Veam Backup and Replication/Connect 
+● HP Matrix 
+● MSSQL et Mysql 
+● Linux / Windows 
+● Symantec Netbackup Platform 
+
+CLOUD 
+ 
+VMware vCloud et vRealize Suite: 
+
+● vCenter, vCloud, VUM, VCUM, VCOPS, etc 
+ 
+Openstack: 
+
+● Nova, Cinder, Neutron, Monasca, Glance, 
+Freezer, Swift, Ironic, etc. 
+
+● HP Helion Openstack 
+ 
+SDN: 
+
+● Nuage Networks VSP 
+ 
+Stockage: 
+
+● HP 3PAR, Scality, Solidfire, Object Storage 
+ 
+
+ 
+
+

@@ -1,0 +1,80 @@
+
+Fabio Frascella
+Barcelona Area, Spain
+Scrum Master at eBay Enterprise
+
+Experience
+Scrum Master at eBay Enterprise
+November 2013 - Present (1 year 2 months)
+
+Senior QA Engineer at eBay Enterprise
+July 2011 - November 2013 (2 years 5 months)
+
+• testing activities for a complex e-commerce platform along the whole SDLC, with main focus on
+payment methods and communications with third parties (payment gateways, logistics, Google
+Product Feeds, etc.)
+• analysis and re-engineering of QA processes
+• definition and measurement of quality indicators
+• testing tools evaluation, customization and migration
+• support in release management and deployment
+
+Test Engineer at Zurich Financial Services
+August 2009 - July 2011 (2 years)
+
+Responsible for the functional testing activities in Zurich GI Common Platform for UK and
+Switzerland Business Units. Leading Load and Performance activities for Emerging Markets
+Platform (Latin America)
+Main responsibilities include:
+• review and analyze requirements
+• design and prioritize tests and performance test scenarios
+• record and manage defects
+• coordinate User Acceptance Tests
+
+QA Test Engineer at TestABil S.L.
+September 2007 - August 2009 (2 years)
+
+Test Engineer at Affiliated Computer Services and Privalia Venta Directa.
+Responsible for the functional testing activities in the WebABC project and HR Tools in ACS Spain
+for GM Europe client. Testing activities involved HR legacy applications and ERP (SAP and
+Peoplesoft).
+Main responsibilities include:
+• review and analyze requirements
+• participate in the definition of the test strategy
+• design, prioritize and execute tests
+• liaise with local and offshore development teams on daily basis
+
+
+
+• record and manage defects
+• actively participate in test tool migration from Open Source to HP suite
+• maintain and customize test tools
+• inform about quality
+• produce test reports
+• support User Acceptance Tests
+• train other testers in the use of the test tools
+
+Education
+ESADE Business School
+MBA, 2011 - 2013
+
+Universitat Politècnica de Catalunya
+Ingeniero Superior, Telecommunications Engineering, 2005 - 2007
+
+Politecnico di Torino
+Master Degree, Telecommunications Engineering, 2004 - 2007
+
+Politecnico di Torino
+Bachelor Degree, Telecommunications Engineering, 2000 - 2004
+
+
+
+Fabio Frascella
+Barcelona Area, Spain
+Scrum Master at eBay Enterprise
+
+Profile Notes and Activity (2)
+11/21/2014—View by Clémentine Daines
+
+11/28/2014—InMail sent by Clémentine Daines (Accepted)
+
+

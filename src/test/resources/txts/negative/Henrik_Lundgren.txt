@@ -1,0 +1,108 @@
+
+Henrik Lundgren
+Paris Area, France
+Principal Scientist at Technicolor, Research and Innovation
+
+Summary
+I have over 15 years of experience in the field of networking and end-user services, and a proven
+track record of:
+• leading corporate research teams in wireless and home networking.
+• defining long-term research agendas and bringing in research funding.
+• managing EC-funded international collaborative research projects as Principal Investigator and
+technical Project Coordinator.
+• scientific excellence with numerous international top-tier scientific articles and filed patents.
+• collaborating with business units.
+• contributing to Intellectual Property management as a technical expert.
+My current work broadly evolves around networked services centered on the end-user, with the goal
+to develop personalized services based on collection and mining of user data.
+
+Experience
+Principal Scientist at Technicolor, Research and Innovation
+July 2014 - Present (5 months)
+
+• Principal Investigator and Project Coordinator of a three year EC-funded research project on User
+Centric Networking.
+• Developing concepts and tools for personalized networked services based on collection and
+mining of big data sets.
+
+Senior Scientist at Technicolor, Research and Innovation
+January 2010 - Present (4 years 11 months)
+
+In this role, I primarily conducted research and managed research projects.
+
+Management
+• Principal Investigator and Coordinator for 2 EC-funded research projects (5-8M€ budgets),
+2010-2013, 2013-2016
+• Project definition and management of multi-cultural, international collaborative projects,
+2010-present
+• Scientific project lead in wireless networking research and scientific team lead networking and
+troubleshooting research, 2010-2012
+
+Research
+• Networking: wireless networking (WiFi, WLAN, mesh), home networking, mobile networking,
+
+
+
+optimization, troubleshooting, network architectures
+• Data analysis: characterization, data mining, user profiling
+• Services: multimedia and video streaming, personalization, advertising
+
+Other notable activities
+• Defining research roadmaps
+• Collaborating with business units
+• Intellectual Property management committee member
+• Fellowship network member
+
+Research Scientist at Thomson, Corporate Research
+June 2006 - January 2010 (3 years 8 months)
+
+• Research in network architectures and protocols, with emphasis on wireless networking, including
+WiFi, WLAN, wireless mesh networks, home networking, mobile networking
+• Team leader for wireless networking research (cross-site)
+• Technical lead and manager for our scientific contributions in wireless networking to collaborative
+EC-funded projects
+• Collaborated with business units and across research centers
+
+Visiting Researcher at UC Santa Barbara (UCSB)
+April 2005 - March 2006 (1 year)
+
+Research on wireless computer networking.
+• Design, development, and deployment of a wireless mesh testbed. Protocol design and
+experimental evaluation of wireless mesh networks.
+• Mentoring PhD. candidates and MSc. students.
+
+Research Assistant at Uppsala University
+May 1999 - March 2005 (5 years 11 months)
+
+Research in computer networking, with emphasis on mobile and wireless network systems.
+• Implementation and experimental evaluation of protocols and systems for wireless networks.
+Design and development of wireless testbeds.Development of wireless experimentation
+methodologies.
+• Mentoring junior PhD. candidates and supervision of MSc. students.
+• Projects and collaboration with Ericsson Research.
+
+Research Engineer at Ellemtel
+September 1996 - August 1998 (2 years)
+
+Research, development, and prototyping of telecommunication and computer communication
+systems in the joint research lab of Ericsson and Telia.
+• Innovation in the intersection of telephony and the Internet: focus on integration of Internet and
+PSTN/GSM networks, Voice over IP communication, Directory services, and Intelligent networking.
+• Collaboration with Ericsson Business Units.
+
+
+
+Education
+Uppsala University
+Ph.D., Computer Science, 1998 - 2005
+
+Kalmar University
+BSc., University of Kalmar, Sweden. Computer Science and Engineering. 1991 and 1994-1996.
+
+
+
+Henrik Lundgren
+Paris Area, France
+Principal Scientist at Technicolor, Research and Innovation
+
+

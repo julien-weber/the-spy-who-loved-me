@@ -1,0 +1,244 @@
+
+Cédric COROIR   
+cedric.coroir@gmail.com 
+
+06.20.72.56.61 - 12/08/1980 
+25 rue d’Essl ing, Courbevoie 92400  
+
+ 
+
+Crédit Agricole CIB 
+Responsable Unité R&D IT  
+Depuis 2013 
+
+Recherche IT : Calculs quantitatifs distribués, e-business : 
+- Recherche et expérimentation des idées novatrices, des alternatives et des nouvelles technologies. 
+
+- Force de proposition pour optimiser le fonctionnement général des librairies quantitatives dans le SI. 
+
+- Veille technologique en association avec la R&D Quantitative sur les sujets mixtes : GRID, BIG DATA, CLOUD … 
+
+- Networking et benchmarking interne et externe. 
+
+Projet de développement : Framework de calcul quantitatif distribué scalable et low latency. 
+- Framework centralisé: mutualisation des référentiels et de l’infrastructure du SI, harmonisation des prix. 
+
+- Scalable pour les analyses FO: multiplier par 10 les capacités de calculs actuelles de 10,000h / nuit. 
+
+- Low latency pour l’e-business: obtenir les meilleures performances sur du matériel standard (x86, Ethernet). 
+
+           Equipe: Management de 2 architectes-développeurs 
+
+Technologies:  C++0x11, shared memory IPC, P2P, Streaming, GRID, Auto Sharding, Replication & high availability 
+
+ 
+
+Responsable Offre Business Intelligence 
+Depuis 2011  
+
+Création, structuration et réalisation de l’offre B.I. pour les activités FO Mondiales et Risques de la banque : 
+- Proposition de paradigmes de gestion de l’information différentiant (outils internes & externes) 
+
+- Déploiement, harmonisation et exploitation progressif sur les environnements techniques et fonctionnels. 
+
+Développement continue de l’offre en lien avec la direction IT et la direction des Marchés : 
+- Du succès de l’offre a résulté le choix d’outil standard de référence pour les activités marchées. 
+
+- Remplacement ou complément des outils du marché : Active Pivot, QlikView, BO, Microsoft BI Stack … 
+
+Change Management et développement de la croissance de l’unité: 
+- Management et architecture de la création et du développement de l’outil comme un éditeur logiciel interne. 
+
+- Evangélisation sur plusieurs activités et chaines IT pour le bénéfice de centaines d’utilisateurs. 
+
+- Fort retour sur investissement et maitrise des coûts durable avec une petite équipe de développeurs experts. 
+
+Innovation des techniques et des procédures, veille des standards de l’industrie : 
+- La main aux utilisateurs : plusieurs milliers de pivots et reports ont été créés directement par les utilisateurs. 
+
+- Mutualisation de l’information : Par le traitement et l’accès aux informations directement de leurs sources. 
+
+- Big Data : 10+ To de données, des centaines de bases de données, des temps d’accès de la ms à quelques secondes. 
+
+Développement de nouveaux mandats autour de la Business Intelligence : 
+- Levée des frontières : avec le rapprochement des données de sources différentes suivant leur sens fonctionnel. 
+
+- Contrôle sur la donnée : Capacité de modification directement à la source (versioning, audit, rollback, rights) 
+- La B.I. à l’usage des systèmes IT : Démocratisation de l’outil comme ETL entre des systèmes IT en production. 
+
+           Equipe: Management de 5-6 développeurs experts multi-sites, 1 Business Analyste 
+
+          Produit:  Heal - Système d’extraction et de formatage de données générique pour l’aide à la prise de décision  
+
+Technologies:  C#, WPF, SQL, COM, Excel, dynamic code generation 
+
+ 
+
+Innovation
+
+Responsabilité
+
+PotentielCaféine
+
+Management  Aujourd'hui
+
+ Objectif
+
+25 développeurs 
+
+Change Mgt. 
+
+ 
+
+ 
+
+3 Projets 
+
+Architecture 
+
+ 
+
+
+
+
+Missions d’Architecture 
+Depuis 2010 
+
+2013 - Etude d’architecture du nouveau système IT Rates contributeur de 500 M€ de PnL, projet à 30M€ 
+- Dialogue utilisateur, réception des besoins, prospection de sponsors d’idées, restitution. 
+
+- Proposition et élaboration du schéma directeur de l’architecture et des principes clés. 
+
+- Participation à l’établissement des plannings, budgets et jalons d’étapes. 
+
+ Intervention sur des missions de conseil auprès de la DSI 
+- Etudes liées aux méthodes AGILE et aux bonnes pratiques de développement. 
+
+- Etudes liées aux performances des applications avec évaluation d’investissements à ROI positif. 
+
+ 
+
+Application Manager IT 
+De Nov-2006 à 2012  
+
+Management, organisation et recrutement des équipes en fonction de la charge : 
+- Plus de 200 entretiens, chasse de talents, et plus de 50 développeurs formés. 
+
+- Management, suivi des développements et KPI par les méthodologies AGILE (depuis 2007). 
+
+- Animation, coaching, fédération et délégation en fonction des priorités d’évolution. 
+
+Participation de la stratégie produit et de sa roadmap avec le business : 
+- Décryptage des différents niveaux d’enjeux, adaptation du modèle de réponse 
+
+- Elaboration et mise en œuvre des budgets liés au développement de l’application 
+
+Organisation et structuration du cycle de développement de l’application de bout en bout. 
+
+          Equipes: Management de 12-25 développeurs et IT-Quant tous niveaux dans 3 équipes 
+
+          Produit:  Infinity – Système Front to Back IRD Non linéaires et dérivés de taux, et sa grille de calcul de 3000 CPU 
+
+           Clients: Traders IRD NL sur les principaux sites internationaux, Risk Managers, Structurer, Sales 
+
+Technologies:  C++ (2.5 Millions lignes de codes, sans dépendance éditeur), multithread, stl, boost, bash, perl, php 
+
+ 
+
+Société Générale CIB 
+Développeur Front Office 
+De Fev-2006 à Nov-2006 
+
+Maintenance évolutive de l’application FO et support applicatif dans une équipe de 5 développeurs. 
+
+          Produit:  Nora – Système Front to Back IRD linéaires et dérivés de taux  
+
+Technologies:  C++, C++/CLI, C#, stl, boost, multithread, CPPUnit, SQL 
+
+ 
+
+Formation 
+2004-2005  - Master de recherche ISIC – Université UNILIM 
+- Majeures : imagerie en temps réel, Intelligence artificielle et sécurité de l’information 
+
+- Mention « Bien », obtention de la bourse. 
+
+2002-2005 - Diplôme d’ingénieur, majeure génie logiciel - 3.I.L. 
+- Co-bénéficiaire de la mention spéciale « Grade de Master »   
+
+2001-2002 – DUT GEII - Université de La Garde - Major de promotion   
+
+1998-2001 – Classes préparatoires intégrés MPI - I.S.E.M.  
+
+
+
+Anglais courant: TOEIC 950/990 (2005), Certificate of Cambridge (2000) 
+
+ 
+
+Projets personnels  - Toy Project 
+www.appy.today – Suivi des tendances des applications mobiles (en construction)  
+Depuis 2014  
+
+Projet similaire à d’autres app-discovery et app-trends aussi gratuits. 
+
+- Web/Cloud : Développement python, mongoDB, javascript (and likes), css, html, responsives mobile first UI. 
+
+- Mobile : UI d’applications natives iOS et Android, code fonctionnel partagé 
+
+Sensibilités développées:  
+
+- Adaptation et formation aux pratiques et aux technologies sur la chaine mobile + web + cloud hybride. 
+
+www.memspell.com – Allocateur mémoire customisé 
+De 2007 à 2013  
+
+Projet similaire à HeapLayers d’Emery Berger, SmartHeap, ou MTS de RogueWave 
+- Réécriture complète du système d’allocation mémoire de Windows et Linux 
+
+- 2-3x plus rapide que l’allocateur par défaut fourni par les systèmes (XP, Vista, RedHat 5.X). 
+
+Sensibilités développées:  
+- Bonne compréhension de l’architecture des CPU et des fonctionnalités fondamentales des systèmes. 
+
+- Forte sensibilité à la complexité du respect de standards précis et comportant des pièges non-documentés. 
+
+- Orientation client grand compte, pénétration du marché sur un produit avec une durée de vie éphémère. 
+
+EasyParal – Librairie pour la distribution de tâches 
+De 2008 à 2010 
+
+Projet similaire à Intel TBB ou Microsoft TPL 
+- Framework de développement introduisant la notion d’ordonnancement explicite avec une syntaxe naturelle. 
+
+- Réécriture du standard <Algorithm> de la STL avec cette syntaxe comme exercice de vulgarisation et de démonstration. 
+
+Sensibilités développées:  
+- Bonne compréhension des standards du C++, des pratiques et de la philosophie générique. 
+
+- Sensibilisation à différentes stratégies et optimisations de code concurrent de bas et haut niveau. 
+
+Scaledev – Distribution sur CPU et GPU 
+De 2006 à 2008  
+
+Projet similaire à Khronos OpenCL 
+- Framework de développement générant à l’exécution de l’assembleur vectorisé pour CPU et GPU à partir de code C++. 
+
+- Le code assembleur (x86 et ARB) est ensuite distribué sur les CPU disponibles et les différentes cartes GPU. 
+
+Sensibilités développées:  
+- Bonne compréhension de la génération de code, de différents assembleurs et des affinités hardware associés. 
+
+L’internet des enfants – Contrôle parental  
+De 2004 à 2006  
+
+Projets similaires aux web-washer et autres add-blocker maintenant disponible. 
+- Développement d’interception et de redirection des contenus web suivant une liste blanche dans le navigateur. 
+
+- Réception des besoins auprès de l’association publique à but non lucratif : Action Innocence. 
+
+Sensibilités développées:  
+
+- Orientation client, développement et distribution commerciale d’un logiciel de bout en bout. 
+
+

@@ -1,0 +1,118 @@
+
+Erica (Shuping) Shang 
+Sunnyvale, CA 94087 • 1.408.603.1522 • shangshuping@gmail.com 
+
+ 
+
+ 
+
+Summary 
+ 
+
+Master Java, DataBase, Data Structure, Algorithm  
+Hands-on Automatic Test and Large Test Framework implementation  
+Good on-line ad real time bidding knowledge 
+Master degree from Peking University and Certificates from Toronto/Rice 
+University 
+ 
+
+Skills and expertise 
+ 
+
+Programming Languages: Java,Python,Groovy 
+Big Data: Hive, Hadoop, HDFS, MapReduce, 
+Operating System: Windows, Linux, macOS 
+Framework: Grails,TestNG 
+Other Skills: Git, Data Structure and Algorithm, SQL 
+
+ 
+
+Education 
+ 
+
+Master of Physics, Peking University 2003 -2006 
+Bachelor of Physics, Qingdao University 1999 – 2003 
+
+ 
+
+Work Experience 
+ 
+
+Software Engineer            (Redwood City)              Turn             May 2014- present 
+ 
+
+Turn delivers real-time insights that transform the way leading advertising agencies 
+and enterprises make decisions.  My Major responsibility includes: 
+
+• Develop large test framework based on grails web framework 
+• Write automation test for platform team and Apps team with JAVA 
+• Create test plan & set up Campaign Suite in the test environment  
+• Maintain Regression test for all my previous projects. 
+ 
+
+Data Engineer   Allyes R&D Center (Mountain View, CA)               July 2013-2014 
+ 
+
+Allyes is the biggest 3rd party online advertising agency and service provider in 
+China. Major responsibility includes:  
+
+• Wrote Hive Script/Hadoop Map-Reduce program to do Data Analysis based 
+on cloud-based software which tracks billions of online advertising activities 
+per day. 
+
+• Coded and performed test on big data using Hadoop clusters; Provided data 
+analysis and reporting. 
+
+ 
+
+Product Engineer/Manager,  JDSU                         2007-2011 
+
+
+
+Erica (Shuping) Shang 
+Sunnyvale, CA 94087 • 1.408.603.1522 • shangshuping@gmail.com 
+
+ 
+
+ 
+
+Led a group of 9 product engineers and provided supports for 5 products, including 
+production line support, new product introduction, customer support, cost control 
+and yield control, product specification review, second source qualification and 
+product engineer training.  
+• Patent Inventor of "Photodiode Assembly with Improved Electrostatic Discharge 
+
+Damage Threshold". patent number：20090283848 
+ 
+
+Software support Engineer,  OriginLab     2006-2007 
+Origin is scientific graphing and data analysis software. Provided release management 
+and customer support. 
+
+Related Projects
+ 
+
+Third-Party/Turn Multi-Touch-Action optimization and Third-party/Turn Last-
+Touch-Action optimization  
+Third-Party Budget Allocation  
+Deal-Id optimization and advisory  
+Video Creative Clone and Video Creative Enhancement  
+A/B Test  
+Large Test framework RESTful API Design and implementation 
+ 
+
+Related Courses
+ 
+
+ 
+
+Algorithm and data structure (Online Course offered by Princeton University) 
+Introduction to interactive python programming (Online Course offered by Rice 
+University) 
+Learn to Program: The Fundamentals (Online Course offered by Toronto University) 
+Learn to Program: Crafting Quality Code (Online Course offered by Toronto 
+University) 
+Introduction to Databases (Online Course offered by Stanford University) 
+Java Language design (Online Course offered by Peking University) 
+
+

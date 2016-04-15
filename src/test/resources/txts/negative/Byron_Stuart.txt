@@ -1,0 +1,192 @@
+
+Byron  Stuart
+Greater New Orleans Area
+Director of Product Development at mumms software
+
+Summary
+Product Manager, Business Process Analyst, Web Application Developer and Software and Database
+ Architect in a wide variety of business applications. My experience includes developing software for
+ the mobile, medical, event ticketing and e-commerce markets. Particularly interested in data-driven
+ web applications (both commercial and IT).
+
+software and database architecture, web application development, software engineering, business
+ process analysis, agile development, managing development teams with scrum, communications
+
+Experience
+Director of Product Development at mumms software
+April 2013  -  Present  (2 years 2 months)
+
+Lead Software Development Engineer at Microsoft
+July 2008  -  March 2013  (4 years 9 months)
+
+Development lead for MSN U.S. Global Market Delivery team. Responsible for development
+ of features for U.S. MSN websites, such as Health, Lifestyle and Money. Using Agile software
+ development methodologies - more specifically, Scrum, Test Driven Development and Pair
+ Programming. Primarily using XSLT, XHTML, XML, CSS, Object Oriented JavaScript (including
+ jQuery) and C# (including Silverlight). Responsible for the development of two onshore teams
+ and two offshore teams (in China and India), as well as general engineering excellence of the
+ development team (coding standards, code reviews, check-in policies, scrum process, etc.). I also
+ work with Product Managers and partners (both internal and external) to define requirements,
+ understand technical feasibility and architect the overall approach of projects.
+
+Partner and Co-Founder at Hanuman Thai Cafe
+January 2006  -  December 2012  (7 years)
+
+• Created Business Plan and Operating Agreement for LLC • Review Monthly Financial Records •
+ General Problem Solving
+
+President at Savoy Swing Club
+April 2007  -  March 2009  (2 years)
+
+• Savoy Swing Club is a non-profit organization dedicated to preserving, educating and promoting
+ forms of American Jazz dance (Lindy Hop and other Swing era dances) • Define overall vision
+
+
+
+ and direction of club • General Manager of club operations • Create agendas and lead monthly
+ meetings • Assist other board members with marketing, event planning and other activities
+
+Technology Director (Consultant) at OgilvyAction
+October 2007  -  February 2008  (5 months)
+
+• Providing business technology analysis and recommendations to OgilvyAction Digital group,
+ including application software, software development frameworks and network server architecture.
+ • Implementation of SVN (Subversion Source Control) to maintain code and documentation for all
+ group projects. • Implementation of the Trac bug tracking system. • Management of the ragu.com
+ and feedourkidswell.com websites, including new feature development in ASP.NET and AJAX.
+ • Weekly meetings with the Unilever IT staff, internal software developers and creative team to
+ discuss new website features, technical problems and upcoming technology initiatives.
+
+Director of Software Development at Neotix (Mercuity Software)
+February 2004  -  January 2008  (4 years)
+
+• Co-founded company and created company business plan. • Created project specifications
+ and documentation through business process analysis and customer needs assessment. •
+ Managed internal projects with offshore (Chinese) and onshore consultants. • Lead architect
+ of event ticketing system software, including design and implementation of MS SQL database
+ and numerous software features using Cold Fusion MX, JavaScript, ActionScript, T-SQL and C
+++. • Designed and implemented customizable workflow-based user interface. • Designed and
+ implemented ledger-based financial system within the ticketing software. This included financial
+ processing and reporting for all transactions done within the system. • Designed and implemented
+ “Best Available Offer” feature to allow customers to purchase and exchange tickets, automatically
+ getting the best price based on current offers and qualifications. • Implemented C++ generated
+ DHTML seat map, allowing users to select seats for performances.
+
+Lead Software Engineer at Keynote Systems
+November 2001  -  January 2003  (1 year 3 months)
+
+• Created wireless (mobile phone) testing and benchmarking tools for carrier networks. •
+ Worked with customers to document new feature requests and define software requirements. •
+ Responsible for development and maintenance of Wireless Perspective website (ASP VBScript).
+ • Architect of MS SQL database to store benchmarking data and manage test devices and
+ scheduling. • Worked with other members of the development team to create Perl modules to
+ control mobile phones connected to servers via standard serial and USB ports. • Developed XML/
+XSLT/SVG reporting tool used to generate charts and graphs showing performance of scheduled
+ tests. • Developed XML messaging gateway for distributed test nodes to receive new tests,
+ according to a user specified schedule, and report test results.
+
+Senior Software Engineer at onDevice
+November 2001  -  November 2002  (1 year 1 month)
+
+
+
+• Research and Development of applications for mobile phones (WAP and SMS). • Created MS
+ SQL database and messaging gateway for mapping users and their mobile phones to other mobile
+ phones on disparate carrier networks to facilitate inter-carrier SMS messaging. • Developed web-
+based software with IIS and ASP (VBScript) to send messages between mobile phone carrier
+ networks. • Created SMS and WAP testing tools in C++, XML and T-SQL to measure accuracy and
+ timeliness of SMS message sending and receiving on multiple devices, including phones (Qualcom
+ and Samsung), PDAs (Palm and Blackberry) and email software. • Company acquired by Keynote
+ Systems, Inc.
+
+Lead Software Engineer at Data Critical
+April 2000  -  November 2000  (8 months)
+
+• Development of WebChart, a complex, web-based medical record system, using ColdFusion
+ 4 and SQL Server. • Primary architect of the WebChart MS SQL database (over 200 tables and
+ 500 stored procedures). Performance tuning (clustering, normalizing, etc.) and data modeling. •
+ Member of architecture/design team for the new, "Mobile" line of products. UML diagramming and
+ data modeling, UI mock-ups and system prototypes in Dreamweaver. • Responsible for helping
+ six development team members to complete their daily assigned tasks. • Project management,
+ including time estimates and resource assignment. • Coding in HTML, JavaScript, CSS, Cold
+ Fusion, T-SQL and Visual Basic. • Company acquired by GE Medical Corporation.
+
+Senior Web Application Developer at Elixis
+April 1999  -  March 2000  (1 year)
+
+• Development of WebCoder 2.0, using ColdFusion 4 and SQL Server 7. • Co-developed the
+ database architecture of WebCoder 2.0 with the Lead Developer. • Wrote specifications for two
+ outsourced products. A client FTP service, to automatically send patient information to our server
+ from third party Practice Management Systems. And, a Java applet for drawing/editing multi-
+layered diagrams of surgeries and internal problems. • Advanced features of ColdFusion 4 used,
+ including custom tags, lists, HTTP and email. • Utilization of many SQL Server 7 features, including
+ stored procedures, views and diagrams. • Coding in HTML, JavaScript, CSS, Cold Fusion, T-SQL
+ and some Visual Basic. • Company acquired by Data Critical Corporation.
+
+Software Design Engineer at Microsoft (Adecco/TAD Technical)
+May 1998  -  March 1999  (11 months)
+
+• Worked with Office 2000 team to develop Thai and Vietnamese features for Access 2000. •
+ Enabled Thai and Vietnamese text editing in the South Asia version of Access 2000. • Wrote
+ development specifications and documentation for South Asia features of Access 2000. • Worked
+ with Program Manager on feature specification and clarification of feature requirements. • Fixed
+ bugs in Access 2000, a database management tool with over 700k lines of C/C++ code. • C and C
+++ used for all coding in a Visual C++ 5/6 environment.
+
+Software Design Engineer in Test at Microsoft (Adecco/TAD Technical)
+
+
+
+September 1997  -  April 1998  (8 months)
+• Ported/developed test automation scripts in Visual Test 4. • Created a tool that automates
+ the task of Thai/English keyboard input (coded in C++ with MFC). • Windows 98 Thai edition
+ operating system kernel testing and debugging. • Test planning and manual testing of Windows
+ 9x Thai features. • Testing Lab Manager, responsible for the support and maintenance of 10 lab
+ computers.
+
+Web and Tech Support Team Member at Western Oregon University
+October 1996  -  June 1997  (9 months)
+
+• Western Oregon University web site developer (http://www.wou.edu). • Trouble shooting,
+ installation of new software/hardware on campus computers. • Helped develop the Online
+ Admissions Application, and many other pages. • O'Riley's WebSite Web Server, Cold Fusion, MS
+ Access and JavaScript were used.
+
+Education
+Western Oregon University
+Bachelor of Science, Computer Science, Music Minor, 1995 - 1997
+Mt. Hood Community College
+Associate of Arts, Computer Science, 1993 - 1995
+Activities and Societies:  Phi Theta Kappa, Dean's List
+
+Interests
+technology, open source software, swing dancing, snowboarding, traveling
+
+
+
+Byron  Stuart
+Greater New Orleans Area
+Director of Product Development at mumms software
+
+3 people have recommended Byron
+
+"Having worked with Byron at a small start-up, I appreciated Byron's can-do attitude and balancing
+of customer and company needs. He was able to be our company's 'expert' in a number of areas as
+necessary, and willing to go above and beyond to make things happen."
+
+—Brian  Moran, VP Engineering,  Onehub, Inc.,  managed Byron at Keynote Systems
+
+"Byron absolutely led our small company in developing online medical record software that
+eventually helped the company be attractive enough to sell to GE. He is a tireless worker and an
+amazing developer. He took ownership of the product and cared enough to make it a great offering.
+I would be happy to follow up with any further questions!"
+
+—Sally  Norred, eLearning Enablement Manager,  Apptio,  worked directly with Byron at Data
+Critical
+
+"Byron is one of the most knowledgeable and passionate developers I have worked with. Highly
+recommended."
+
+—Clif  Johnston, Owner / Publisher,  Apptronica,  worked directly with Byron at Elixis
+
+

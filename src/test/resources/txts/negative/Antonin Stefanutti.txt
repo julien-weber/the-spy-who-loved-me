@@ -1,0 +1,122 @@
+
+Antonin Stefanutti
+92, avenue de la République
+
+75 011 Paris, France
+
++33 6 47 88 69 81
+antonin@stefanutti.fr
+
+linkedin.com/in/astefanutti
+github.com/astefanutti
+twitter.com/astefanut
+
+Work Experiences
+
+from Nov. 2010 Software Engineer and Lead Developer
+to Date Murex, Paris, France
+
+Lead developer of the connectivity middleware that enables the integration of
+the Murex financial platform with market data providers – Bloomberg, Thomson
+Reuters, Nasdaq OMX, ... – trading platforms – Tradeweb, MarkitWire, Trayport,
+Intercontinental Exchange (ICE), ... – and market places – Eurex, London Metal
+Exchange, ... Managing distributed development team (10 developers located in
+Belarus, France, Lebanon, Romania). Presentation at Devoxx France 2014: Weld
+and CDI extensions. Presentation at JavaOne 2014: Going further with CDI 1.2.
+Technologies used are: Java SE, Java EE, CDI, JAXB, JAXP, JAX-RS, JMX, JNDI, JTA,
+XA/2PC, XMLDsig, SSL/TLS, Weld, Infinispan, Netty, Spring framework, Spring integration,
+
+Tomcat, Jetty, Apache Camel, Hawtio, HornetQ, ActiveMQ, WebSphere MQ.
+
+from June 2008 Software Engineer and Lead Developer – French Ministry of Finance
+to November 2010 Accenture, Paris, France
+
+Lead developer and technical architect of the online revenue tax declaration service
+(www.impots.gouv.fr) operated by the French Ministry of Finance. The online rev-
+enue tax declaration service is a high volume transactional Web application (10M+
+unique users over 2 months). Managing development team (6 developers) and evolu-
+tion of several Java EE high trafficWeb applications. Designing and developing data
+anonymization with user profiles classification to support complex and comprehen-
+sive business logic test cases. Designing and developing near real-time monitoring
+application with rich and highly interactive GUI to support production operation
+of 600+ physical servers. Technologies used are: Apache HTTP Server, mod_jk, EJB,
+EHCache, JBoss AS, JCE, JPA, JSP, JTA, Hibernate, Oracle DB, Oracle RAC, SSL/TLS, Spring
+
+framework, Spring MVC.
+
+from Sept. 2005 R&D Software Engineer
+to Sept. 2007 Dassault Systèmes, Suresnes, France
+
+Software engineer for the worldwide leading provider of Computer Aided Design
+(CAD) and Product Lifecycle Management (PLM) solutions within the PLM in-
+frastructure organisation. Implementation of the Process Modeler component in
+C++, evolution of the open standard 3D XML, and contribution to 3D scene con-
+struction for the 3D XML player.
+
+from October 2004 Research Associate Intern – Department of Computer Science
+to June 2005 University of Victoria, Vancouver Island, British Columbia, Canada
+
+Research associate within the marsyas project (Music Analysis Retrieval and SYn-
+thesis for Audio Signals) development team. Implementation in C++ of new fea-
+tures extraction and real-time audio signal processing algorithms dedicated to su-
+pervised machine learning music genre classification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Education
+
+2003–2004 MSc. in Computer Science
+
+Telecom ParisTech, Paris, France
+Computer Science, Computer Graphics and Computer Audition
+
+2002–2003 Telecom Bretagne, Brest, France
+
+2000–2002 BSc. in Applied Mathematics – Department of Mathematics
+
+University of Nantes, Nantes, France
+Numerical Analysis, Finite Element Analysis, Optimization, Statistical Learning,
+Distributed Computing, Data Visualization
+
+Skills
+
+Languages and Standards Java, C, C++, JavaScript, ActionScript, SQL, X/HTML, XML, CSS,
+SVG, XMLDSig
+
+Application Architecture Java EE, CDI, JMX, EJB, JNDI, JMS, JAX-WS, JAX-RS, JAXP,
+JAXB, JTA, JPA, JCE, XA/2PC, Apache Camel, AspectJ, Spring,
+Hibernate, EHcache, Netty, Flex
+
+Execution Architecture JBoss AS, Wildfly, Apache HTTP Server, mod_jk, Jetty, Oracle DB,
+Sybase, MySQL, Infinispan, WebSphere MQ, Active MQ, HornetQ
+
+Development Architecture Git, Perforce, Maven, Ant, JUnit, Arquillian, Mockito, Cucumber,
+Nexus, Hudson, Sonar
+
+Tooling IntelliJ, Eclipse, Visual Studio .NET
+
+Foreign Languages
+
+French Native
+English Fluent
+Spanish Beginner
+
+
+
+
+

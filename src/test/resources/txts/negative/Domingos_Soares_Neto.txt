@@ -1,0 +1,277 @@
+
+Domingos Soares Neto
+São Paulo Area, Brazil
+Lead Software Engineer (System Specialist level 2) at iG - Internet Group do Brasil S/A
+
+Summary
+• B.Sc and M.Sc in Computer Science from top ranked universities;
+
+• Great programming skills in C, C++ and Java;
+
+. Experience leading software development teams working on complex projects;
+
+• Advanced knowledge of Information Retrieval, Machine Learning and Recommender Systems;
+
+• Experience programming in Python;
+
+• Knowledge of OO programming, Design Patterns and TDD;
+
+• Experience in the development of Web Services REST (XML/JSON) and large scale / concurrent
+software;
+
+• Experience with SQL/relational databases (MySQL, Oracle, IBM DB2 and Microsoft SQL Server);
+
+. Experience with NoSQL databases (Berkeley DB, Cassandra, Memcached and REDIS);
+
+• Experience working on large (worldwide) and also greenfield software projects;
+
+• Knowledge and experience with Linux systems administration and Linux programming;
+
+• Experience with Scrum;
+
+• Fluency in both spoken and written English;
+
+• Portuguese as native speaker;
+
+. A very strong passion for problem solving, intellectual challenges and computer science;
+
+Specialties: - Information Retrieval, Machine Learning and Recommender Systems;
+
+- C, C++ and Java programming;
+
+
+
+- Experience leading large Scale, Distributed and Concurrent Programming complex projects;
+
+- Analytics;
+
+Experience
+Lead Software Engineer (System Specialist level 2) - Recommender Systems at iG - Internet
+Group do Brasil S/A
+November 2010 - Present (4 years 1 month)
+
+iG is one of the largest brazilian Internet companies. Since I've joined iG I've been in charge of a full
+featured and large scale distributed recommender engine, focused on content (articles and videos)
+recommendation. The project was born as a personal pet project of mine and grew to the
+company's core product. Currently the engine serves over 17 million recommendations per day,
+over an established database of 1.5 million items and 65 million users. The knowledge base grows
+at a rate of over 1 million new datapoints per day. We work as a startup inside a large company, so
+my duties includes the design of the architecture and algorithms, code programming at a daily
+basis, team leader and also Product Manager, meeting with clients, stakeholders and partners
+companies, both from brazil as well as companies from abroad and negotiating contracts.
+
+. Java;
+
+. Spark;
+
+. Cassandra;
+
+. machine learning;
+
+. Apache Mahout.
+
+. Memcached
+
+. Amazon AWS
+
+. Python
+
+. REST
+
+I've also been in charge of:
+- iG X Outbrain's news recommender engine integration;
+- iG X Taboola's videos recommender engine integration;
+- Optimizely A/B testing platform integration;
+- Rock and Rio Oi Telecom Free internet network;
+
+Software Engineer at University of São Paulo
+May 2010 - November 2010 (7 months)
+
+. Information Retrieval;
+
+. Computational Biology - bioinformatics;
+
+. Very Large Databases;
+
+
+
+. Python;
+
+. Java;
+
+. C++.
+
+Senior Software Engineer (R & D Team) at UOL
+May 2008 - April 2010 (2 years)
+
+* Jan, 2010 - present
+
+In charge of the development of a data security framework (authentication and authorization)
+
+- Linux;
+- Java (JEE);
+- MySQL;
+- REST
+- XML .
+
+* Jan, 2009 - Jan, 2010
+
+Worked in the development of a monitoring and fail detection system using Java and Bayesian
+Machine Learning.
+
+- Linux;
+- Machine Learning (probabilistic learning);
+- Java (JEE);
+- Berkeley DB Java edition;
+- REST
+- XML
+- RMI.
+
+* May, 2008 - Jan, 2009
+
+Worked in the development of a large scale distributed e-mail back-end that Includes a distributed
+file system, e-mail server software and a machine learning anti-spam filter. Universo Online (UOL)
+is the lead Internet company in Latin America.
+
+- Linux;
+- Machine Learning (statistical and probabilistic learning);
+- IMAP, POP3 and SMTP protocols;
+- C++;
+- CORBA (ACE/TAO)
+- Ruby and Python;
+
+
+
+1 recommendation available upon request
+
+Software Engineer at IBM
+January 2007 - April 2008 (1 year 4 months)
+
+Software Engineer member of IBM Software Group and Tivoli development team. Team members
+come from many countries, and are distributed across USA, Brazil, UK and Canada. Worked on the
+development of MAXIMO enterprise asset management.
+
+* Development of new features and debugging/bug fixing of existing ones;
+* DB2, Oracle and MS-SQL Server databases;
+* Eclipse IDE;
+* PVCS;
+* J2EE;
+* Websphere;
+* BEA weblogic.
+3 recommendations available upon request
+
+Assistant Professor at Bandeirantes University
+February 2005 - January 2006 (1 year)
+
+Assistant Professor teaching "Operating Systems I" and "Operating Systems II" classed at the
+Computer Science undergraduation program.
+
+Systems Administrator / Developer at Scientific Computing Center - Pontificial Catholic
+University of São Paulo
+April 1999 - February 2004 (4 years 11 months)
+
+Development in many languages
+(mainly C and PHP) and the administration of many services under
+Linux, SUN-Solaris and MS-Windows.
+
+* Network and Concurrent Programming in C;
+* Administrative Systems programming in PHP;
+* Relational Databases (MySQL, Postgre and Sybase) and LDAP Directory Services;
+* Linux, Solaris and Linux-MOSIX clusters administration;
+* Services administration (Samba, LDAP, postfix, proftpd, NFS, majordomo, cupsys , SSH, MySQL,
+Sybase and many others)
+* MS-Windows Administration;
+* Script programming (Perl, BASH and AWK);
+2 recommendations available upon request
+
+
+
+Education
+Universidade de São Paulo
+M. Sc., Computer Science, 2005 - 2008
+Activities and Societies: Participated as a member of the organizing committee in many editions of
+the Internal Qualifying Competition for the International ACM Programming Contests and the South
+American edition of the same event.
+. Was a member of The Combinatorics and Combinatorial Optimization Research Group
+http://www.ime.usp.br/~cris/gcomb/students.html
+
+Pontifícia Universidade Católica de São Paulo
+B.Sc., Computer Science, 1999 - 2003
+Activities and Societies: - I have participated in both 2001 and 2002 editions of the ACM South
+America Programming Contest as a member of the teams that represented the university and I have
+also introduced such kind of events in the university calendar by organizing the first four editions of
+the internal qualifying competition.
+
+Honors And Awards
+- Awarded with a graduate study scholarship granted by National Research Council and Ministry for
+Science and Technology;
+
+- Awarded with a Teaching Assistant Scholarship granted by University of São Paulo;
+
+- Awarded with a undergraduate study scholarship granted by Pontifical Catholic University of São
+Paulo.
+
+Interests
+scuba-diving, photography, judo and brazilian jiu-jitsu;
+
+
+
+Domingos Soares Neto
+São Paulo Area, Brazil
+Lead Software Engineer (System Specialist level 2) at iG - Internet Group do Brasil S/A
+
+6 people have recommended Domingos
+"Domingos has extensive knowledge in theory and practice. He is a very smart professional, with
+good experience, solid technical proficiency and deep knowledge in Computer Science. Great
+teammate who is always ready to help, share knowledge and discuss technical issues. Highly
+recommended for research and development companies."
+
+—Pedro Guilherme Rafael, Software Engineer (R & D Team), UOL, worked directly with
+Domingos at UOL
+
+"Domingos is a very inteligent and technical professional. He has strong knowledge about
+algorithms and computer science concepts. He is a C/C++ lover."
+
+—Thadeu Carmo, Software Engineer, IBM, worked with Domingos at IBM
+
+"Domingos is a dedicated partner and always ready to help and share experiences. He is very
+focused and outstanding technical knowledge."
+
+—Paulo Salvatore, Systems Administrator / Developer at Scientific, Pontificial Catholic University
+- São Paulo, worked directly with Domingos at Scientific Computing Center - Pontificial Catholic
+University of São Paulo
+
+"Solid as a rock in Information Retrieval, data structures and computer science basis makes him an
+excellent professional from academic to enterprise projects regardless the technology in use. With
+incredible capability of understanding new concepts he never stops reading and learning a little
+more. He’s a trustful, correct, honest and will not be afraid of sharing knowledge and his point of
+views. I highly recommend him for real complex software development and complex problem
+solving, otherwise you will be wasting his potential. Totally recommended."
+
+—Rodrigo Dombrowski, Software Engineer, IBM Tivoli Brasil Software Lab., worked directly
+with Domingos at IBM
+
+"Domingos has deep knowledge on systems development and architectures based on his solid
+theoretical background. One of the greatest things about working with him is his passion on sharing
+this knowledge and helping the group on achieving its goals. A great match for any challenging
+task."
+
+—Renato Lucindo, System Administrator, Pontifícia Universidade Católica de São Paulo,
+
+
+
+worked directly with Domingos at Scientific Computing Center - Pontificial Catholic University of
+São Paulo
+
+"Domingos has a very strong theoretical background which makes him apt to work on virtually
+anything that's based on a model. He won't give up until he makes sure everyone involved has a
+sound understanding of the given subject, thus being a great member for any development team.
+Just don't throw silly problems at him ;-)"
+—Ricardo Herrmann, Software Engineer, IBM, worked directly with Domingos at IBM
+
+Profile Notes and Activity (2)
+10/17/2014—View by Clémentine Daines
+
+10/22/2014—InMail sent by Clémentine Daines (Accepted)
+
+

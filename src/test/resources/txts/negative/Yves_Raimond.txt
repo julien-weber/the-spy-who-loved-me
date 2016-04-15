@@ -1,0 +1,114 @@
+
+Yves Raimond
+San Francisco Bay Area
+Research/Engineering Manager - Machine Learning at Netflix (Hiring!)
+
+Summary
+(I'm currently hiring - please reach out if you're interested!)  I am currently leading a team of
+ researchers and engineers at Netflix, working on improving search and recommendations. I was
+ previously a Senior Research Engineer within that same team, working on the research and
+ development of a range of algorithms, driving parts of the Netflix homepage, search, and search
+ recommendations.   Between 2011 and 2014, I was working as a Lead R&D Engineer at BBC
+ Research & Development, primarily working on Semantic Web technologies, data mining and
+ machine learning techniques for extracting meaning out of the BBC archive. Between 2008 and
+ 2011, I was working as a Principal Software Engineer on BBC Programmes. Before October 2008,
+ I was a PhD student in the Centre for Digital Music, Queen Mary, University of London. My thesis
+ deals with ontology-based knowledge management for music information retrieval systems. I
+ graduated in 2005 from the ENST (Ecole Nationale Superieure des Telecommunications), Paris,
+ France.
+
+Experience
+Research/Engineering Manager - Machine Learning at Netflix
+August 2015  -  Present  (4 months)
+
+Leading the Search & Interactive Recommendations Algorithm Engineering team of researchers
+ and engineers. We use machine learning and other algorithmic techniques to improve search and
+ recommendations on the Netflix product.
+
+Senior Research Engineer at Netflix
+September 2014  -  August 2015  (1 year)
+
+ - Worked on R&D of new search and recommendation algorithms, driving parts of the Netflix
+ homepage, search, and search recommendations.  - Developed and deployed a new algorithm
+ pipeline using Apache Spark for building and evaluating search & recommendation models.
+
+Lead R&D Engineer at BBC R&D
+April 2014  -  August 2014  (5 months)
+
+- Leading BBC R&D work on the collaborative ABC-IP (Automated Broadcast Content Interlinking)
+ research project, funded by the Technology Strategy Board.  - Working on unlocking large
+ multimedia archives using a mixture of automated semantic analysis and crowdsourcing (see
+ http://www.bbc.co.uk/blogs/researchanddevelopment/2012/11/the-world-service-archive-
+
+
+
+prot.shtml). - Distributed systems for processing very large multimedia archives.  - Automated topic
+ tagging from audio. - Fast speech/music segmentation. - Automated speaker segmentation and
+ recognition.  - Topic identification from live streams. - Technology transfer with production teams. -
+ Publishing and giving talks internationally (academia and industry events).
+
+Senior R&D Engineer at BBC
+August 2011  -  April 2014  (2 years 9 months)
+
+Principal Software Engineer at BBC
+November 2010  -  August 2011  (10 months)
+
+- Principal Software Engineer for a team of six developers on the BBC Programmes project,
+ providing automated online programme support for all BBC programmes. - Leading development
+ on a large scale web site, serving above two million unique users a week and 150 requests per
+ second. - Agile project management process. - Managed the transition of BBC Programmes to
+ the new BBC Forge platform. - Involved in pan-department strategic discussions on architectural
+ and software engineering issues. - Enforcing good software engineering practices, e.g. continuous
+ integration, test-driven and behaviour-driven development. - First Linked Data web site, providing
+ machine-readable views of all pages, launched by a large organisation.
+
+Senior Software Engineer at BBC
+January 2010  -  November 2010  (11 months)
+
+Software Engineer, Audio & Music at BBC
+October 2008  -  January 2010  (1 year 4 months)
+
+Researcher at Center for Digital Music, Queen Mary University of London
+October 2005  -  September 2008  (3 years)
+
+PhD under the supervision of Prof. Mark Sandler and Prof. Mounia Lalmas. My dissertation is
+ entitled "A Distributed Music Information System" and develops a Semantic Web framework to
+ distribute music-related information, from complex editorial meta-data to the results of automatic
+ content analysis. My dissertation is available at http://raimond.me.uk/phd/.
+
+Education
+Ecole nationale supérieure des Télécommunications
+Engineer's degree, Artificial Intelligence, Signal Processing, Software Engineering, 2002 - 2005
+
+Interests
+machine learning, semantic web, media & music, linked data, ontologies, traveling, cinema
+
+
+
+Yves Raimond
+San Francisco Bay Area
+Research/Engineering Manager - Machine Learning at Netflix (Hiring!)
+
+1 person has recommended Yves
+
+"I worked with Yves at the Centre for Digital Music, developing new musical applications of
+semantic web technologies. At the outset I had some reserved optimism about the semantic
+web, but it was Yves whose inspiring example resulted in my spending a year working with the
+technologies. It's rare to find someone with deep-seated enthusiasm for a technology who can
+steer clear of excessive evangelism, and without fail backs up their claims with evidence and
+well thought-out explanations. Yves has a real passion for music and linked data, but is in fact
+somebody who would do a first-rate job of any project he set his mind to. Yves Raimond is a
+consummate professional, a talented researcher, and one of the most friendly, intelligent and
+passionate people I have ever had the privilege to work with."
+
+—Christopher Sutton, Director,  Easy Ear Training Ltd.,  worked directly with Yves at Center for
+Digital Music, Queen Mary University of London
+
+Profile Notes and Activity (3)
+10/30/2015—View by Raluca Jamault-Otelea
+
+11/2/2015—View by Clémentine Daines
+
+11/2/2015—InMail sent by Clémentine Daines (Pending)
+
+

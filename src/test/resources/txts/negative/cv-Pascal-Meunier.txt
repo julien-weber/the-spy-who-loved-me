@@ -1,0 +1,269 @@
+
+
+
+Pascal Meunier - Software Engineer & Business Intelligence Specialist
+Pascal MEUNIER
+Software Engineer & Business Intelligence Specialist
+Mobile: +33.6.75.76.82.54
+Email: pmeunier98@gmail.com
+
+
+Main Skills
+
+15 years work experience in software development:
+8 years of Project Management & Team leading experience
+5 years as a BI consultant (developer, architect, tech lead)
+International work experience (Copenhagen, New York, Hong Kong, Amsterdam, Paris)
+
+Technical skills
+
+Business Intelligence:		ActivePivot, ActivePivot Live, Excel
+Programming Languages: 	Java, Smalltalk, Perl
+Databases: 			SQL Server, DB2
+Continuous Delivery:		Jenkins, Bamboo, Sonar, Maven, Graddle, Nexus, Git, Svn
+Project Management:		MS Project, Atlassian Jira and Confluence, Niku Workbench
+Modeling:			UML, Mega, Visio, OmniGraffle Professional, mind maps 
+Operating Systems:		Windows, UN*X (Mac OS X, Linux)
+Business skills
+
+Project Management & Coordination (Agile)
+Team management (direct and transversal)
+Market Risk
+Accounting
+Insurance and Reinsurance
+Education
+
+2008		ESIAG – Paris (France), Master Degree in applied computing for Business (Merit)
+2004		Unitec – Auckland (New Zealand), Certificate in English
+1999		University of Paris 8  – Paris (France), Deug (Bac + 2) in Computer Science
+1996	French Baccalaureate, major in Literature and Math’s (A Level equivalent)
+
+
+
+Work Experience
+
+Global Market Solution, Paris
+April 2014 to present
+
+Context 
+Global Market Solutions is both a consultancy company and a software vendor. In that organization, I have overtaken an hybrid position since I work as a consultant and also as a member of the product center.
+
+Consultant
+As a consultant, my main mission is to build analytics system for financial institutions. Those systems are based on ActivePivot, which is an in-memory, real-time BI library. The main experiences are described later on in this documents.  
+
+I am also involved in more commercial activities:
+Commercial prospection: Finding new clients as well as new opportunities in older clients 
+Recruitment: Candidate hunting 
+Product development of software solutions to address new markets
+
+
+Nordea, Copenhagen
+August 2014 to present
+
+Context 
+Nordea is transforming is market IT architecture to be more modular and flexible. In that regard they have chosen ActivePivot as their preferred real-time business analytics engine. I was involved in various projects to help them build and maintain many of their real-time analysis tools.
+
+Senior Developer – Various projects
+
+Design of real-time multidimensional analytics systems
+Development of the backend servers, based on ActivePivot
+
+Technical environment: Java, ActivePivot, Atlassian Jira and Confluence, Bamboo building server 
+
+
+Société Générale Corporate and Investment Bank, Paris
+August 2013 to August 2014
+
+Context 
+This project aims to provide a tool for SG-CIB’s liquidity coverage ratios that offers the possibility to analyze liquidity ratios from the most global view to the finest element in a seamless manner
+
+Architect and technical lead – Illiqo project
+
+SG CIB’s technical advisor during the proof of concept
+Define the target architecture
+Technical leader for the implementation phase
+
+Technical environment: Java, ActivePivot, Jenkins, Atlassian Jira
+
+Aneo, Boulogne-Billancourt
+March 2010 to March 2014
+
+Consulting Manager
+
+Transversal management of 6 consultants 
+Commercial prospection 
+Recruitment: technical assessment of candidates 
+Participation in bids elaboration for complex tenders 
+
+
+Quartet FS, New York
+April 2013 to July 2013
+
+ActivePivot Specialist – Various projects
+
+Work on several proof of concepts for Blue Mountain and Bank of America Merrill Lynch
+
+Technical environment: ActivePivot, ActivePivot Live, Amazon Web Services, Linux, Windows
+
+
+Credit Agricole Corporate and Investment Banking, Paris
+September 2012 to February 2013
+
+Context 
+After the launch of a new CVA (Credit Valuation Adjustment) trading activity, CA-CIB decided to implement a new project to calculate and manage CVA figures (normal runs, sensitivities and stressed scenarios) 
+
+ActivePivot Expert and Technical Leader – Global CVA Desk project
+
+Management of a team of 5 software engineers
+In charge of the development of the analysis and reporting functionalities, based on ActivePivot and ActivePivot Live, such as:
+Run comparison (between different dates or different types of runs)
+Simulations features
+Set up a continuous integration process
+
+Technical environment: ActivePivot, ActivePivot Live, Java, Jenkins, Sonar, Maven, Nexus
+
+
+Systalians, Paris
+October 2011 to March 2012
+
+Context 
+Systalians is an IT company providing software for pension and insurance companies. “Usine Retraite” is a nation-wide program that aims to provide to all French pension companies a full software suite to manage all business aspects of pension management.
+
+Project Manager and Coordinator – Usine Retraite
+
+Project coordination on data source quality improvement aspects
+Project management for developing migration validation tools
+
+Sodetrel (subsidiary of EDF), Paris
+September 2011 to October 2011
+
+Software Architect - Audit
+
+Technical audit on the main back office portal
+Design of the new architecture
+
+Technical environment: PHP, MySQL
+
+
+HSBC, Paris
+September 2011 to October 2011
+
+ActivePivot expert – Force project
+
+Context: Force is HSBC’s front office risk portal, based on ActivePivot
+Audit of the system
+Upgrade to the latest ActivePivot version
+Coordination with Quartet’s product center
+
+Technical environment: ActivePivot, Java, IBM RAD and Websphere
+
+
+ING, Amsterdam
+August 2010 to September 2011
+
+Technical Leader and ActivePivot expert - Summit MI/HVaR Project:
+Context: ING was implementing a first version of a risk and PnL analysis and reporting platform, based on ActivePivot and dedicated to Summit
+Management of a team of 5 developers
+Plan and coordinate delivery for new functionalities
+Discuss technical and business requirements
+Interview job applicants
+Estimate new ActivePivot projects
+
+Technical Architect – Integration Platform Project:
+Context: Based on the first project, this project meant to encompass PnL and VaR analysis for the entire bank. I was responsible for the design of the target system
+Project coordination
+Writing project brief and initiation document;
+Planning and cost estimate
+Collect and synthetize business requirements;
+Design system architecture
+Define and size infrastructure
+
+Technical environment: ActivePivot, ActivePivot Live, Tomcat, RedHat server
+
+
+
+HSBC, Hong Kong
+March 2010 to July 2010
+
+Context
+HSBC has chosen ActivePivot to build a global Value at Risk managing tool. The first milestone consisted in enabling the calculation and aggregation of VaR figures for the entire Asia-Pacific region.
+
+ActivePivot consultant – MARS : Asia-Pacific VaR calculation
+
+Design and configuration of ActivePivot cubes
+Design implementation and tests of a data extraction engine
+Provide support to HSBC IT Team
+
+Technical environment: ActivePivot, Java, IBM RAD and Websphere
+
+
+Systalians, Paris
+September 2002 to March 2010
+
+Context 
+Systalians is an IT company providing software for pension and insurance companies. Systalians is ISO certified (9001 and 27001).
+I fist integrated the company as an administrator for the technical support team. Then I became a software engineer, evolving in a project manager position
+
+Project Manager – “Convergence” project
+
+Handling a team of 6 software engineers for 2 years, planning and leading ongoing maintenance for a portfolio of 70 software that deal with:
+Pension and insurance fees management
+Invoices and payments to individuals and businesses
+Sub ledger accounting
+Coordination of accounting related issues on transversal projects, such as:
+“Business Delegation System” project: Overhaul of processes and software that manage relationships between insurance companies and their subcontractors
+“Reinsurance” project: Providing software to manage reinsurance contracts, compute fees and manage relationships between insurers and their re-insurers.
+Accounting and financial aspects of the insurance allowance system overhaul and migration projects. I was involved as a knowledgeable person as well as a coordinator for sub ledger accounting issues
+
+Software engineer – “Convergence” project
+
+In charge of the insurance fees management software.
+Insurance fees calculation overhaul
+Separating insurance from pension in sub ledger accounting software
+
+
+Technical environment : Java, Smalltalk, SQL, DB2, SQL Server, UML, Mega
+
+
+
+Groupe Malakoff, Paris
+January 2001 to July 2002
+
+Groupe Malakoff is a French pension and insurance company in which I was involved in two different projects
+
+Software developer - “SIP” project
+
+This project aimed to conceive and develop the pension fund and insurance system. I was in charge of software units for creating and managing contracts
+
+
+Software developer – Computer Equipment Management project
+
+This project consisted in conceiving software for managing the company’s computer equipment
+
+
+Technical environment: Smalltalk, SQL, DB2, Access
+
+
+BNP PARIBAS EE, Paris
+February to December 2000
+
+Software developer
+Development and maintenance of tools that merge data from clientele into the company’s back office information system
+
+Technical environment: VB, VBA, SQL, Oracle, Access
+
+
+Languages
+English: Fluent
+French: mother tongue
+
+
+
+	1
+
+
+
+	2
+
+
+1

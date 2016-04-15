@@ -1,0 +1,225 @@
+
+CURRICULUM VITAE ET STUDIORUM
+
+Sofia Ceppi
+
+PERSONAL INFORMATION
+
+Name: Sofia
+Surname: Ceppi
+Birthdate: March 22, 1983
+Birthplace: Mariano Comense (CO), Italy
+Citizenship: Italian
+
+Email
+soceppi@microsoft.com
+
+Address
+Microsoft Research Cambridge
+21 Station Road
+Cambridge
+CB1 2PZ
+UK
+
+Webpage
+www.sofiaceppi.com
+
+1
+
+
+
+POSITION AND EDUCATION
+
+RECORD OF EMPLOYMENT
+
+09/2013– Postdoc Researcher at Microsoft Research
+
+Advisor: Dr. Ian Kash
+
+01/2009–02/2013 Ph.D. Student on Information Engineering at the Dipartimento di Elettronica e Infor-
+mazione at Politecnico di Milano, Milano, Italy.
+
+01/2012–12/2012 Visiting Student at Faculty of Physical and Applied Sciences at University of Sou-
+thampton, Southampton, UK.
+
+ASSOCIATION MEMBERSHIPS
+
+2009–2015 Member of the ACM, Association for Computer Machinery:
+
+• ACM SIGAI, Special Interest Group on Artificial Intelligence.
+• ACM SIGecom, Special Interest Group on Electronic Commerce.
+
+EDUCATION
+
+01/2009–02/2013 Ph.D. on Information Engineering at the Dipartimento di Elettronica e Informazione
+at Politecnico di Milano, Milano, Italy.
+
+Thesis title: Incentive Compatible Revenue Sharing Mechanisms for the Federation of Ser-
+vices.
+
+Advisors: Dr. Nicola Gatti,
+
+Dr. Enrico H. Gerding.
+
+09/2005–12/2008 MSc in Computer Engineering at Politecnico di Milano, Milano, Italy.
+
+Thesis title: Research and Characterization of Equilibria in Central Auction Based Whole-
+sale Electricity Markets.
+
+Advisor: Dr. Nicola Gatti.
+
+09/2002–09/2005 BSc in Computer Engineering at Politecnico di Milano, Milano, Italy.
+
+SUMMER SCHOOLS
+
+• 13th Trento Summer School - Intensive course in “Market Design: Theory and Pragmatics”, 2012.
+• The Google Europe, the Middle East and Africa Scholars’ Retreat. June, 2011.
+
+AWARDS
+
+2012 Winner of “Yahoo! 2012 Key Scientific Challenges Program Award”.
+
+2011 Finalist of “The Google Anita Borg Memorial”.
+
+2009 Winner of a scholarship funded by the Italian Ministry of University for the PhD
+program in Information Technology at the Politecnico di Milano.
+
+2
+
+
+
+TEACHING ACTIVITIES
+
+TEACHING ASSISTANTSHIPS
+
+2009–2012 Teaching Assistant in the course “Computer Science Foundations” in the undergra-
+duate program in Mechanical Engineering and Energetic Engineering, Politecnico di
+Milano, Milano, Italy.
+
+CO-ADVISOR IN THESES
+
+• F. Trovó. MSc Thesis: “Automated Mechanism Design Approach for Federated Search Engines”,
+Politecnico di Milano, Milano, Italy, 2011.
+
+• L. E. Bonetti. MSc Thesis: “Revenue Sharing Mechanisms for Federated Sponsored Search Auc-
+tions”, Politecnico di Milano, Milano, Italy, 2011.
+
+• D. Bacchini. MSc Thesis: “Un Approccio di Automated Mechanism Design per Aste di Link
+Sponsorizzati con Motori di Ricerca Federati”, Politecnico di Milano, Milano, Italy, 2010.
+
+• L. E. Bonetti. BSc Thesis: “Analisi de Meccanismi d’Asta per Advertising su Motori di Ricerca”,
+Politecnico di Milano, Milano, Italy, 2009.
+
+• G. Patrini e M. Rocco. BSc Thesis: “Computing Bayes-Nash Equilibria through Support Enumera-
+tion Methods in Bayesian Two-Player Strategic-Form Games”, Politecnico di Milano, Milano, Italy,
+2009.
+
+SCIENTIFIC ACTIVITIES
+
+WORKSHOP ORGANISER
+
+• Workshop on Games, Learning, and Market 2014, Cambridge, UK, 2014.
+• Joint Workshop on Agent-Mediated Electronic Commerce and Trading Agent Design and Analysis
+
+(AMEC/TADA), 2014, 2015.
+
+SCIENTIFIC COMMITTEE / REVIEW ACTIVITIES
+
+• ACM Conference on Economics and Computation (EC), 2015.
+• Assiciation for the Advancement of Artificial Intelligence Conference (AAAI), 2015
+• International Joint Conference on Artificial Intelligence (IJCAI), 2013, 2015.
+• ACM International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS),
+
+2010, 2011, 2014, 2015.
+
+SELECTED PUBLICATION LIST
+
+EDITED VOLUMES
+
+A1. S. Ceppi, E. David, V. Podobnik, V. Robu, O. Shehory, S. Stein, and I.A. Vetsikas. Agent-Mediated
+Electronic Commerce. Designing Trading Strategies and Mechanisms for Electronic Markets. Sprin-
+ger International Publishing. 2014.
+
+3
+
+
+
+PAPERS IN JOURNALS
+
+A1. S. Ceppi, and N. Gatti. An Algorithmic Game Theory Study of Wholesale Electricity Markets based
+on Central Auction. Integrated Computer-Aided Engineering, special issue on Multi-Agent Systems for
+Energy Management, 17(4): pag. 273–290, 2010. IOS press.
+
+PAPERS IN PROCEEDINGS OF CONFERENCES
+
+C1. N. Gatti, M. Rocco, S Ceppi, and E.H. Gerding: Mechanism Design for Mobile Geo-Location Ad-
+vertising. In Proceeding of the 28th AAAI Conference on Artificial Intelligence (AAAI).Quebec
+City, Quebec, Canada, AAAI, July 2014.
+
+C2. Y. Bachrach, S. Ceppi, I.A. Kash, P. Key, and D. Kurokawa: Optimising Trade-offs Among Stakehol-
+ders. In Proceeding of the 15th ACM Conference on Economics and Computation (EC). Stanford,
+CA, USA, June 2014.
+
+C3. Y. Bachrach, S. Ceppi, I. Kash, P. Key, F. Radlinski, E. Porat, M. Armstrong, and V. Sharma: Buil-
+ding A Personalized Tourist Attraction Recommender System Using Crowdsourcing. In Procee-
+dings of the 13th ACM International Joint Conference on Autonomous Agents and Multi-Agent Systems
+(AAMAS). Paris, France, May 2014. (Demo)
+
+C4. V. Naroditskiy, S. Ceppi, V. Robu, and N. R. Jennings: Redistribution in Online Mechanisms. In
+Proceedings of the 12th ACM International Joint Conference on Autonomous Agents and Multi-Agent
+Systems (AAMAS). Saint Paul, Minnesota, USA, May, 2013.
+
+C5. M. Brambilla, S. Ceppi, N. Gatti, and E. H. Gerding: A Revenue Sharing Mechanism for Federated
+Search and Advertising. In Proceedings of the International Conference on World Wide Web (WWW).
+Lyon, France, April, 2012. (Short Paper)
+
+C6. S. Ceppi, N. Gatti, and E. H. Gerding: Mechanism Design for Federated Sponsored Search Auc-
+tions. In Proceedings of the 25th AAAI Conference on Artificial Intelligence (AAAI). San Francisco, USA,
+August, 2011.
+
+C7. S. Ceppi, N. Gatti, and C. Iuliano: Solving Strategic Bargaining with Arbitrary One-Sided Un-
+certainty. In Proceedings of the 10th ACM International Joint Conference on Autonomous Agents and
+Multi-Agent Systems (AAMAS). Taipei, Taiwan, May 2-6, 2011.
+
+C8. S. Ceppi, N. Gatti, G. Patrini, and M. Rocco: Local Search Methods for Finding a Nash Equilibrium
+in Two-Player Games. In Proceedings of the 10th IEEE/WIC/ACM Conference on Intelligent Agent
+Technology (IAT). Toronto, Canada, August 31 September 1-3, 2010.
+
+C9. S. Ceppi, and N. Gatti: An Algorithmic Game Theory Framework for Bilateral Bargaining wi-
+th Uncertainty. In Proceedings of the ACM International Joint Conference on Autonomous Agents and
+Multi-Agent Systems (AAMAS). Toronto, Canada, May 10-14, 2010.
+
+C10. S. Ceppi, N. Gatti, and N. Basilico: Computing Bayes-Nash Equilibria through Support Enumera-
+tion Methods in Bayesian Two-Player Strategic-Form Games. In Proceedings of the IEEE/WIC/ACM
+International Conference on Intelligent Agent Technology (IAT). Milano, Italy, September 15-18, 2009.
+
+C11. N. Basilico, N. Gatti, T. Rossi, S. Ceppi, and F. Amigoni: Extending Algorithms for Mobile Ro-
+bot Patrolling in the Presence of Adversaries to More Realistic Settings. In Proceedings of the
+IEEE/WIC/ACM International Conference on Intelligent Agent Technology (IAT). Milano, Italy, Sep-
+tember 15-18, 2009. (Best Student Paper Award)
+
+WORKING PAPERS
+
+A1. S. Ceppi, N. Gatti, and E.H. Gerding. Mechanism Design for the Federation of Service Providers.
+2015. Submitted to Journal of Artificial Intelligence Research (JAIR).
+
+4
+
+
+
+A2. S. Ceppi, and I. Kash. Personalized Payments for Storage-as-a-Service. A preliminary version of the
+work has been accepted at the 10th Workshop on the Economics of Networks, Systems and Computation
+(NetEcon 2015).
+
+A3. Y. Bachrach, S. Ceppi, I. Kash, P. Key, and M. R. Khani. Mechanism Design for Mixed Ads. A
+preliminary version of this work has been accepted at the 11th Ad Auction Workshop (2015).
+
+A4. Y. Bachrach, S. Ceppi, I. Kash, and P. Key. Predicting Online Shopping Behavior Using a Fine-
+Grained Model of Personality. 2015.
+
+A5. S. Ceppi, R. Frongillo, and I. Kash. A Characterization of Incentive Compatible Mechanisms with
+Partial Verification. 2015.
+
+5
+
+

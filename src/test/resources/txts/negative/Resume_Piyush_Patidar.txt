@@ -1,0 +1,78 @@
+
+PIYUSH PATIDAR 
+408-242-5466 | piyushpatidar@yahoo.com 
+
+ 
+
+ 
+
+Summary 
+ 
+
+ Innovative software engineer with nine years of experience in the full software development lifecycle. 
+Ability to design, develop, maintain, and enhance large scale, high performance software systems. 
+
+ Excellent problem solving skills – able to analyze code and engineer scalable, cost-effective and 
+responsive solutions. 
+
+ 
+ 
+
+Skills 
+ 
+
+C, C++, Java, Linux, FreeBSD, Apache HTTP Server, MySQL, Maven, GDB, Protobuf, Redis, Storm, XML, JSON, 
+HTML, TCP/IP, REST, Eclipse, IntelliJ, Git, SVN, and more 
+ 
+  
+
+Professional Experience 
+ 
+
+Sr. Software Engineer, YAHOO! INC, Sunnyvale, CA 04/2010 to Present 
+Designed and implemented object-oriented web software for highly scalable distributed applications for 
+Yahoo! Finance. Projects: 
+
+ Rights Engine & Real-time Quotes Data APIs - Object oriented system, built in C++ & Java, which can handle 
+context driven rules & enforce contractual agreements for data distribution rights. Built with highly 
+configurable Rights Engine & Data Access APIs to serve applications currently serving over 500K RPS. 
+
+ Quotes Pages - Lead developer for C++ based YODA framework for publishing XML/XSLT based web pages. 
+Modular and configurable system, which can serve in less than 90ms with related and unrelated 
+data stitched together from different data stores. System is also used as an API and RSS end point. 
+
+ Symbology - Designed distributed system to uniquely identify and tag financial entities during real-time 
+feed data processing. Designed core financial data model. Among other applications, this C++ and Perl-XS 
+based system is used to fail-over between data providers, there-by providing data resiliency. 
+
+ Vespa Search Applications - Developed various Finance search applications using Vespa search indexing 
+including Symbol Search, Funds/ETFs lists. Also used Vespa for architecting a Java based document-
+processing framework for stream data ingestion & processing for MySQL based feed data. 
+
+ Partner Integrations - Apple, Fidelity, Bankrate, StockTwits as well as Internal application integrations like 
+Personal Finance, Autocomplete, Message Boards, Streaming Quotes, News, Portfolios and Mobile apps. 
+
+ 
+
+Software Engineer, YAHOO! INC, Sunnyvale, CA 06/2006 to 04/2010 
+Assisted in the design and development of Internet applications and systems for Yahoo! Finance. Projects: 
+
+ Site-In-A-Box - Moved 17 International finance sites onto a single code-base to reduce maintenance costs 
+and enhance product life cycle. 
+
+ RV Data Distribution - Developed data distribution tools built using RV messaging framework to deliver 
+data across APIs and content servers for user facing applications. 
+
+ Yacht - Python based internal application built with Django MVC framework to facilitate news 
+categorization and provide APIs & editorial tools. 
+
+ 
+ 
+
+Education 
+ 
+
+Masters of Science in Computer Science, SUNY Stony Brook, NY 12/2005 
+Bachelor of Engineering in Computer Engineering, SGSITS, India 04/2004 
+
+

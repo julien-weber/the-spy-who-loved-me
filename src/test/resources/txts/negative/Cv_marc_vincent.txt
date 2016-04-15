@@ -1,0 +1,138 @@
+
+Marc VINCENT
+né le 25 octobre 1979
+38, rue du Charolais
+
+75012 Paris, FRANCE
+portable 06 70 54 25 32
+marc.r.vincent@free.fr
+
+www.dsi.unifi.it/~vincent
+
+Analyste de données
+Ph.D. Ingénierie Informatique
+
+EXPERIENCE
+
+4 ans [01/2010 ­ 10/2014] Poste: chercheur post­doctorant. Fonctions: encadrement, enseignement, gestion de projet,
+recherche, analyses, développement logiciel, dissémination. Thématique: Analyse de données de pharmacogénomique
+par approche statistique classique et d’apprentissage statistique. Lieu: UMR S775, Bases moléculaires de la réponse aux
+xénobiotiques, INSERM/université Paris Descartes. Post­Doctorat financé par le projet Biointelligence, en collaboration avec les entreprises Dassault
+Système et Sobios. Sous la direction du Pr. Pierre Laurent Puig.
+
+4 ans [01/2006 ­ 03/2010] Poste: chercheur doctorant. Missions: recherche, analyses, développement logiciel,
+dissémination. Thématique: Apprentissage statistique appliqué à la prédiction des caractéristiques des amino­acides: étude
+des propriétés relevantes et création de Noyaux de Mercer Ad­Hoc. Lieu: Machine Learning and Neural Network Group (directeur
+Giovanni Soda), faculté d’ingénierie de Florence (Italie). Projet réalisé dans le cadre du partenariat européen bioptrain, dépendant des actions Marie Curie
+(sixième programme cadre Cordis). Sous la direction du Pr. Paolo Frasconi.
+
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­ Stages ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+
+3 mois [07/2008 ­ 09/2008] Poste: stagiaire de doctorat. Lieu: Hirst group (directeur Jonathan Hirst), université de Nottingham (Royaume­
+Uni). Echange avec l’université de Nottingham dans le cadre du projet bioptrain. Sous la direction du Pr. Jonathan Hirst.
+
+9 mois [01/2005 ­ 09/2005] Poste: stagiaire de master. Mission: développement logiciel. Sujet: Ecriture d’un plug­in java pour
+l’exploration dynamique de réseaux d’interactions avec le logiciel Cytoscape. Lieu: Unité de Biologie Systémique (directeur Benno
+Schwikowski) de l’institut Pasteur, Paris. Sous la direction de Benno Schwikowski, en collaboration avec l’équipe Génétique des interactions
+macromoléculaires dirigée par le Pr. Alain Jacquier.
+
+10 mois [09/2003 ­ 07/2004] Poste: stagiaire de master. Sujet: Transcrits centromériques et différenciation hématopoïétique.
+Lieu: Unité Inserm 567 (Hematologie, directeur Axel Kahn) institut Cochin, Paris. Sous la direction du Dr. Claire Francastel.
+
+6 mois [02/2003 ­ 07/2003] Poste: stagiaire de maitrise. Sujet: Etude de l’activation des protéines STAT lors de l’activation du
+récepteur Alk, sous la direction du Dr. Christel Lutz. Lieu: Unité Inserm 440 (signalisation dans les systèmes nerveux et musculaires,
+directeur André Sobel) de l’Institut du Fer­à­Moulin (Paris).
+
+2 mois [08/2002 ­ 09/2002] Poste: stagiaire de license. Lieu: unité Inserm 538 (trafic membranaire et signalisation dans les cellules épithéliales,
+directeur Germain Trugnan) de l’hôpital saint­Antoine (Paris). Stage effectué sous la direction de Michèle Maurice.
+
+Apprentissage&
+statistiques
+
+Informatique
+
+Bioinformatique
+
+Langues
+
+Modèles Graphiques, Réseaux de neurones, Deep Learning, Réseaux Bayésiens, Réseaux de Markov,
+Méthodes à noyau, Machines à Support de Vecteurs, Kernel Design, Multiple Kernel Learning, Processus
+Gaussiens,
+Modèles Linéaires Généralisés, Sélection de variables par pénalisation,
+Bio­statistiques. Analyse de survie, Analyse en Composantes Principale, k­NN...
+
+Langages: C, C++, Python, Perl, Java, R, Matlab/Octave, Bash, SQL, HTML, XML, javascript.
+Outils d'édition : Vim, Git, PyCharm, Netbeans, Eclipse.
+Productivité et création: Office, Scribus, Blender, Lightwave, Photoshop, Illustrator, The Gimp, LMMS
+Autres outils : Cytoscape, Theano, Scikit­learn, Pandas, Hdf5, Orange, Weka, Latex
+Environnements UNIX : Linux et MacOS X ; Windows.
+
+Analyse de données de génotypage et d'expression (Illumina/Affymetrix), utilisation de Bioconductor.
+Fouille et fusion de données biologiques UCSC, Biogrid, GO, Genbank, Expasy, Swiss­prot, Kegg...
+Analyse & Comparaison de séquences Blast, Fasta, chaines de Markov.
+
+Anglais: courant, Italien: courant. Allemand : notions.
+
+COMPETENCES
+
+
+
+
+FORMATION
+
+ENSEIGNEMENT
+
+2013­2014 Cours Pharmacogénétique Master I de Biologie dirigée vers la Pharmacologie et la Toxicologie.
+2012­2013 Cours Pharmacogénétique Master I de Biologie dirigée vers la Pharmacologie et la Toxicologie.
+2011­2012 Cours Bases de données Master I de Biologie dirigée vers la Pharmacologie et la Toxicologie.
+2011­2013 Enseignement dans le cadre associatif (Association Phénix et Dragon).
+
+COMMUNICATIONS
+
+• Etude pharmacogénétique de la toxicité digestive et hématologique du FOLFOX avec ou sans cetuximab chez les patients
+traités après résection d’un cancer colorectal de stade III dans le cadre de l’essai PETACC­8. JFHOD (2014)(Congrès)*
+• Urinary retinol binding protein is a marker of the extent of interstitial kidney fibrosis. PLOS ONE (2014)(Article)
+• Hsa­mir­31­3p effects on gene expression in colorectal cancer cell lines and patients. ASCO (2013)(Congrès)
+• Argumentative insights from an opinion classification task on a French corpus, LENLS10 (2013)(Congrès)*
+• Construction et exploitation d’un corpus français pour l’analyse de sentiment, TALN (2012)(Congrès­Poster)*
+• Genome­wide transcriptomic variations of human lymphoblastoid cell lines: insights from pairwise gene­expression
+correlations, Pharmacogenomics (2012)(Article)*
+• Machine Learning Applied To The Prediction Of Amino­acids Properties: study of relevant features and design of Ad­hoc
+Mercer kernels (mars 2010) (Thèse)*
+• Kinase specific phosphoryation: MALIOB, Turin Italy (2009) (Congrès)*
+• A simplified approach to disulfide connectivity prediction from protein sequences, BMC bioinformatics (2008)(Article)*
+• Kinase specific phosphoryation: Euro CBBM, Rome, Italy (2008) (Congrès)*
+• CK2 phosphorylation: Euro CBBM, Prague, Czech Repuplic (2007) (Congrès)*
+* en premier auteur ou position équivalente avec co­auteur de même importance
+
+Pierre Laurent Puig
+UMRS775 Bases Moléculaires de la Réponse aux Xénobiotiques
+mail/tél : pierre.laurent­puig@parisdescartes.fr/+33 (0) 1 42 86 22 26
+
+Paolo Frasconi (Tuteur de thèse)
+Machine Learning and Neural Network group
+mail/tél : p­f@dsi.unifi.it/+39 055 4796 362
+
+Benno Schwikowski (Tuteur stage de DESS)
+Pasteur Institute­Systems Biology group
+mail/tél : benno@pasteur.fr/+33 1 45 68 86 20
+
+AUTRES ACTIVITES
+
+Sport: Kung­fu (13 ans de pratique, 3 ans d’enseignement dans le cadre associatif, spécialité tang­lang taiji meihua)
+
+Créativité: Dessin­Infographie (2D et 3D), Photographie, Musique (guitare, MAO).
+
+Voyages: Chine, Taiwan, USA, Japon, Malaisie, Indonésie, Italie, Espagne, Croatie, Hongrie, République Tchèque,
+Autriche, Angleterre.
+
+REFERENCES
+
+2006­2010 Doctorat Ingénierie informatique et de l’automatisation, Université de Florence (Italie), obtention mars 2010
+2004­2005 Master professionnel Ingénierie Génomique Fonctionnelle, Université Denis Diderot (Paris VII).
+2003­2004 DEA physiologie du développement et différentiation fonctionnelle , Université Denis Diderot.
+2003­2004 Maitrise de biologie cellulaire et physiologie, université Pierre et Marie Curie (Paris VI).
+2002­2003 Licence de biologie cellulaire et physiologie, Université Pierre et Marie Curie.
+2000­2002 DEUG biologie orienté chimie, Université Pierre et Marie Curie.
+
+

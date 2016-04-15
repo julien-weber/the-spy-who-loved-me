@@ -1,0 +1,162 @@
+
+Ashwini Verma
+San Francisco Bay Area
+Tech Yahoo, Software Dev Eng, Sr at Yahoo
+
+Summary
+Solving Big Data Problems using Hadoop, Hive, Pig, Oozie, Druid, deriving useful insights on
+ performance bottlenecks, user behavior and user experience.  Immense interest in Algorithms / Data
+ Structures drove me to work extensively on linear programming to solve optimization problems in
+ products and otherwise.  Designed and developed extensible and scalable applications for Web and
+ Mobile.  Worked in large n small teams to design / develop enterprise products in myriad of domains
+ viz. Internet, Storage, File Systems, Finance, CRM on Linux, AIX, Solaris using C, C++, Shell,
+ Python, Perl, Java JEE  Specialties: Big Data, Algorithms, Data Structures, Linear Programming,
+ Optimization, Scalable web apps, Android
+
+Experience
+Tech Yahoo, Software Dev Eng, Sr at Yahoo
+April 2015  -  Present  (11 months)
+
+Solving scalability problems as developer of Yahoo monitoring system, which ingests and indexes
+ 7 million events per second. Currently working to remove delay from monitored server to analytics
+ dashboard.  Re-architected back-end tech stack of performance monitoring tool, replacing it with
+ open-source Druid and reducing development effort and time to production. 
+
+Tech Yahoo, Software Dev Eng at Yahoo
+December 2013  -  April 2015  (1 year 5 months)
+
+Designed and developed tool (named as RDL2App) to generate back-end server code to
+ considerably reduce development effort, given design of REST end points in plain text files. The
+ generated code was ready to be deployed in Yahoo cloud or standalone Jetty server. Generated
+ code had all wiring in place with various yahoo services including back-end stores. RDL2App also
+ generates basic unit tests using easy-mocks and interactive documentation using swagger. Among
+ other teams Yahoo Membership was one big team to adopt this tool.  Developed big data analytics
+ platform for mobile apps of Yahoo using Count-Min Sketch, Hadoop, Pig, Hive, Druid technologies.
+
+Tech Lead at Yahoo!
+February 2012  -  December 2013  (1 year 11 months)
+
+Worked on performance problems and async programming for the back-end technology stack
+ to scale to high Query-Per-Sec requirements of redesigned Yahoo Groups.  Developed generic
+ security framework for minimizing XSS attacks.
+
+
+
+Sr. Software Engineer at Symantec
+November 2007  -  February 2012  (4 years 4 months)
+
+Product : Server Foundation  Summary            Server Foundation is a project to integrate existing
+ standalone products VCM (Veritas Configuration Manger) and VPM (Veritas Provisioning
+ Manager) to better solve customer problems and more effectively compete in market place.
+ VCM is a product to manage configurations of many high-end servers, which include discovery
+ of softwares and hardwares installed on servers as well as detecting any patch installation/
+uninstallations. VPM, Veritas Provisioning Manager automates administrative tasks associated with
+ controlling, provisioning, and updating sophisticated, heterogeneous IT environments. These tasks
+ include discovering and recording hardware and software inventory, provisioning servers, setting
+ up networks and storage, setting up administrative and user access, and managing the IT life cycle
+ for infrastructure resources.
+
+Sr. Software Engineer at Symantec
+November 2007  -  February 2012  (4 years 4 months)
+
+Product : VPM-DSS  Summary            VPM-DSS is a transition project from VPM (Veritas
+ Provisioning Manager) to DSS (Deployment Solution Solaris). Veritas Provisioning Manager:
+ Veritas Provisioning Manager (VPM), previously VERITAS OpForce, automates server provisioning
+ by discovering server hardware, installing operating systems, deploying and configuring
+ applications, and modifying network settings on multiple servers simultaneously. Administrators
+ quickly save configuration images on major operating systems and redeploy those images to
+ servers as needed, eliminating configuration errors and reducing provisioning time. DSS is re-
+implementation of VPM as a Solution upon SMP (Symantec Management Platform).
+
+Sr. Software Engineer at SunGard
+May 2006  -  November 2007  (1 year 7 months)
+
+Product : PowerStation   Summary             PowerStation is a real-time, multi-channel, Web-
+based broker/advisor workstation designed to provide investment professionals with all of the
+ important tools they need to be successful. From contact and portfolio management to online
+ trading, account access, financial planning, asset allocation, cross selling and market data
+ services,PowerStation provides a single environment where brokers can access tools required
+ for real-time contact management, financial planning and advice, market data and research,
+ trading and portfolio management. It offers the benefit of rapid deployment with industry standard
+ processing systems, such as SunGard's Phase 3 and others. As a result, brokers can be instantly
+ connected to the SunGard Transaction Network to provide seamless, straight-through processing.
+
+Member of Technical Staff at Persistent Systems
+July 2004  -  May 2006  (1 year 11 months)
+
+Product: TCRM 6.0  Summary          The business objective of this application (TCRM6) is to
+ acquire, retain and make profitable business with customers by focusing on specific customer
+
+
+
+ segments, targeting them with promotion campaigns using communications an d personalized
+ messages. It analyses customer behaviour data made available to it in the customer data
+ warehouse. It helps end user to identify potential and existing customers who are likely to respond
+ to specific campaigns designed for them to maximize product sales and profitability.                    
+ TCRM 6 is a Customer Relationship management application that allows its users to operate on a
+ customer data warehouse an in an integrated framework.
+
+Education
+AIT
+Bachelor of Engineering (B.E.), Computer Engineering, 2000 - 2004
+Activities and Societies:  Music Club
+University of Pune
+BE, Computer Science, 2000 - 2004
+Activities and Societies:  Music Club.
+
+
+
+Ashwini Verma
+San Francisco Bay Area
+Tech Yahoo, Software Dev Eng, Sr at Yahoo
+
+4 people have recommended Ashwini
+
+"I have worked and managed Ashwini working in the product engineering team. Ashwini is a very
+talented individual and a quick learner. He has a good technical aptitude and likes to take up
+challenges. As a team player, he has always demonstrated willingness to help out in crises. He has
+a good attitude to question issues if he is not convinced with his understanding. All in all, a great
+asset for any team!"
+
+—Harshad Joshi, Director Product Development,  SunGard Financial Systems,  managed Ashwini
+at SunGard
+
+"I know Ashwini since more than 2.5 years when I joined Symantec. Ashwini is a technocrat! Any
+individual, company or group would love to work with him. He has an exellent knowledge and
+expertise on web development, enterprise software edevelopment & mobile development on
+different platforms/OSs such as Windows, Unix (Linux, Solaris), Android etc. He has a hunger for
+learning more and more and he is extremely tallented, hardwroking & perseverance towards any
+problem or work. Ashwini is always ready to take up the challenge and perform fabulously in difficult
+times. Other than his technical skills, he is a nice human being who is helpful, simple and straght
+forward. In short, for an organization or a group, he is an asset. -Vivek"
+
+—Vivek Khandekar (CSM, CSPO), Sr. Manager Development,  Symantec,  managed Ashwini at
+Symantec
+
+"Ashwini is very good team player and solid technical leader. He is very quick in grasping things
+and has to ability to work on complex problems with great ease. He is very proactive in making the
+systems and their operations work better. Very Innovative in solving problems and with great ease
+designs high performing scalable systems."
+
+—Sudhir Reddy, Architect,  Flipkart.com,  managed Ashwini indirectly at Yahoo!
+
+"Best term can be used to describe Ashwini is "nut-cracker". You give anything to him and he will
+do it for you. It may be either reverse engineering of existing thing or learning a new technology.
+This Java loving guy did not hesitate to learn even C++ within short time and excelled into his work
+
+
+
+using that. Though C++ pointers bothered him a lot still he handled them well. It was nice to watch
+enthusiasm and energy flowing around you when we were working together in same module."
+
+—Omprakash Mishra, Sr. Principal Software Engineer,  Symantec,  managed Ashwini indirectly at
+Symantec
+
+Profile Notes and Activity (3)
+1/22/2016—View by Abraham DIA
+
+1/22/2016—Saved to "ENG PALO ALTO" by Abraham DIA
+
+1/22/2016—InMail sent by Clémentine Daines (Accepted)
+
+

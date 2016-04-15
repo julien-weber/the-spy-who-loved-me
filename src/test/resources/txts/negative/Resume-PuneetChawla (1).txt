@@ -1,0 +1,147 @@
+
+Puneet	Chawla	
+450 Union Street San Francisco, CA 94133     thisispuneet@gmail.com     (650) 670-0853 
+
+ 
+ 
+
+COMPUTER SKILLS 
+ 
+
+Open Stack, Hadoop, Spark, AWS, ESXi, VSphere, vRA, vRO, SRM, NSX, Python, Django, R, Scala, C++, 
+Jira, GIT, RabbitMQ, puppet, Docker, REST, SOAP, HTML, CSS, EMC Hybrid Cloud, EMC Data lake 
+
+ 
+ 
+
+WORK EXPERIENCE 
+ 
+VMware/Kelly Services – Federation SDDC Architect – August 2015 – present  
+
+ 
+• Implemented and setup VMware Integrated OpenStack (VIO) Architecture with Enterprise Hybrid Cloud Solution 
+• Designed and developed complete automation of VIO command line; (features like Backup, Restore, and Recovery) 
+• Led VIO and OpenStack automation testing via developing custom scripts and implementing Tempest test suite 
+
+ 
+EMC Corporation – Senior Software Engineer – December 2013 – August 2015  
+
+ 
+• Led multiple Enterprise Hybrid Cloud (EHC) projects: EHC Packaging, Disaster Recovery, Test Cycles, HDaaS 
+• Developed and executed vRO workflows to import/export vRA Catalog items and ASD components for scalability 
+• Created the architectural design and setup of version control system for EHC development (wiki, git, jira, bamboo) 
+• Contributed to EHC development on STaaS, BaaS, continuous availability, and provisioning performance issues 
+• Submitted innovation idea of “EHC Marketplace” to The Office of CTO 
+
+ 
+Calypso Software Inc. – Programmer Analyst – April 2012 – November 2013 
+
+ 
+Worked on various in-house development projects and fulltime consulting for clients like Cisco and eBay 
+
+ 
+ eBay Inc. – Software Engineer – January 2013 – November 2013 
+
+ 
+• Constructed, fostered, and managed automated storage provisioning management system (SRM) 
+• Provided requirements analysis, proof of concept, design, and implementation for new Open Stack system 
+• Developed APIs and CLIs for block/file/object storage which worked universally with multiple vendor hardware 
+• Collaborated with internal and external technical leads to develop innovative solutions and infrastructure that met  
+ business and technical needs of storage: high availability, performance, scalability, and security 
+• Designed and established tenant base UI; for provisioning, monitoring, and listing storage sandbox API docs 
+
+ 
+ Cisco Systems – Software Engineer – July 2012 – December 2012 
+
+ 
+• Worked with offshore teams and internal clients to design and analyze the requirements of in-house applications 
+• Led the developed of GUI as stand-alone Python application, using WxPy, Element Tree, Safenet, Sockets, xlrd 
+• Collaborated with teams of 25+ at all stages of development lifecycle and deployed production ready application 
+• Trained and documented initial deployment and supported product stabilization/debug at the deployment site 
+
+ 
+State of New York – Student Assistant – September 2006 – May 2011 
+
+ 
+At Stare University of New York, University at Buffalo (UB) I worked part-time at various in-school departments from 
+library to dental school as student assistant or student technician to student software developer. 
+
+ 
+School of Dental Medicine, University at Buffalo – Software Developer GA – May 2010 – May 2011 
+
+ 
+• Worked with a team of 4 developers to create an HIPPA regulated iPad application in Objective-C 
+• Utilized APIs and networking skills to sync iPad application with existing desktop application 
+• Collaborated in several projects at design, implementation, and testing stages 
+
+
+
+Puneet	Chawla	
+450 Union Street San Francisco, CA 94133     thisispuneet@gmail.com     (650) 670-0853 
+
+ 
+ 
+
+School of Dental Medicine, University at Buffalo – Help Desk Technician – September 2006 – April 2010 
+ 
+• Gained valuable customer service skills by providing direct technical support to more than 600 users 
+• Trained & Managed junior technicians; Suggested & Documented several in-house procedures 
+• Created system images and backups by utilizing OS X server, Symantec Ghost server, and EMC Retrospect 
+• Developed problem solving and technical skills by resolving hardware/software issues on Mac and PCs 
+
+ 
+ 
+
+SELECTED PROJECTS 
+ 
+Founder – www.UBforSale.com – April 2008 – November 2011 
+
+• Solely designed, developed, and hosted the website (original concept); advertised and maintained for 400+ users 
+• Utilized knowledge of Python, Django, PHP, git, SQL, TCP/IP, and firewalls 
+• Sold the website to a local business as they are expanding the idea to other local colleges 
+
+ 
+Algorithm to compress image files – (Python and C/C++) – Present 
+
+• Create an algorithm by combining the concepts of LCS and Dynamic Programming to compress images 
+• Analyze different raw image file extensions to compress each extension uniquely and efficiently for Big Data 
+• Find an image extension (.neet) which compresses raw digital files without discarding any data 
+
+ 
+ 
+
+EDUCATION 
+ 
+
+Masters of Science in Software Engineering – 2016 
+International Technological University, The Western Association of School and Colleges – San Jose, California  
+
+ 
+Bachelor of Science in Computer Science 
+University at Buffalo, The State University of New York – Buffalo, New York 
+
+ 
+ 
+
+CERTIFICATES  
+ 
+EMC Data Lakes for Big Data –2015 
+• Successfully completed the Big Data course with 99% grades at educast.emc.com 
+
+ 
+Spark Fundamentals Certification – Big Data University –2015 
+• Successfully completed the Spark Fundamental course at bigdatauniversity.com 
+
+ 
+ 
+
+RELEVANT ACTIVITY 
+ 
+Engineers Without Borders, University at Buffalo Chapter – Co-founder, President – September 2010 
+• Work on Tanzania School Project to build school for more than 1,000 children 
+• Seek to provide clean water for irrigation and drinking for the school community 
+• Construct and maintain website for EWB-UB chapter (www.ewb-ub.org) 
+
+ 
+
+

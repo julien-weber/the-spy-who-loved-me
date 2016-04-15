@@ -1,0 +1,105 @@
+
+Jeremie  Zarka
+Paris Area, France
+Bid Manager at Thales
+jeremie.zarka@gmail.com - +33680443972
+
+Summary
+A flexible multilingual (French, English) Senior engineer and Team Leader with over 5 years
+ experience in the Aerospace Industry looking to develop into Bid Management. Strong team player
+ and a well traveled individual with a proven track record in communicating and issue resolution with
+ program teams, internal actors and external customers.
+
+Experience
+Bid Manager at Thales
+July 2013  -  Present  (1 year 7 months)
+
+Team Leader at Thales Solutions Asia, Singapore
+January 2011  -  June 2013  (2 years 6 months)
+
+Team Lead for Air Traffic Control Systems.  Currently located in Singapore for the installation
+ of the Singapore national Air Traffic Management (ATM) System entitled LORADS III, I am
+ responsible for a team of 12 distributed between several sites. Together we are responsible for
+ the developments and integration of safety critical ATM software components and ensure on-time
+ deliveries and successful completion of assigned major project milestones. An in-depth technical
+ expertise as well as a flexible approach has led to my involvement in engineering Bids to estimate,
+ optimize costs and reduce risks of upcoming developments.  Responsibilities include • Leading
+ and mentoring of a team of 12 toward the development and support of  the company’s Java
+ Human Machine Interface (HMI) • Engineering Bid Management of new upcoming developments
+ • Implementation of the company process • Software Issue resolution internally with the project
+ team as well as the customer • Work Package progress and expenditure tracking and monitoring
+ • Metrics reporting and action plan establishment (organized defect task force with a team of
+ up to 20 engineers) • System architecture on distributed systems, component interaction and
+ interface design • Customer site logistics support, resources management and industrial strategy
+ • Customer ATM system Acceptance support and prompt issue resolutions as and when required
+ with engineering team • Organized several Proof Of Concept and demonstration to customer •
+ Project Management Meeting Participation • Leadership, direct interaction, and negotiation with all
+ teams including Management, Hardware, Deployment, Integration, Software/System Engineering,
+ Validation and subcontractors  Achievements  • Successful completion of Site Acceptance and
+
+
+
+ company gates towards the operational transition • Team lead on a multi-cultural and international
+ environment • Company process tuning to ensure quality and efficiency
+
+Software Engineer and Technical Leader at Thales
+August 2007  -  December 2010  (3 years 5 months)
+
+Technical lead in a software component team.  Responsible of developments of Evolution Change
+ Requests on a Java Human Machine Interface software component. Key team player in a team of
+ 10 in order to ramp it up to speed following a 6 months training mission to Melbourne (Australia).
+  Involved in Topsky product – European (Coopans, SESAR), South African (Flowcat) and French
+ (4F) customers.  • Technical leadership on the implementation of key ATC features such as
+ inter-sector coordination, ADS-C, CPDLC • Technical documentation, Software developments
+ and tests  • Organized demonstration to customers in factory (Hong Kong, Singapore, French
+ customers) • Participated to discussions with customer on trade shows (Asian, Africans and
+ European customers) • Involved in estimates and Rough Order of Magnitude during engineering
+ bids • Company process enhancements and engineering tools automation – virtualization ROI 
+ Achievements  • Key point of contact between France and Australia • Handled on the job training of
+ several new comers
+
+Software Engineer - Intern at IBM
+2007  -  2007
+
+In charge of design, implementation, test and implementation of a supervision system for the Self-
+Service Point of Sale (PoS). • Design and implementation using UML modeling and Agile process
+ • Distributed systems communicating through TCP connection – Java/C++ • Lotus Expeditor
+ platform Achievements • Deployed the solution at a retail store in France • Key interaction with
+ Sales teams to helped promoting the solution and close the sales of PoS hardware • Interaction
+ with Sales teams
+
+Software Development Intern at Tilbury
+May 2006  -  August 2006  (4 months)
+
+In charge of the implementation of a web solution of data migration for the company’s data mining
+ platform. • Interaction with User Experience design teams and several engineering teams (DBA,
+ Front-end, Back-end) • Implementation following the web 2.0 principles (AJAX) on .NET platform 
+ Achievements  • Successful delivery of the solution
+
+Software Deployment Intern at Thales Information Systems - XR Partner
+September 2005  -  October 2005  (2 months)
+
+Pilot Implantation of an emergency service management system – UrQual – for Mirranda de
+ Ebro Hospital. • Product policy in international environment with regulation constraints. • Several
+ customer visits in order to establish the data preparation of the solution.
+
+
+
+Education
+ESIEE
+Master of Science (M.Sc.), Computer Science, 2002 - 2007
+Activities and Societies:  Student Union, Travel Organizer
+Laval University
+Baschelor, Computer Science, 2005 - 2006
+Activities and Societies:  ACM Laval, Team Member of CRIM security contest
+Lycée Rodin
+Baccalaureate, Scientific, 1999 - 2002
+
+
+
+Jeremie  Zarka
+Paris Area, France
+Bid Manager at Thales
+jeremie.zarka@gmail.com - +33680443972
+
+

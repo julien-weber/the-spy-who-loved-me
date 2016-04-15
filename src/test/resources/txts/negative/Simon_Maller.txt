@@ -1,0 +1,77 @@
+
+Simon Maller
+Paris Area, France
+Research engineer in signal processing and machine learning
+mallersimon@gmail.com - 33684757734
+
+Summary
+4 years experience of research in an innovative start-up specialized in audio technologies for the
+music and movie industries.
+Expert in speech & music processing with applications to audio source separation.
+Projects management ranging from algorithm design to software development.
+Expertise in audio quality evaluation and technology benchmarking.
+
+Specialties: statistical signal processing, machine learning, audio analysis, source separation, music
+information retrieval.
+
+Experience
+Research engineer at Audionamix
+September 2009 - February 2014 (4 years 6 months)
+
+Research in audio source separation:
+- Time-frequency representations of sound.
+- Matrix factorization.
+- Speech modeling (voice/music separation, text to audio synchronization).
+- Musical instruments acoustic and temporal modeling.
+- Real-time source separation (i3DMusic project).
+- Co-author of 3 international publications.
+
+Software development:
+- Architecture design and development of the core separation engine using Matlab object.
+- Software prototyping using Matlab GUI.
+- Software development using C++/Qt.
+
+Technology quality management:
+- Research in source separation evaluation to derive perceptually relevant objective metrics.
+- Architecture design of a global benchmarking environment ensuring the quality of Audionamix
+services.
+- Designed a decision making process based on listening tests.
+
+Master's thesis at Audionamix
+March 2009 - August 2009 (6 months)
+
+
+
+Research master's thesis: Voice - Music separation using textual information. The goal was to
+develop a sound separation technology that would serve the movie industry in dialog extracting.
+Phoneme-level modeling was used to match the phonemes of the movie script, and was integrated
+in a matrix factorization framework. The resulting algorithms yielded a robust informed source
+separation system.
+
+Intern research assistant in the Analysis-Synthesis team at IRCAM
+February 2008 - August 2008 (7 months)
+
+Master of engineering project: "Preserving the timbre quality while applying time-frequency
+modifications of a vibrato/tremolo."
+Developed algorithms that were integrated in Ircam's phase vocoder software, superVP.
+(publication : http://recherche.ircam.fr/pub/dafx11/Papers/91_e.pdf)
+
+Education
+Université Pierre et Marie Curie (Paris VI)
+Master of Science (M.Sc.), Acoustics, Signal Processing, Computer Science applied to Music
+(ATIAM), 2008 - 2009
+Ecole Nationale Supérieure d'Informatique et de Mathématiques Appliquées de Grenoble /
+ENSIMAG
+Master of Engineering (M.Eng.), Computational and Applied Mathematics, 2005 - 2008
+
+Interests
+Music and visual programming (Max/MSP, PureData, Processing, ...).
+
+
+
+Simon Maller
+Paris Area, France
+Research engineer in signal processing and machine learning
+mallersimon@gmail.com - 33684757734
+
+

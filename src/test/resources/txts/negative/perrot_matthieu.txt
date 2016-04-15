@@ -1,0 +1,209 @@
+
+Objet : candidature «Machine Learning Scientist»
+
+Orsay, le 04 juin 2014
+
+Madame Carole NOUET,
+
+Je garde un souvenir très fort des rencontres que j'ai fait avec Criteo. Ces échanges m'ont convaincu 
+de l'intérêt et du potentiel de postes scientifiques dans un tel environnement. Nos chemins se sont 
+croisés plusieurs fois, mais nos projets respectifs n'étaient alors pas encore phasés. J'ai le sentiment 
+que le poste de «Machine Learning Scientist» change la donne et nous offre une opportunité de 
+collaboration. L'offre de «Senior Data Scientist» à Palo Alto me semble faire également écho au 
+poste susmentionné. À cet effet je vous envoie mon CV et vous propose ma candidature.
+
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, mes salutations distinguées.
+
+Matthieu Perrot
+
+
+
+Matthieu PERROT
+1 Rue Guy Moquet
+91400 ORSAY
+FRANCE
+
+mob. : +33 6 50 24 13 31
+e-mail : matthieu.perrot@gmail.com
+
+DATA SCIENTIST
+Computer Science, Mathematics & Machine Learning
+
+32 year old, married, one child
+Nationality : French, Swiss
+Sex : M
+
+Work Experience
+2011-2014 (2,5 years) R&D Project Manager: ICM: Brain and Spine Institute (Paris, France)
+
+Working on the CATI project (French national infrastructure for multicenter neuroimaging studies).
+- Production: creation and animation of an agile team (Scrum Master): technology transfer to clinical end-user.
+- R&D: disease prediction from large datasets in collaboration with 2 labs specialized in Machine Learning.
+- Research: supervision of a junior researcher: clustering of several millions of white matter fibers.
+- Tools: Python, C++, QT, CSS, OpenGL/GLSL, version control system (SVN, GIT), Linux (Ubuntu).
+- Models: k-medoids, SVM, regression logistic, regularized optimization (LASSO, elastic net, total variation), feature selection...
+
+2009-2011 (2 years) R&D Engineer: Dosisoft (Cachan, France)
+Development of neuro-degenerative diseases R&D activity (i.e: Alzheimer).
+- Industrial application of my PhD works, survey of its commercial potential.
+- In charge of the collaboration with a research lab (technical and scientific relations).
+- Tools: Python, C++, ITK/VTK, OpenInventor, QT, version control system (CVS, SVN), Linux (Redhat Entreprise 3 and 5, 32/64 bits)
+- Models: data normalization, decision support and validation based on statistical tests (parametric and non-parametric).
+
+2005-2009 (4 years)
+Master internship + PhD
+  
+
+Research Engineer: CEA – Neurospin center (Saclay, France)
+Automatic identification of human brain anatomical structures and characterization of their inter-individual variability.
+- Actively involved in the development of a neuroimagery computing plateform.
+- Co-supervision of one junior researcher.
+- Tools: C/C++, Python, bindings C++/Python (SIP), version control system (Perforce, SVN), Linux (Mandriva, Fedora, Ubuntu).
+- Models: semi-supervised learning, Markov field, distributions mixture, Bayesian networks, EM, registration...
+
+2004 (7 months)
+EPITA internship 
+
+Engineering student: EDF R&D (Clamart, France)
+Continuous damage identification on main power transformers of nuclear power plants.
+- Tools: C/C++, GTK+, Perl , R, XML; releases : Linux (Mandriva, autotools, RPM), Windows (Cigwin, NSI).
+- Models: logistic regression, k-nearest neighbours, visualization (box-plot, scatter-plot).
+
+2002 (3 months)
+EPITA internship 
+
+Engineering student: CNRS – laboratoire LIMSI (Orsay, France)
+Real-time speech recognition using several millions of annotated phonemes.
+- Tools: C, Perl, bash, gnuplot, Irix, Sun and Alpha (32 and 64 bits).
+- Models: k-nearest neighbours, data structure (tree + prunning), algorithmic and optimization (Branch & Bound).
+
+Main skills
+Computer Science - IT Enthusiast for over 20 years, more than 10 years of experience in software development.
+
+- Very experienced in C/C++, Python (scientific computing, rapid prototyping and production).
+- Everyday tools: bash, GNU commands (grep, find, sed, awk, …), gdb, valgrind, VIM.
+- Familiar with version control system: CVS, Perforce, SVN, GIT.
+- Familiar with graphical/visualization programing in 2D/3D (OpenGL ES, GLSL, OpenInventor, VTK).
+- Free software contributor: Scikit-learn (machine learning, python).
+
+Applied 
+Mathematics
+
+- Machine learning, Datamining, statistics and graphical models (Bayesian, Markovian, neuronal,  kernel-based, …).
+- Image Computing: extraction, segmentation, reconstruction, registration.
+- Scientific curiosity / personal projects: simulations (PDE, numeric schemes).
+
+Education
+2006-2009 Ph.D. in mathematics: ENS, Cachan, France – with first class honours.
+
+Topics: machine learning and image processing applied to neuroimagery.
+
+2004-2005 Master of Advanced Studies in mathematics, ENS, Cachan, France – with distinction.
+Topics: machine learning, mathematics, image processing, signal processing.
+
+2000-2004 Master's degree (French Engineer's degree) in Computer Science : EPITA, Paris, France – with honours.
+Major: decision support system, artificial intelligence, datamining.
+
+Languages French: native
+English: scientific/technical: review, reading and writing of scientific articles, attending international conferences.
+
+Interests
+- Illustration / drawing (Inkscape, Alchemy, MyPaint, Blender), involve in a community nursery
+- Great interest in free software, technical watch, online Coursera courses (“Machine Learning”, “Introduction to Data Science”).
+
+
+
+Bibliography – Matthieu Perrot
+
+Articles in International Peer-Reviewed Journals
+– S. Lefranc et al., «Group-wise surfacic connectivity-based parcellation of the whole human cortical surface», in 
+
+press
+– F. De Guio, J.-F. Mangin, S. W. Jacobson, D. Rivière, M. Perrot, C. D. Molteno, J. L. Jacobson, E. M. Meintjes, «A study 
+
+of cortical morphology in children with fetal alcohol spectrum disorders», Neuroimage, HBM 2013
+– G. Auzias, J. Lefèvre, A. Le Troter, C. Fischer, M. Perrot, J. Régis, O. Coulon, «Model-driven Harmonic 
+
+Parameterization of the Cortical Surface : HIP-HOP», TMI 2013
+– Z.Y Sun, S. Klöppel, D. Rivière, M. Perrot, R. Frackowiak, H. Siebner, J.-F. Mangin, « Shape of Handedness: Impact of 
+
+Handedness on the Central Sulcus of the Human Brain », neuroimage 2012
+– E. Jouvent, S. Reyes, J.-F. Mangin, P. Rocca, M. Perrot, B. Thyreau, D. Hervé, M. Dichgans, H. Chabriat, « Apathy is 
+
+related to cortex morphology in Cadasil: A sulcal-based morphometry study », Neurology 2011
+– M. Perrot, D. Rivière, J.-F. Mangin, « Joint Bayesian Cortical Sulci Recognition and Spatial Normalization », MEDIA 
+
+2011
+– G. Auzias, J.-A. Glaunès, O. Colliot, M. Perrot, J.-F. Mangin, A. Trouvé, S. Baillet, « DISCO: a Coherent Diﬀeomorphic 
+
+Framework for Brain Registration Under Exhaustive Sulcal Constraints », TMI 2011
+– F. Pedregosa et al. « scikit-learn: Machine Learning in Python », JMLR 2010
+
+International Conferences with Proceedings
+– M. Dubois, F. Hadj-Selem, T. Löfstedt, M. Perrot, C. Fischer, V. Frouin, E. Duchesnay, «Predictive support recovery 
+
+with TV-Elastic Net penalty and logistic regression : an application to structural MRI», PRNI 2014
+– S. Lefranc, P. Roca, M. Perrot, C. Poupon, O. Coulon, D. Le Bihan, L. Hertz-Pannier, J.-F. Mangin, D. Rivière,  
+
+« Validation of consistent inter-subject connectivity-based parcellation », ISBI 2014
+– G. Operto, « Structural Group Analysis of Cortical Curvature and Depth Patterns in the Developing Brain », ISBI 
+
+2012
+– G. Auzias, J. Lefèvre, A. Le Troter, C. Fisher, M. Perrot, J. Régis, O. Coulon, « Model-driven Harmonic 
+
+Parameterization of the Cortical Surface », MICCAI 2011
+– M. Keller, M. Lavielle, M. Perrot, A. Roche, « Anatomically Informed Bayesian Model Selection for fMRI Group Data 
+
+Analysis », MICCAI 2009.
+– Z.Y. Sun, M. Perrot, A. Tucholka, D. Rivière, J.-F. Mangin, « Constructing a dictionary of human brain folding 
+
+patterns », MICCAI 2009.
+– G. Auzias, J.-A. Glaunès, O. Colliot, M. Perrot, J.-F. Mangin, A. Trouvé, S. Baillet, « DISCO: a Coherent Diﬀeomorphic 
+
+Framework for Brain Registration Under Exhaustive Sulcal Constraints », MICCAI 2009.
+– M. Perrot, D. Rivière, A. Tucholka, J.-F. Mangin, « Joint Bayesian Cortical Sulci Recognition and Spatial 
+
+Normalization », IPMI 2009
+– M. Perrot, D. Riviere, J.-F. Mangin, « Identifying Cortical Sulci From Localization, Shape And Local Organization », 
+
+ISBI 2008
+– A. Tucholka, B. Thirion, M. Perrot, P. Pinel, J.-F. Mangin, J.-B. Poline, « Probabilistic anatomo-functional parcellation 
+
+of the cortex : how many regions ? », MICCAI 2008
+– C. Damon, P. Pinel, M. Perrot, V. Michel, E. Duchesnay, J.-B. Poline, B. Thirion, « Discriminating Between 
+
+Populations of Subjects Based on FMRI Data Using Sparse Features Selection and SRDA Classifier», MICCAI 2008
+
+International Conference Abstracts
+– S. Lefranc, P. Roca, M. Perrot, D. Duclap, C. Poupon, D. Le Bihan, J.-F. Mangin, D. Rivière, «Inter-subject 
+
+connectivity-based parcellation of the whole human cortical surface», HBM 2014
+– Z.Y. Sun, P. Pinel, A. Moreno, M. Perrot, D. Rivière, S. Dehaene, J.-F. Mangin, «Morphological manifold-based spatial 
+
+normalization for fMRI group analysis», HBM 2012
+– C. Fisher, G. Operto, S. Laguitton, M. Perrot, I. Denghien, D. Rivière, J.-F. Mangin, « Morphologist 2012: the new 
+
+morphological pipeline of BrainVISA», HBM 2012
+– M. Perrot, G. Varoquaux, D. Rivière, J.-F. Mangin, « A High-Resolution Full-Brain Probabilistic Atlas of Regions Based 
+
+on Cortical-Folds », HBM 2011
+– D. Rivière, B. Bernhardt, H. Kim, S.-J. Hong, M. Perrot, J.-F. Mangin, J. Régis, N. Bernasconi, A. Bernasconi, « Diffuse 
+
+Sulcal Anomalies Associated with Focal Epileptogenic Malformations of Cortical Development  », HBM 2011
+– G. Auzias, J.-A. Glaunès, O. Colliot, M. Perrot, J.-F. Mangin, A. Trouvé, S. Baillet, « DISCO: DIffeomorphic Sulcal-
+
+based COrtical registration », HBM 2009
+– M. Perrot, D. Rivière, J.-F. Mangin, « Coupling Cortical Sulci Recognition and Normalization », HBM 2009
+– Z.Y. Sun, M. Perrot, A. Tucholka, D. Rivière, J.-F. Mangin, « Mining Sulcal Folding Patterns », HBM 2009
+– A. Tucholka, M. Perrot, J.-F. Mangin, J.-B. Poline, B. Thirion, « Anatomo-functional cortical parcellations: how many 
+
+regions? », HBM 2009
+– M. Fouquet, M. Perrot, E. Duchesnay, B. Landeau, F. Mézenge, V. de la Sayette, F. Viader, J.-C. Baron, B. 
+
+Desgranges, F. Eustache, J.-F. Mangin, G. Chételat, « How the morphology of brain sulci may help in detecting 
+early Alzheimer's disease ? », ICAD 2009
+
+– M. Perrot, D. Rivière, E. Duchesnay, J.-L. Martinot, J.-F. Mangin, « Automatic Recognition Of Cortical Sulci Using 
+Support Vector Machine And Dimension Reduction », HBM 2007
+
+

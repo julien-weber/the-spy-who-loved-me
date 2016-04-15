@@ -1,0 +1,231 @@
+
+Bruno SEZNEC
+
++33(0)6.51.86.57.21
+
+http://fr.linkedin.com/in/brunoseznec/
+
+brunoconsult@gmail.com
+
+ 
+
+KEY SKILLS:  
+
+ Web projects / Focus on delivery
+
+ Scientific software & Cloud architecture
+
+ Middleware expert
+
+ Maths background Data Mining, HPC
+
+Consultant & Technical Trainer (Intershop 
+
+packages B2C/B2B, web site conception, 
+
+RFP/RFC, Cloud, SemanticWeb&OpenData) 
+
+POC for new products
+
+EXPERIENCE & TECH  
+
+ Web Project Management & 
+
+Consulting since 1998
+
+ Architect and Object modeling 
+
+(OMT/UML) since 1990
+
+ Scientific computing
+
+ MongoDB (2012-2014, certified training M101
+
+(2012), M102, M202), OpenStack, AWS, GCP
+
+ Hadoop,  pig  (Hortonworks  HDP  Sandbox)
+
+(2013), Machine Learning (Octave & R), Cryp-
+
+tography I (Coursera), Weka
+
+ Liferay  (2010),  Wordpress  (2010),  Intershop
+
+(2001-2008), Spring MVC (2008), Jahia (2008),
+
+PHP (2006), J2EE (2001), Java (1997) 
+
+  C/C++ (1988-2001)
+
+WORK EXPERIENCE   
+
+FREELANCE AND TRAINER
+
+http://blog.seznec.net/offre-de-service
+
+Since April 2014
+
+PROJECT MANAGER for French Ministry of economy (6y Contract)
+
+Since 2011 Project manager on the HP /Peregrine Asset Center and  Service Center software. 
+
+Portfolio of 10 small projects, interface toward Chorus.
+
+Jahia CMS cluster , Apache/Tomcat/Redhat environment. Spring based software including 
+
+major framework (like Lucene).  Main tasks : template conception (web site factory) ,  SEO 
+
+optimization, WAI review, performance bottleneck (cluster with Oracle 10g RAC). Working  
+
+with integrators (Capgemini, Logica), to build an intranet/internet factory. 
+
+Trainer for IGPDE : Conception of a web site (2d) , Initiation to semantic web (1d)
+
+Technical and methodological watches: 
+
+Praxeme/Enterprise  architecture,  MongoDB,  Machine  Learning  (R/Octave),  Hadoop  (Pig),
+
+Spark, GraphLab, Neo4J , Open Data ; cloud :  Openstack, AWS, GCP; CMS : Wordpress, Liferay,
+
+Jahia, Drupal, Spip.
+
+2008 - 2014
+
+ENGINEER for MONNAIE DE PARIS, French mint
+
+• Technical leader for the webstore  www.monnaiedeparis.com
+•  2007 ERP Project design (« Dialogue compétitif ») 
+
+2005 - 2008
+
+
+Sofian Djamaa
+
+
+
+
+
+LOCAL AREA MANAGER FOR CONSULTING AT INTERSHOP France and South Europe,  eBusiness soft-
+
+ware editor :
+
+Consulting on e-business Enfinity 2 and eProcurement software products,
+
+• Writer of RFP and bid management (technical part), Technical trainer
+• Coaching  for  development  team,  training,  deployment  on  B2C  and  B2B  websites.  B2B
+
+(Pechiney, St-Gobain) and B2C (Etam.com, Eoland.com, Gemplus). Integration with  SAP.
+
+2001 - 2004
+
+SENIOR PROJECT MANAGER & PRODUCT VALIDATION TEAM LEADER FOR GLOBEID SOFTWARE: Start-up, 
+
+software editor for the ecommerce (B2C and B2B) 
+
+• Payment system for one of the main debit card payment network in the U.S. (NYCE) Syn-
+chronization of the Paris based development team with the U.S-based product manage-
+
+ment team (3 experimented engineers during 8 months) and Australian partner. Attend to 
+
+a one-week workshop in Denver (Colorado).see http://www.safedebit.com.
+
+• EAI partnership study with WebMethods (Active Software), Application Server market op-
+portunity study (BEA WebLogic, iPlanet, OAS).
+
+1998 - 2001
+
+CONSULTANT & PROJECT MANAGER & TRAINER for INFOTEL (200 p. Consulting, Software editor, Train-
+ing) :
+
+• During ten months, initiate a business partnership with Netscape (Affiliate Plus program) 
+and build a small practice unit on Web market inside the technical team with two success-
+
+ful bids; Maintain and enhance knowledge transfer on Netscape Enterprise server.
+
+• Project manager responsible for the specifications and the realization of a communication 
+protocol over HTTP. This protocol links a Mainframe and PCs by Internet Team of three en-
+
+gineers. (3 engineers during 3 months).
+
+1997 - 1998
+
+PROJECT MANAGER  for CR2A-DI, integrator :
+
+• Consulting and expertise. Migration toward UNIX and open system and distributed comput-
+ing.
+
+• Reorganization of a computing analysis department at Aérospatiale Missiles (January 1991- 
+February.1995). 
+
+• Revision of a safety analysis software at Dassault-Aviation (7 months - use of Orbix and Ob-
+jectBroker). Expertise on the set-up of CORBA at BioMerieux (April 1997).
+
+1990 - 1997
+
+R&D ENGINEER  & JUNIOR PROJECT MANAGER – DIADEM designer of a workstation for the 
+
+photoengraving market
+
+1988 - 1990
+
+SOFTWARE DEVELOPER  for  DASSAULT-SYSTEMS : CAD/CAM software editor 1987 - 1988
+
+EDUCATION  
+
+ 2010: ITIL V3 foundation (3d)
+
+ 2005-2006 : Master diploma in Pure Math from Paris 7 University.
+
+ 2005 : Math Agregation 
+
+ 1986-87 :Master diploma in numerical analysis from Lyon and St.-Etienne universities.
+
+ 1984: Diploma from the school of mines of Saint-Etienne. One of the French "Grande école". Computer option.
+
+OTHER  
+Meetup and User Groups : Paris Java User Group, Sparkling Point, DataConnexions (Etalab), Conférence Toth
+
+2012 & 2013 (Terminologie & sémantique), OpenStack , MongoDB, HPC & CUDA, Neo4j, Praxeme, Paris Data
+
+Geek, AWS Summits in Paris, AWS French UG, Meetup Paris Machine Learning. Paris Data Geek, Hadoop French
+
+User Group.
+
+SPORTS  
+
+Sailing, Mountain Bike, Skiing
+
+
+
+
+
+
+
+
+
+
+	Key Skills:
+	Experience & Tech
+	Work experience
+	Freelance and Trainer
+	Project Manager for French Ministry of economy (6y Contract)
+	Since 2011 Project manager on the HP /Peregrine Asset Center and Service Center software. Portfolio of 10 small projects, interface toward Chorus.
+	Jahia CMS cluster , Apache/Tomcat/Redhat environment. Spring based software including major framework (like Lucene). Main tasks : template conception (web site factory) , SEO optimization, WAI review, performance bottleneck (cluster with Oracle 10g RAC). Working with integrators (Capgemini, Logica), to build an intranet/internet factory.
+	Engineer for MONNAIE DE PARIS, French mint
+	Technical leader for the webstore www.monnaiedeparis.com
+	2007 ERP Project design (« Dialogue compétitif »)
+	Local area manager for consulting at Intershop France and South Europe, eBusiness software editor :
+	Consulting on e-business Enfinity 2 and eProcurement software products,
+	Writer of RFP and bid management (technical part), Technical trainer
+	Coaching for development team, training, deployment on B2C and B2B websites. B2B (Pechiney, St-Gobain) and B2C (Etam.com, Eoland.com, Gemplus). Integration with SAP.
+	Senior Project Manager & Product validation team leader for GLOBEID SOFTWARE: Start-up, software editor for the ecommerce (B2C and B2B)
+	Consultant & project manager & trainer for Infotel (200 p. Consulting, Software editor, Training) :
+	1997 - 1998
+	Project Manager for CR2A-DI, integrator :
+	1990 - 1997
+	R&D ENGINEER & JUNIOR PROJECT MANAGER – DIADEM designer of a workstation for the photoengraving market
+	1988 - 1990
+	SOFTWARE DEVELOPER for DASSAULT-SYSTEMS : CAD/CAM software editor
+	1987 - 1988
+	Education
+

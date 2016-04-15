@@ -1,0 +1,268 @@
+
+Alaa Abi Haidar
+Paris Area, France
+Researcher at BNF/UPMC/CNRS (seeking Senior Data Scientist position)
+alahay@alahay.org - 0666735029
+
+Summary
+Artificial intelligence
+clustering
+classification
+statistics
+Data mining
+Text mining
+named entitiy recognition
+Unsupervised leanrning
+Supervised learning
+Machine learning algorithms
+Teaching undergraduate students and master students
+Temporal models
+Probabilistic models
+Predictive models
+photography
+big data
+experimental work in information extraction
+R
+python
+programming
+creative
+biological systems
+artificial immune systems
+also studied theoretical immune systems
+agent based modeling
+doctoral degree
+
+Experience
+Researcher at BNF
+September 2014 - Present (3 months)
+
+I am following up on our research on named entity recognition, analysis and visualisation of
+massive amounts of recently digitised structured and unstructured texts. We have already
+
+
+
+developed several supervised and unsupervised methods that tackle this problem. We are currently
+testing and evaluating their performance and scalability while pioneering crowd-sourcing methods
+for massive annotations.
+
+Postdoctoral Researcher at UPMC - Sorbonne Universities
+October 2012 - Present (2 years 2 months)
+
+- Supervised and Unsupervised Data Mining, Machine Learning and Information Extraction (Named
+Entity Recognition and Event Mining) with several partners:
+
+- Bioliterature Mining from PubMed, Gene Ontology and the Immune Literature for parametric
+extraction and systems biology modeling in collaboration between I2D3 at Hopital
+Pitie-Salpetriere/CNRS and ACASA at LIP6 (Paris 6).
+
+- Named entity recognition and disambiguation of recently OCR-ised / digitized newspapers from
+the 19th and 20th century for indexing and reading enhancement in collaboration with the
+Bibliotheque Nationale de France (BnF) and Europeana Newspaper in collaboration with the LiP6
+of Paris 6.
+
+- Named entity recognition and e-reading enhancement with several Editors and Publishers such as
+LE ROBERT, NATHAN, JOUVES, TRALLALLAIRES on a project called LOCUPLETO that is in
+collaboration with the LiP6 in Paris 6.
+
+- Named entity recognition and minimal semantic and stylistic anaylsis of French Literature on the
+Labex Obvil project.
+
+- Named entity recognition and social recommendation of Manga (Japanese Comics) for the
+iManga project with Actialuna that is in collaboration with the LiP6 in Paris 6.
+
+I have proposed 7 projects to 12 UPMC Masters students on the aforementioned topics and worked
+closely with them on their completion. We especially deal with developing new algorithms that we
+compare to state-of-the-art methods on publicly available data or data that we create ourselves.
+Our results are published (see CV).
+
+Postdoctoral Fellow at CNRS - Centre national de la recherche scientifique
+September 2011 - Present (3 years 3 months)
+
+Supervised and Unsupervised Data Mining, Machine Learning and Information Extraction (Named
+Entity Recognition and Event Mining) with several partners:
+
+- Bioliterature Mining from PubMed, Gene Ontology and the Immune Literature for parametric
+extraction and systems biology modeling in collaboration between I2D3 at Hopital
+Pitie-Salpetriere/CNRS and ACASA at LIP6 (Paris 6).
+
+
+
+- Named entity recognition and disambiguation of recently OCR-ised / digitized newspapers from
+the 19th and 20th century for indexing and reading enhancement in collaboration with the
+Bibliotheque Nationale de France (BnF) and Europeana Newspaper in collaboration with the LiP6
+of Paris 6.
+
+- Named entity recognition and e-reading enhancement with several Editors and Publishers such as
+LE ROBERT, NATHAN, JOUVES, TRALLALLAIRES on a project called LOCUPLETO that is in
+collaboration with the LiP6 in Paris 6.
+
+- Named entity recognition and minimal semantic and stylistic anaylsis of French Literature on the
+Labex Obvil project.
+
+- Named entity recognition and social recommendation of Manga (Japanese Comics) for the
+iManga project with Actialuna that is in collaboration with the LiP6 in Paris 6.
+
+I have proposed 7 projects to 12 UPMC Masters students on the aforementioned topics and worked
+closely with them on their completion. We especially deal with developing new algorithms that we
+compare to state-of-the-art methods on publicly available data or data that we create ourselves.
+Our results are published (see CV).
+
+Art Director at ALAgrApHY
+December 2008 - Present (6 years)
+
+Coffee painting and photography have always been a passion and I have been lucky to exhibit my
+art in cozy coffee shops and restaurants, in prestigious galleries, hotels and museums, and private
+lofts between the US and France.
+
+My dream has always been to pass a message of peace and diversity, and to paint the tunnel I am
+passing through with colors of happiness. Photography and coffee painting have allowed me to
+reach many hearts into which I whispered my stories of peace and co-existence, however, the
+moving image spoke even louder and was heard by the those who thought they know where they
+were going.
+
+I thank those who believe in a new world of peace and harmony and support our nonprofit projects
+of arts and science.
+
+PhD candidate, Associate Instructor, Research Assistant at Indiana University
+January 2004 - May 2011 (7 years 5 months)
+
+I have graduated with a PhD in Informatics (complex systems track) at Indiana University in May
+2011. My dissertation titled "An adaptive document classifier inspired by T-Cell cross-regulation in
+the immune system" (PDF below), discusses the development of a T-cell cross-regulation model
+
+
+
+using agent-based modeling such that it can classify documents by recognize their textual features
+that are analogous to populations of virtual antigens. Our method was tested on spam detection
+and biomedical document classification and compared with traditional classifiers. The parameters of
+our method were explored to study complex behaviours underlying T-cell dynamics.
+
+For more information please consult our group page CASCI, visit PROF. LUIS M. ROCHA'S
+RESEARCH PAGE or e-mail me.
+
+My recent publications are listed in my VITAE.
+
+Please refer to my vitae for more information on current and previous positions available at:
+http://alahay.org/cv/cv.pdf
+
+Research Assistant at Instituto Gulbenkian de Ciencia
+2006 - 2010 (4 years)
+
+Data Mining and Machine Learning at the FLAD collaboratorium for the summers between 2006
+and 2010
+
+Education
+Indiana University Bloomington
+PhD, Informatics, Complex Systems, 2006 - 2011
+
+Indiana University Bloomington
+Masters, Computer Science, 2004 - 2006
+
+American University of Beirut
+BS, Computer Science, 2000 - 2003
+Activities and Societies: computer science
+
+Honors And Awards
+Best paper award at International Conference of Articial
+Immune Systems (ICARIS 2010).
+Winner of best poster at the 1st Portuguese Forum on Computational Biology (FPBC 2008)
+Awarded internships at the Instituto Gulbenkian de Ci^encia (IGC) in 2006,
+2007, 2008 and 2010.
+Awarded Bursaries to attend AlifeX and ICARIS2010.
+Awarded Postdoc Fellow by ISC-PIF from DIM
+
+
+
+Interests
+Computational, pure and social sciences, bio-inspired computing and arts, aesthetics, photography,
+surrealism, conceptual art, foreign languages, dialects and accents, chocolate, wine
+
+
+
+Alaa Abi Haidar
+Paris Area, France
+Researcher at BNF/UPMC/CNRS (seeking Senior Data Scientist position)
+alahay@alahay.org - 0666735029
+
+
+
+Dear CRITEO,  
+  
+I am a Postdoc at the Laboratoir d’informatique Paris 6 (LiP6) at Jussieu working on serveal supervised and 
+unsupervised Data Mining and Machine Learning techniques for information extraction, namely, named 
+entity recognition and text classification. 
+
+● Click prediction. How do you accurately predict if the user will click on an ad in less than a 
+millisecond? Thankfully, you have billions of datapoints to help you. 
+
+We have developed forecasting techniques for spam detection that might me interesting for click prediction. 
+
+● Recommender systems. A standard SVD works well. But what happens when you have to 
+choose the top products amongst hundreds of thousands for every user, 2 billion times per day, 
+in less than 50ms? 
+
+One of the common solutions is using social recommendation such as that used by amazon for people with 
+similar purchases or tastes. Many publications have explored this matter. 
+
+● Auction theory. In a second­price auction, the theoretical optimal is to bid the expected value. 
+But what happens when you run 15 billion auctions per day against the same competitors? 
+
+Heuristic algorithms approximate the optimal incrementally. 
+
+● Explore/exploit. It's easy, UCB and Thomson sampling have low regret. But what happens 
+when new products come and go and when each ad displayed changes the reward of each arm? 
+
+I have read about sampling methods but this is not my strong point, I confess. 
+
+● Offline testing. You can always compute the classification error on model predicting the 
+probability of a click. But is this really related to the online performance of a new model? 
+
+Incremental learning is ideal in this situation, especially semi­supervised incremental algorithms that 
+accommodate online data streams. 
+
+● Optimisation. Stochastic gradient descent is great when you have lots of data. But what do you 
+do when all data are not equal and you must distribute the learning over several hundred nodes? 
+
+Parallel and distributed computing would be ideal. There are off­the­shelf solutions that make the state of the 
+art.  
+ 
+Are you interested in tackling such problems in an environment where your algorithms are deployed by a 
+team that sits next to you? 
+ 
+Definitely and even learn when necessary. 
+
+Desired Skills and Experience 
+
+To qualify for this mission, you need: 
+
+
+
+ 
+I am highlighting the qualifications that I have or skills I master. 
+
+  
+
+● PhD in Statistics, Machine Learning or a related field, with a previous major in Computer 
+Science. 
+
+● Coding experience in Python, C# or Java. 
+● Great oral and written communication and presentation skills. 
+● A track record and interest in contributing to publications, presentations, external 
+
+collaborations and service to the research community. 
+
+ I would be very much interested in publishing patents as well 
+
+ Preferred Skills: 
+
+● Experience in the optimization of online advertising 
+
+Cannot claim to have such an experience but willing to learn 
+
+● Experience working directly with Hadoop data platforms. 
+
+Minimal experience with Hadoop 
+
+ 
+
+

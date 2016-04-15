@@ -1,0 +1,185 @@
+
+LEFEBVRE	  Jérôme	  
+1,	  rue	  des	  Petits	  Champs	  
+95130	  Franconville	  
+06.19.92.46.85	  
+
+Jerome.lefebvre@gmail.com	  
+Marié	  
+32	  ans	  
+
+Permis	  B	  
+	  
+
+Ingénieur	  SUPELEC	  en	  Informatique	  et	  Ingénierie	  de	  la	  Connaissance	  (2003)	  
+Master	  of	  Science	  en	  Electronical	  and	  Computer	  Engineering	  à	  Georgia	  Tech,	  Atlanta,	  USA	  (2004)	  
+
+10	  ans	  d’expérience	  en	  Banque	  de	  Financement	  et	  d’Investissement	  
+	  
+	  
+Expériences	  professionnelles	  
+	  
+Ingénieur	  d’étude	  et	  développement	  puis	  responsable	  d’équipe	  à	  SGCIB	  (Nov	  2007	  –	  Aujourd’hui)	  
+Ingénieur	  d’étude	  pour	  Cadextan	  (Juil	  2004	  à	  Nov	  2007)	  
+	  
+	  
+Août	  2010	  –	  
+Aujourd’hui	  
+
+Projet	  X-­‐One	   (outil	  de	  saisie	  de	  transactions	  financières	  Front	  To	  Back,	  Cross	  Asset	  
+(IRD,	  Fixed	  Income,	  FX,	  FXO,	  Creder))	  C#	  
+
+• Responsable	  d’équipe	  :	  Produits	  et	  FO	  IRD	  (depuis	  12/2013)	  
+o Encadrement	  de	  4	  personnes	  
+o Modélisation	  des	  produits	  et	  représentation	  en	  base	  de	  données	  
+o Responsable	   du	   catalogue	   FO	  :	   recueil	  des	  demandes,	  budgétisation,	  
+
+priorisation,	  proposition	  de	  calendrier,	  suivi	  des	  développements	  
+o Responsable	  du	  suivi	  de	  production	  FO/MO	  :	  suivi	  avec	  le	  support	  et	  
+
+les	   opérationnels	   du	  middle	   office	   des	   problèmes	   de	   production,	   de	  
+leurs	  saisies	  dans	  les	  outils	  adéquats	  et	  de	  leurs	  résolutions	  
+
+• Co-­‐Responsable	  de	  l’équipe	  Produits	  et	  Cycle	  de	  vie	  IRD	  (12/2011	  à	  12/2013)	  
+o Co-­‐encadrement	  de	  5	  personnes	  
+o Création	  de	  nouveaux	  produits	  
+o Gestion	  du	  système	  de	  confirmation	  
+o Evolution	  du	  cycle	  de	  vie	  du	  deal	  (fixing,	  changement	  de	  nominal,…)	  
+
+• Responsable	  de	  la	  partie	  IRD	  au	  sein	  d’une	  équipe	  Fixed	  Income	  –	  IRD	  Vanilla	  
+(08/2010	  –	  12/2011)	  
+
+o Encadrement	  d’une	  personne	  
+o Développement	  de	  nouvelles	  fonctionnalités	  FO	  et	  BO	  
+o Développement	  de	  nouveaux	  instruments	  
+o Interlocuteur	   privilégié	   des	   clients	   FO/MO/BO	   pour	   toute	   question	  
+
+concernant	  les	  produits	  IRD	  Vanilla	  
+• Support	  de	  second	  niveau	  et	  astreinte	  de	  nuit	  (depuis	  2012)	  
+• Expert	   fonctionnel	   pour	   les	   produits	   IRD	   (booking,	   modélisation,	   fixing,	  
+
+représentation	  dans	  les	  systèmes,	  valorisation)	  (depuis	  2010)	  
+• Déploiement	  de	  l’application	  (depuis	  2013)	  
+
+Juillet	  2004	  –	  
+Novembre	  
+2007	  
+(prestation	  
+Cadextan)	  
+
+Projets	  Agreg	  /	  ARTR	  :	  	  
+• Projet	  Agreg	  +	  ARTR	  (fusion	  des	  deux	  projets	  en	  Juillet	  2008)	  C#/C++	  
+
+o Intégration	  de	  nouveaux	  produits	  inflation	  du	  marché	  sud-­‐américain	  :	  
+recueil	   du	   besoin	   auprès	   du	   FO,	   documentation	   sur	   les	   nouveaux	  
+produits,	   implémentation	   dans	   le	   moteur	   de	   valorisation,	  
+
+
+
+Novembre	  
+2007	  –	  Août	  
+2010	  (interne	  
+SGCIB)	  
+	  
+
+coordination	   de	   l’implémentation	   des	   librairies	   financières	   et	   des	  
+outils	  de	  saisie	  dans	  le	  systèmes	  
+
+o Intégration	   de	   nouveaux	   produits	   IRD	   (Cross	   Resettable,	   Fra	   sur	  
+CrossBasisSwap,…)	  
+
+o Intégration	  du	  périmètre	  FX	  
+o Support	  second	  niveau	  et	  astreinte	  de	  nuit	  
+
+• Projet	   ARTR	   (Analyse	   de	   Risque	   Temps	   Réel	   basé	   sur	   le	  moteur	   de	   calcul	  
+Agreg)	  (Juillet	  2006	  –	  Juillet	  2008)	  C#	  
+
+o Au	  sein	  d’une	  équipe	  de	  4	  personnes	  
+o Création	  de	  l’application	  ARTR	  
+o Recueil	   de	   besoin,	   priorisation	   des	   besoins,	   définition	   des	   tâches	  
+
+selon	  une	  méthodologie	  agile	  SCRUM	  
+o Expert	  fonctionnel	  produit	  et	  analyse	  de	  risque	  
+o Intégration	  des	  produits	  IRD,	  Fixed	  Income,	  FX	  
+o Support	  de	  premier	  et	  second	  niveau,	  astreinte	  de	  nuit	  
+
+• Projet	   Agreg	   (moteur	   de	   valorisation	   et	   d’analyses	   de	   risques	   pour	   les	  
+produits	   IRD,	  Creder,	  Repo,	  Fixed	  Income,	  FX,…)	  (Juillet	  2004	  –	  Juillet	  2006)	  
+C++	  
+
+o Au	  sein	  d’une	  équipe	  de	  10	  personnes	  
+o Projet	   TxPxE	  (10	   mois)	   :	   refonte	   du	   système	   de	   données.	  	  
+
+Coordinateur	   des	   tests	   entre	   les	   utilisateurs	   fonctionnels	   et	   les	  
+équipes	  de	  développement.	  Assistance	   aux	  utilisateurs,	  analyse	   des	  
+procédures	  de	  tests,	  détections	  des	  problèmes	  grâce	  à	  la	  valorisation,	  
+répartition	   des	   correctifs	   parmi	   les	   différents	   intervenants	   de	   la	  
+chaîne	  (saisie,	  modèle	  de	  données,	  valorisation)	  
+
+o Développement	  de	  nouvelles	  analyses	  de	  risque	  (Marge	  repo,	  marge	  
+d’asset	  swap,	  moteur	  d’analyse	  générique	  pour	  produits	  creder)	  
+
+o Maintenance	   évolutive	   des	   analyses	   existantes	   (Delta,	   Time	   Sensi,	  
+Vega,	  PnL)	  
+
+o Suivi	  des	  arrêtés	  de	  résultats	  annuels	  et	  mensuels	  	  
+o Support	  et	  maintenance	  fonctionnelle	  de	  l’application	  :	  coordination	  
+
+du	  support	  second	  niveau,	  répartition	  des	  charges	  au	  sein	  de	  l’équipe	  
+o Pérennisation	  des	  connaissances	  par	  création	  et	  enrichissement	  d’un	  
+
+wiki	  pour	  les	  équipes	  de	  support	  et	  de	  développement	  
+	  
+
+	  
+Relations	  Entreprise	  –	  Ecole	  
+	  
+SGCIB	   Ambassadeur	  Grandes	  Ecoles	  
+
+• Participation	  au	  Forum	  des	  entreprises	  Supélec	  Gif	  (2008	  et	  2009)	  
+• Parrain	  du	  Business	  Game	  SGCIB	  :	  Citizen	  Act	  
+
+o III	  :	  Parrain	  d’une	  équipe	  de	  l’EPITA	  (2009)	  
+o IV	  :	  Parrain	  d’une	  équipe	  de	  Sciences-­‐Po	  (2010)	  
+
+Cadextan	   Ambassadeur	  Grandes	  Ecoles	  
+• Participation	  au	  Forum	  des	  entreprises	  Supélec	  Gif	  (2004,	  2005,	  2006)	  
+
+	  
+	  
+
+
+
+Compétences	  informatiques	  
+	  
+	  
+Langages	   C#,	  SQL,	  C,	  C++,	  VB,	  VBA,	  VBScript	  
+Outils	  	   MS	  Visual	  Studio	  2010,	  2008,	  Git,	  Clearcase,	  Microsoft	  SQL	  Server,	  Analysis	  Services	  
+	  
+Connaissances	  Fonctionnelles	  
+	  
+Instruments	  
+financiers	  
+
+Bonds,	  Futures,	  FRA,	  Swaps	  de	  taux,	  Cross,	  Call/Put,	  Cap/Floor,	  Swaps	  sur	  inflation,	  
+produits	  FX,	  notions	  de	  dérivés	  de	  credits	  
+
+	  
+Connaissances	  Linguistiques	  
+	  
+Anglais	   Courant	  (Master	  aux	  USA;	  en	  2003	  :	  TOEFL	  :	  260/300	  ;	  GRE	  :	  2080/2400)	  
+Allemand	   Bon,	  à	  rafraîchir	  (10	  années	  d’étude)	  
+Espagnol,	  
+Italien	  
+
+Base	  
+
+	  
+Divers	  
+	  
+Loisirs	   plongée	  sous-­‐marine	  (Niveau	  3	  et	  TIV),	  cuisine,	  lecture	  
+
+arbitre	  de	  football	  (niveau	  régional,	  durant	  15	  ans)	  
+	  
+
+

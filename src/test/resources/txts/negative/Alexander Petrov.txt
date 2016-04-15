@@ -1,0 +1,51 @@
+	Alexander Petrov
+
+
+Address: 3-d Michurinskiy tupik 5, flat 179, Khimki, Moscow Region  Phone: +79265489611 email:firexel@gmail.com
+Objective
+Data Management Platform Architect / Data analyst/ Data scientist role in а European  company. 
+Skills & Abilities
+Big data processing
+Machine Learning, Text mining
+Hadoop Stack (hadoop, hdfs, hive, impala)
+NoSQL databases(MongoDB, Aerospike, Hbase)
+Programming Skills: Python, C++, Java, scala
+Data analysis tools: Weka, R,  Python+matplotlib+scipy
+Cloud technologies: Amazon Web Services stack (EC2,  S3, Elastic Load Balancer)
+RTB Techologies
+Team Leadership
+Project Management skills(scrum, kanban, agile etc.)
+Languages: Russian – native, English – upper intermediate. 
+Experience
+Head of R&D, Data-Centric Alliance, October 2013 - present
+Designed architecture of data management platforms, developed set of data processing algorithms. 
+Developed one of the biggest Russian data management platforms
+Handling information about 600 000 000 internet browser,  42 000 000 000 datapoints. 
+Developed semantic hierarchical semantic web-pages classifier
+Technologies employed: Hadoop, Hbase, Aerospike, Mongodb, Weka, Scikit-learn, Go
+Managing team of 8 people
+
+Senior developer/Team leader,  Tinkoff digital, October 2012 - October 2013
+Designing and developing data management platforms 
+Development of data processing algorithms
+Developed flexible, horizontally scalable, high-load technology in cloud (Amazon web services) within a short period of time
+ Technologies employed:  Hadoop, Hbase, Aerospike, MongoDB, Storm, Amazon EC2. 
+
+Researcher, Mail.ru group,  April 2012 – October 2012
+Working on data processing algorithms for the  targeted advertising  
+Technologies employed:  Hadoop, Python
+
+Developer, YANDEX LLC, September 2009 – April 2012
+Working on Yandex jams – traffic monitoring system 
+Developing pedestrian detection algorithm, prediction jams by public transport
+Performing technical tasks
+Technologies employed: Yandex’s realization of MapReduce, R, Python, C++ 
+Education 
+Applied Mathematics and Cybernetics , 2011, Moscow State University
+Thesis: Development of the Multi-profile Spam Filtering System Using Methods of Machine Learning.
+
+	
+	
+	Страница 2
+
+

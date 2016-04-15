@@ -1,0 +1,381 @@
+
+FLORENT FOUILLAT.       06.10.97.34.38 
+
+CONSULTANT TECHNICO-FONCTIONNEL SHAREPOINT  
+
+7 ANS D’EXPÉRIENCE 
+DOMAINES DE COMPÉTENCES 
+ 
+
+Compétences Fonctionnelles : 
+• Analyse du besoin SI.     
+• Prise en charge des projets liés à la mise en place d'architecture technique  
+• Conception et développement d'applications web / nouvelles technologies 
+• Développement d'applications Windows Nouvelles Technologies en C#    
+• Concevoir et recommander les solutions techniques et architectures.     
+• Rédaction des spécifications techniques     
+• Estimation, planification et suivi des développements dans les respects des charges et délais prévus.    
+• Pilotage de développement technique.    
+• Participation au développement si besoin     
+
+o Analyse et conception du paramétrage 
+o Analyse fonctionnelle répondant au cahier de charge.  
+o Conception et développement .NET 
+o Développement d'applications Windows Nouvelles Technologies en C# 
+o Développement langage objet 
+o Tests et recette applicative 
+
+• Coordination entre les équipes intervenant sur les projets.     
+• Assurer le respect des délais et des coûts, le pilotage de la mise en œuvre et du déploiement.     
+• Assurez la veille technologique dans le domaine d‘intégration  
+
+ 
+
+Compétences Techniques : 
+LANGAGES :     ASP .NET, C#, CAML, T-SQL, XML, .NET Framework 2.0 
+LOGICIELS :     Microsoft Sharepoint  2010(certifiée), Microsoft Sharepoint  
+    2007(certifiée), SharePoint Designer 2007  
+OUTILS DE DEVELOPPEMENT :   Visual Studio  
+SERVEURS D'APPLICATIONS :   IIS  
+SGBD :    SQL Server 
+
+FORMATION ET LANGUES 
+2011 :   CERTIFICATION MICROSOFT  MOSS 2010 : 70-576 & 70-573 
+2009 :   CERTIFICATION MICROSOFT (MCP/SE) WSS 3.0 : 70-631 & 70-541 
+2008 :   CERTIFICATION MICROSOFT  MOSS 2007 : 70-542 & 70-630  
+2007 :   ESIEA - ECOLE SUPERIEURE D'INFORMATIQUE-ELECTRONIQUE-AUTOMATIQUE 
+
+
+
+EXPÉRIENCES PROFESSIONNELLES 
+Juin 2015 à aujourd’hui : Amundi 
+Responsable Sharepoint 
+ 
+
+Réalisations 
+
+• Gérer tous les projets SharePoint internes. 
+ 
+
+Janvier 2015 à Juin 2015 :  
+Projet Interne, formateur SharePoint 
+ 
+
+Réalisations 
+• Reçu une formation sur : Chef de Projet MOA (non certifiante) 
+• Donner des formations fonctionnelles et de développement sur SharePoint 2013 
+
+ 
+
+Mars 2014 à Décembre 2014 : Ardian 
+Ingénieur études et développement Sharepoint 
+ 
+
+Réalisations 
+• Migration du portail Sharepoint 2007 en Sharepoint 2013 
+• Création des scripts de migration, corrections des anomalies de migration (code spécifique)  
+• Modification du design et ajout de fonctionnalités en Apps et en Custom Action. 
+
+ 
+
+Environnement technique : C#, PowerShell, Sharepoint 2013 
+ 
+
+Novembre 2013 à Mars 2014 : BOLLORE LOGISTICS 
+Référent Technico-Fonctionnel Sharepoint 
+ 
+
+Réalisations 
+• Rédaction de spécifications fonctionnelles et techniques 
+• Réalisation d’une fonctionnalité de gestion des prix de transport aérien 
+
+ 
+
+Environnement technique : C#, Sharepoint 2007 
+ 
+
+ 
+
+ Janvier à Septembre 2013 : L’OREAL 
+Référent Sharepoint 
+ 
+
+Réalisations 
+• Paramétrage et évolution de Sharepoint 2010 
+• Rédaction de spécifications fonctionnelles et techniques 
+• Corrections d’anomalies sur les sites existants 
+• Rédaction de contenu FAQ / documents utilisateurs 
+
+ 
+
+
+
+Environnement technique : C#, JavaScript, Sharepoint 2010 
+ 
+
+ 
+
+D’octobre à décembre 2012 : BNP PARIBAS 
+Chef de Projet Sharepoint 
+ 
+
+Réalisations 
+• Rédaction des spécifications fonctionnelles pour un module d'administration 
+• Rédaction d'un document de spécifications techniques pour une WebPart d’administration 
+
+des droits d'un site. 
+• Rédaction d’un document d’audit en .Net en vue d’évaluer l’utilisation des bonnes pratiques 
+
+de développement et l’optimisation du code. 
+• Rédaction d’un document (75 pages) pour harmoniser les modes de livraisons de toutes les 
+
+équipes IT, internes à BNP 
+• Analyse des différents codes réalisés pour les sites de BNP  
+• Rédaction d'un document de conseil pour apporter des modifications au code (Migration en 
+
+.Net 3.5) 
+ 
+
+Environnement technique : .Net 3.5, 2.0, MOSS 2007, Visual Studio 2008, Word 2007 
+ 
+
+ 
+
+ 
+
+Février 2012 à Septembre 2012 :  IPECA-PRÉVOYANCE 
+Chef de Projet Technique 
+ 
+
+La mission avait pour finalité la réalisation d’un portail intranet pour et d’un 
+site institutionnel lui-même composé de 3 extranets. 
+
+• Réalisation d’ un modèle de site et plusieurs Features (Ces features permettent l'installation 
+d'une MasterPage) 
+
+• Création de bibliothèque de document avec des contentypes, et des modèles de listes. 3 
+VisualWebPart de navigation.(elles permettent d'afficher plusieurs niveau à partir 
+d'information contenu dans une liste). 
+
+•  Création des Wikipages qui ont du contenu texte et des vues de bibliothèques de 
+documents. 
+
+• Pour la partie site institutionnel, création  de Masterpages, des listes et bibliothèques avec 
+leurs contentypes et des visualwebpart de navigation.  
+
+• Réalisation des Listes BCS qui lisent en base de données  
+ 
+
+Environnement Technique: Windows Server 2008 R2, SharePoint 2010, Visual Studio 2010, 
+SharePoint Designer 2010 
+ 
+
+Depuis Mai 2010 : COFELY 
+Chef de Projet Technique 
+ 
+
+Projet One Extranet : 
+Pour la refonte d'une partie de son système d'information, Cofely a décidé de refaire son 
+Extranet client. Le projet OneExtranet a été divisé en 3 projets de 5 lots. Le projet "Portail" a 
+été réalisé en SharePoint 2010. 
+
+• Rédaction des spécifications techniques du portail. 
+
+
+
+• Architecture et Développement de tout le portail en SharePoint 2010. 
+• Reprise de la charte graphique existante(masterpage, css) 
+• Réalisation de composants spécifiques pour répondre aux besoins clients  
+• Définition de modèles de liste et de site. 
+• Création de WebPart BCS 
+• Recette et mise en production 
+
+ 
+
+Environnement Technique: Windows Server 2008 R2, SharePoint 2010, Visual Studio 2010, 
+SharePoint Designer 2010 
+ 
+
+ 
+
+Mars et Avril 2010 : DGAC 
+Concepteur IED  
+
+ 
+
+Création d'un modèle de site pour un intranet pour permettre l'automatisation de la création 
+des sites clients 
+
+• Création d'un modèle de site en xml. 
+Environnement Technique: WSS3, Visual Studio 2008 
+Janvier 2010 : CETELEM 
+Ingénieur études et développement 
+ 
+
+Dans un site SharePoint création de formulaire et de fiches de synthèses hebdomadaire 
+pour les prêts 
+
+• Création de formulaire de saisie, de modification de modèle de liste 
+ 
+
+Environnement Technique: WSS3,ASP .Net 2.0, C#, Visual Studio 2005 
+ 
+
+ 
+
+Juillet à Octobre 2009 : UIMM 
+Ingénieur études et développement 
+
+ 
+
+Projet Intranet : Implémentation de nouvelles fonctionnalités pour l'intranet de l'UIMM développé 
+sous SharePoint 
+
+• Conception technique 
+• Développement de WebPart, modèles de listes, modèles de sites, Workflow, Page Web. 
+• Tests d'intégration et de non régression 
+• Déploiements 
+
+ 
+
+Environnement Technique: SharePoint 2007, ASP .Net 2.0, C#, SQL Server 2005, SharePoint 
+Designer 2007, Visual Studio 2008, InfoPath 2007, Office 2007 
+ 
+
+ 
+
+Février à Juillet 2009 : NEXTER 
+Ingénieur études et développement 
+ 
+
+Réalisation du Lot B du projet portail entreprise de Nexter. Suite au lot A, Nexter a confié à 
+Steria la mise en place de nouvelles fonctionnalités au sein de son portail d'entreprise : 
+annuaire global, blogs, sites d'équipe, ... 
+
+• Réalisation de nouveaux modèles de site pour les besoins de publication. 
+
+
+
+• Réalisation de WebParts de recherche reposant sur la recherche de base SharePoint 
+permettant aux utilisateurs des fonctionnalités spécifiques à leurs métiers. 
+
+• Réalisation de différents modèles de listes répondant à des critères métiers sur 
+l'affichage et le remplissage d'informations. 
+
+• Tests d'intégration et assistance à la recette. 
+ 
+
+Environnement Technique: SharePoint 2007, ASP .Net 2.0, C#, SQL Server 2005, SharePoint 
+Designer 2007, Visual Studio 2008 
+ 
+
+ 
+
+Janvier et Février 2009 : Accompagnement E-formation 
+UIMM 
+ 
+
+Formation des utilisateurs des Chambres Syndicales de l'UIMM au portail collaboratif E-
+Formation 
+
+• CO-formateur des utilisateurs du portail e-formation.  
+• Déplacement dans 5 villes de France pour former les futurs référents du portail 
+
+collaboratif E-Formation à l'utilisation de celui-ci ainsi qu'aux futures questions 
+auxquelles ils seront amenés à répondre 
+
+ 
+
+Environnement Technique: Office 2007, SharePoint 2007 
+ 
+
+ 
+
+Juillet à Septembre 2008 : UIMM 
+Ingénieur études et développement 
+ 
+
+Création d'un portail collaboratif pour le réseau de l'UIMM. Pour des raisons de 
+fonctionnement l'UIMM et tout son réseau avait besoin d'une plateforme pour centraliser 
+l'ensemble des documents et des retours d'expériences 
+
+• Réalisation de modèles de site nécessaires à la structure du portail. 
+• Développement d'un workflow de création de site répondant au fonctionnement interne 
+
+de l'UIMM pour l'ouverture d'un Groupe de travail.  
+• Définition de la page principale du portail (MasterPage) afin d'y intégrer  les aspects 
+
+ergonomiques et graphiques retenus pour la mise en oeuvre du portail.  
+• Création de divers modèle de listes et de composants WebPart pour le fonctionnement 
+
+métier du site. 
+• Tests d'intégration et mise en production 
+
+ 
+
+Environnement Technique: SharePoint 2007, ASP .Net 2.0, C#, SQL Server 2005, SharePoint 
+Designer 2007, Visual Studio 2008, InfoPath 2007, Office 2007 
+ 
+
+ 
+
+Mars 2008 à janvier 2009 : UIMM 
+Ingénieur études et développement 
+ 
+
+Définition et mise en place d'un intranet (MOSS 2007) pour les échanges entre l'UIMM et ses 
+chambres syndicales 
+
+• Réalisation des spécifications fonctionnelles et techniques. 
+• Développement de WebPart, modèles de listes, modèles de sites, Workflow, Page Web. 
+• Réalisation des MasterPages et du graphisme. 
+• Tests d'intégration 
+
+
+
+ 
+Environnement Technique: SharePoint 2007, ASP .Net 2.0, C#, SQL Server 2005, SharePoint 
+Designer 2007, Visual Studio 2008, InfoPath 2007, Office 2007 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Avril à Décembre 2007 : Expertime 
+Ingénieur études et développement 
+ 
+
+Réalisation de 5 sites SharePoint et développement d'un site communautaire Planet 
+Vertbaudet 
+
+• CNP (Odyssee) : Réalisation de l'architecture du site, de modèle de page. Etude et 
+proposition pour changer le moteur de Recherche. Installation de Coveo. Réalisation des 
+Pages, MasterPages et Graphismes. WSS3, COVEO 
+
+• BRGM "après-mine" et BRGM-intranet : Réalisation des MasterPages et Graphismes. 
+Réalisation de l'ensemble de l'architecture des sites et alimentation avant production. 
+Réalisation de WebPart propres au besoin client ainsi que de listes personnalisées. Aide 
+téléphonique au client pour l'utilisation de son site. MOSS 2007  
+
+• Rexel : Conception et Réalisation de l'architecture du portail. Intégration graphique. 
+Réalistation des Masterpages et Pages. Réalisation de WebPart. MOSS 2007 
+
+• MSJS : Réalisation de l'architecture du site et création du design. Supervision des 
+développements (aide et apprentissage à trois développeurs). Enseignement de 
+l'utilisation de MOSS 2007 (enseignement à l'équipe).  
+
+• Développement du Site Planet Vertbaudet en Asp net 2.0. Réalisation de fonctionnalités 
+en front et back office 
+
+ 
+
+Environnement Technique: MOSS 2007, WSS3, ASP NET 2.0, SQL Server 2005, COVEO. 
+
+

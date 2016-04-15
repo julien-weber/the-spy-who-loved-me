@@ -1,0 +1,185 @@
+
+Nicolas Janin
+Architect and Software Developments Manager at Leosphere
+
+Summary
+Software development and team management. Specialties: Java/JEE architecture and software developments,
+C++ embedded software
+Technical advice and support in software and hardware integration.
+Extensive knowledge of best practices in the software industry.
+
+Experience
+Manager of Software Developments at Leosphere
+June 2012 - Present (2 years 6 months)
+
+I designed the client-server architecture of the software for the R-MAN line of products (LiDAR firmware,
+database backed server software for a multi LiDAR network, web based control and supervision GUI), and I
+led the software developments until completion. I also supervised the development of the Windsoft line of
+software products, as well as the C++ based software platform for the long range scanning LiDARS.
+I am responsible for the optimisation of the software architectures in such manner that they can meet strong
+real time requirements. I am a technical referent within the company and I supervise a team of 14 software
+engineers.
+
+Senior software Engineer at FINAXYS
+April 2010 - December 2011 (1 year 9 months)
+
+Consultant at Société Générale Investment Banking. I've worked on the database of exotic products
+definitions (back end).
+
+Senior Software Engineer at Atos Worldline
+March 2006 - March 2010 (4 years 1 month)
+
+Activity: electronic payment systems
+
+Software design and architecture using UML of systems for online back office and electronic payment.
+
+Design and development in Java/J2EE/Oracle/Tomcat and JBOSS application servers of payment and fidelity
+systems.
+Design and development in Java of a Complex Events Processor.
+Design and development in C of payment terminals.
+
+Support and maintenance software engineer at General Electric Healthcare
+January 2005 - April 2006 (1 year 4 months)
+
+Activity: conception and fabrication of a medical images review station
+
+Page1
+
+
+
+-Maintenance of a line of medical imagery softwares
+-Analysis and correction of dozens of technical issues (DICOM conformance, network and data storage and
+communication issues, apps, peripherals) encountered by the Field engineers worldwide. Maintenance and
+production of corrective patches in C++.
+-Production of documentation in conformance with Food & Drugs Administration requirements,
+-Guarantee of conformance of new hardware with functional specifications and DICOM norm,
+-Charge evaluation.
+
+Tech.: GNU C++, Linux, Solaris, PostgreSQL, Clearcase, Perl, Shell
+
+Software engineer at Matra BAE Dynamics
+June 2004 - December 2004 (7 months)
+
+Activity: missiles
+
+-Conception of a matrix library for ballistic computations
+-Rewriting in C++ of target locking algorithms originally written in Fortran. Emphasis on performance and
+code robustness. validation by diff with the Fortran results.
+
+Tech: Solaris, C++, Fortran, CVS
+
+Software integrator at EADS
+November 2002 - May 2004 (1 year 7 months)
+
+Activity: development of a satellite-photo and georeferencing database
+
+-Software integration and validation
+-Development of a background computation system
+-Development of specific maintenance tools
+-Clearcase administration
+
+Tech: Visual C++, Perl, Oracle, XML, Clearcase
+
+Software engineer at Nortel Networks
+January 2002 - October 2002 (10 months)
+
+Activity: development of a 3G BSC
+
+-Development of a system for management of critical faults
+-Maintenance of an messagery library.
+
+Tech: Solaris, C++, Purify, Purecov, Clearcase
+
+Software and technical support engineer at Wavecom
+January 2000 - January 2002 (2 years 1 month)
+
+Page2
+
+
+
+Activity: OEM GSM/GPRS modules
+
+-design of the graphical API, optimized for B&W and color screens, including graphic primitives, animations,
+internationalized text and transparency effects
+-design of a compression and real-time decompression algorithm for graphic objects
+-design of the GUI of a cell phone for the chinese market
+-integration of Nokia Smart Messaging
+
+Technical support and consultancy for clients in Northern America up to FCC certification. Principal
+customers in automotive, PDAs and cell phones industries.
+
+Tech: C, Windows, Arm 7
+
+Software engineer at Alcatel Business Systems
+August 1998 - December 1999 (1 year 5 months)
+
+For a line of GSM cellular phones:
+
+-development and unit testing of several services
+-integration testing of security and customization features
+
+Tech: C, Unix, Clearcase
+
+Research engineer at Electricité de France, R&D
+April 1998 - August 1998 (5 months)
+
+Technical assistancy on a problem involving a crack in a cooling pipe of a nuclear plant:
+-thermodynamic modeling of the cooling circuit
+-analysis of data from different plants and comparisons
+Results confirmed by other simulations.
+
+Tech: HP-UX, Perl
+
+Languages
+French (Native or bilingual proficiency)
+English (Full professional proficiency)
+German (Elementary proficiency)
+
+Skills & Expertise
+UML
+C++
+C
+
+Page3
+
+
+
+Java
+Embedded Software
+Software Design
+Relational Databases
+Perl
+GSM
+Java Enterprise Edition
+Python
+Project Planning
+Project Management
+Team Management
+CEP
+Distributed Systems
+
+Education
+Université Paris Sud (Paris XI)
+DEA (~M. Sc.), Physics, 1992 - 1997
+Activities and Societies: University Choir
+
+The University of Kent
+Exchange program, Physics, 1995 - 1996
+Activities and Societies: University Chorale, University Theater, Karate team
+
+Lycée Gabriel Fauré
+Baccalauréat C, 1982 - 1991
+
+Page4
+
+
+
+Nicolas Janin
+Architect and Software Developments Manager at Leosphere
+
+Contact Nicolas on LinkedIn
+
+Page5
+
+
+

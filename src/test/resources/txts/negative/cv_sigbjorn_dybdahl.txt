@@ -1,0 +1,121 @@
+
+Sigbjørn Hernes Dybdahl 
+Born August 22 1982 sigbjorn.dybdahl@gmail.com +33 6 20 07 41 73 11 rue du Moulin des Près, 75013 Paris, France 
+
+ 
+     Experience  
+
+ 
+ 
+
+January 2014 - 
+Present 
+
+ Technical Project Manager, fifty-five, Paris 
+ 
+Managing a team of developers, and specifying and organizing upcoming 
+features and milestones. Taking part in developing and deploying in-house 
+dashboard solutions and sharing best practices. 
+ 
+Key technologies: Java, Jenkins, SonarQube, Tomcat, Apache, Gradle, Hadoop 
+ 
+
+  July 2012 - 
+December 2013 
+
+ R&D Technical Lead, fifty-five, Paris 
+ 
+Specifying and developing data driven real-time retargeting and 
+recommendation services. Extending and improving existing code base for 
+new and recurrent clients. 
+ 
+Key technologies: Java, Netty, Mahout, Tomcat, Ant, MySQL, node.js, Ubuntu 
+ 
+
+  October 2011 - 
+June 2012 
+
+ Co-founder and Chief Operating Officer, Travellution, Paris 
+ 
+Designing, implementing and deploying new features and evolutions for the 
+primarily open source based social travel planner. Interacting with external 
+partners as well as integrating external service providers. 
+ 
+Key technologies: Java, Spring, Hibernate, Tomcat, Maven, MySQL 
+ 
+
+  May 2011 - 
+October 2011 
+
+ Technical Manager, Bull, Les Clayes-sous-Bois 
+ 
+In charge of the technical aspects regarding planning, interconnecting and 
+deploying next generation voice messaging systems. Writing technical 
+documentation and creating schemas used for validating technical choices. 
+
+ 
+Key technologies: PHP, Apache, Oracle, Red Hat Linux 
+  
+
+  September 2007 
+- April 2011 
+
+ Telecommuncation Development Engineer, Bull, Les Clayes-sous-Bois 
+ 
+Development, integration and deployment of service platforms (voice and 
+video messaging, directory services) for telecom operators. Design and 
+implementation of internal tools for monitoring, supervision and migration. 
+ 
+Key technologies: PHP, Perl, Apache, Oracle, Red Hat Linux, Java, Tomcat, 
+LDAP, Solaris 
+
+ 
+ 
+
+
+
+ 
+     Education  2002 - 2007  Norwegian University of Science and Technology, Trondheim, Norway 
+
+ 
+Master of Science in Communication Technology.  
+ 
+Specialization in digital communication with master thesis on radio resource 
+allocation for increased capacity in cellular networks. 
+ 
+
+  2005 - 2006  Ecole Nationale Supérieure des Télécommunications, Paris, France 
+ 
+Erasmus exchange program, specialization in digital communications. 
+ 
+
+  2001 - 2002  Mandatory military service, Skjold, Norway 
+ 
+Reconnaissance assistant, mortar platoon. 
+ 
+
+     Extra 
+curricular 
+work 
+
+ 2004-2005  Treasurer, Abakus, Trondheim, Norway 
+ 
+Treasurer and member of the fraternity board.  
+ 
+Management of the fraternity in close cooperation with president and 
+fraternity board. 
+ 
+
+  2002 - 2004  Industry contact, Abakus, Trondheim, Norway 
+ 
+Member of the industry committee facilitating contact between companies and 
+Computer Science and Communication Technology students. 
+ 
+
+     Other  Languages  Norwegian (mother tongue), French (fluent), English (fluent) 
+  Hobbies  Travelling, music, photography 
+  Sports  Running, cycling, skiing, golf 
+
+ 
+
+

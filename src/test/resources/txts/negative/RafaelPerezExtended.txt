@@ -1,0 +1,111 @@
+
+Rafael Perez  
+Senior Data Scientist at Pocketmath, Singapore 
+hdkmraf@gmail.com 
+
+Specialties: R&D, product, data science, mobile data, prediction, data mining, machine 
+learning, data analysis, pattern recognition, correlation, causality, network visualisation, 
+model trees, regression. 
+
+Tools and Skills 
+Programming: Python, Java, C++, R, Ruby 
+Databases: MySQL, PostgreSQL, MongoDB, neo4j 
+Data Analysis: Tableau, Gephi, Pentaho, Weka 
+Others: GWT, Google App Engine, AWS, Perl 
+Languages English, Spanish, Japanese 
+
+Experience 
+
+Pocketmath, Singapore                        Dec 2014 - Present 
+Senior Data Scientist 
+Research and development of recommendation engine for real time biding in mobile 
+advertisement space. 
+Tools: Python, R, Amazon Redshift, Amazon Kinesis, H2O, Spark, Kanban. 
+
+App Annie, Beijing, China        Oct 2012 - Dec 2014 
+Senior Data Scientist 
+Research and development of algorithms for Intelligence product (increased performance 
+by 15%), applying mainly regression and natural language processing methods to estimate 
+app performance in mobile markets. 
+New product R&D, using NLP techniques to predict demographics and sentiment in mobile 
+markets. 
+Find relationships in data and implementing possible improvements. 
+Code prototypes (Created a testing environment for future research). 
+Gather requirements and feedback from product and marketing teams . 
+Screen and interview candidates for data science team. 
+Tools: Python, R, PostgreSQL, Redis, Jira, Agile, Scrum 
+
+The University of Electro-Communications, Tokyo, Japan    Oct 2007 – Sept 2012 
+Research Fellow 
+Research and development of various projects including network analysis and 
+visualisation, knowledge extraction from relationships. Investor-Startup relationship 
+prediction and recommendation. Stock Market prediction and portfolio generation and 
+recommendation. Student performance analysis and group formation in e-Learning 
+environments. 
+Tools: Twitter API, Twitter Stream, MongoDB, Gephi, Ubuntu, MySQL, Python, R, Ruby on 
+Rails, YQL 
+
+Skillup Japan, Tokyo, Japan    Sep 2011 - Dec 2011 
+Researcher 
+Business intelligence implementation for ad placement statistics. 
+Set up, configuration and maintenance of Pentaho servers to connect to existing web 
+advertisement serving platform in order to generate statistics for clients. 
+Tools: Pentaho, Java, Javascript, JSON, Ruby on Rails, MySQL, Ubuntu 
+
+
+
+ALMO, Morelia, Mexico       Apr 2006 - Mar 2007 
+Network Manager 
+Network management and maintenance under Linux Debian servers. 
+Setting up satellite internet in remote areas so in order to provide long distance calling to 
+rural areas in Mexico. 
+Tools: Debian, PostgreSQL, CISCO, PHP, TCP/IP layering 
+
+Universidad Michoacana de San Nicolás de Hidalgo, Morelia, Mexico  Jan 2005 - Mar 
+2007 
+HR Supervisor 
+Monitoring activities of workers and writing reports about findings.  
+Overseeing professors and workers were at their respective areas doing their jobs. 
+Generate reports on findings and performance 
+Tools: Windows, Word, Excel 
+
+Instituto Tecnologico de Morelia, Morelia, Mexico   Jan 2005 - Mar 2006 
+Software Engineer 
+Development of web system. 
+Tools: Apache, PostgreSQL, PHP, Solaris 
+
+Education 
+The University of Electro-Communications, Japan  
+
+PhD, Machine Learning, Correlation and causality, 2009 -2012  
+The University of Electro-Communications, Japan  
+ Masters, Machine Learning, Clustering, 2007 -2009  
+Instituto Tecnologico de Morelia, Mexico 
+ Bachelor, Computer Systems Engineering, 2001 -2006  
+
+Honors and Awards 
+Research Fellowship October 2007 to September 2012  
+Japanese Government (MEXT (Monbukagasho) / University of Electro-Communications)  
+
+Publications 
+Hierarchical Aggregation Prediction Method, JMLR: Workshop and Conference 
+Proceedings 11 July 25, 2010. Rafael Perez, Neil Rubens, Toshio Okamoto  
+A Framework for Automatic General Purpose Ontology Generation from Unorganized 
+Text, Proceedings of the Second JSiSE graduate student workshop March 3, 2008. Rafael 
+Perez, Toshio Okamoto  
+Value Co-Creation Networks and Social Media Conversations in the Green Tech 
+Innovation Ecosystem. Behavior, Energy and Climate Change Conference (BECC), 
+Washington DC November 29, 2010. Rafael Perez, Martha Russell, Camilla Yu, J. 
+Huhtamaki, Neil Rubens, K. Still  
+A Tweetonomy-based Investigation of Energy-related Conversations. November 19, 
+2010. Rafael Perez, Neil Rubens, Martha Russell  
+Social Media Analytics for Monitoring and Changing Energy Consumption Behavior . 
+Rafael Perez, Neil Rubens, Martha Russell  
+Alumni Network Analysis. IEEE Engineering Education April 3, 2011. Rafael Perez, Neil 
+Rubens, Martha Russell, Jukka Huhtamaki, Kaisa Still, Dain Kaplan, Toshio Okamoto  
+Semantic Analysis of Energy-Related Conversations in Social Media: A Twitter Case 
+Study. Communicating Sustainability for the Green Economy. Rafael Perez, Martha G. 
+Russell, June Flora, Markus Strohmaier, Jan Pöschko, Jiafeng Yu, Marc A. Smith, Neil 
+Rubens
+
+

@@ -1,0 +1,194 @@
+
+CV Christophe LECHENNE - Page 1 sur 2  
+
+Manager SI 
+ 
+
+15 ans d’expertise 
+ 
+
+Master génie logiciel (TelecomParisTech) 
+DEA analyse numérique (Paris 6) 
+
+Christophe LECHENNE 
+12 Bd Picpus  
+75012 Paris  
+06.85.41.49.73 
+christophe.lechenne@gmail.com  
+42 ans, marié, 2 enfants  
+
+ 
+
+Domaines de Compétences  
+ 
+
+Management - Encadrement d’équipes informatiques jusqu’à 30 personnes  
+- Recrutement et suivi des prestataires / miagistes L3, M1 et M2 
+
+ 
+
+Direction de 
+Projet 
+
+- Faisabilité, planification et budget 
+- Mise en œuvre du projet 
+
+ 
+
+Architecture 
+ 
+Connaissances 
+Méthodologiques 
+et Techniques 
+
+- Développement / logicielle, Technique et Applicative 
+ 
+
+- Méthodologies : SCRUM, J2EE, Software design, patterns, frameworks, TDD, intégration 
+continue 
+
+- Environnements techniques : J2EE, XSL, XML, junit, selenium, AOP, maven, ant, eclipse, python, 
+hibernate, Jboss, tomcat, Websphere, jetty, XHTML, CSS, jquery, prototype, Oracle, Unix, 
+Autonomy, windows server, google app engine 
+
+ 
+
+Expérience Professionnelle  
+ 
+
+depuis 2013 Responsable de Projets Senior 
+LCL - Département Etudes et Développement - Bureau d’étude,  
+- Pilotage du projet de migration et d’homologation (10 000jh) au forfait 
+- Pilotage de l’étude de reprise des moyens de paiements, des clients et comptes et de la 
+stratégie de tests et homologation. 
+
+- Etude d’opportunité sur un projet d’intégration estimé à 20 000j.h d’avril à fin juin : cette 
+étude couvre tous les domaines fonctionnels de la banque (clients / comptes / crédits / 
+moyens de paiement / CRM, ...)  
+
+2011 - 2013 Responsable de Projets Senior  
+LCL - Département Etudes et Développement - Equipe Référentiels (clients, comptes, adresses 
+et contrats),  
+- Management de l’équipe référentiels (30 personnes dont 15 internes). 
+- Pilotage de projets réglementaires (mono détention des livrets A, mise en œuvre du service de 
+base bancaire, loi de finance 2013, 3D secure, ...). 
+
+- Pilotage de la maintenance du parc applicatif critique : centaines de services métiers et 
+traitements différés de mise à jour, plusieurs bases de données à grosse volumétrie (50 
+Millions). 
+
+- Cadrage/étude de faisabilité/planification/gestion de budget/gestion des risques/affectation 
+des ressources. 
+
+- Recrutement de prestataires, entretiens de recrutement d’externes / entretiens d’évaluation. 
+- Animation d’une formation « cœur de SI » pour les nouveaux embauchés de la DSI. 
+
+ 
+
+2008 - 2011 Responsable de Projets  
+LCL - Département Etudes et Développement - Equipe Intranet,  
+- Management du centre de compétences Java de la DSI LCL (13 internes et 7 externes). 
+- Pilotage de projets d'applications métiers J2EE Web n-tiers. 
+- Pilotage de la maintenance du parc applicatif (600 applications). 
+- Cadrage/étude de faisabilité/planification/gestion de budget/gestion des risques/affectation 
+des ressources. 
+
+- Recrutement de prestataires 
+- Encadrement de miagistes L3, M1 et M2 
+- Définition de la stratégie d’externalisation puis mise en place de l’externalisation vers un 
+centre de service externe. 
+
+-  
+-  
+
+
+
+CV Christophe LECHENNE - Page 2 sur 2  
+
+2004 - 2008 Chef de Projets Senior  
+LCL - Département Architecture - Equipe Ingénierie de Développement,   
+- Management des pôles « Framework » puis « Usine logicielle » (5 à 9 personnes) 
+- Cadrage/étude de faisabilité/planification/gestion de budget/gestion des risques/affectation 
+des ressources. 
+
+- Pilotage de la maintenance du Framework LCL (sous-tendant plus de 600 applications métiers 
+multicanal). 
+
+- Mise en place d’une usine logicielle utilisée par 100 développeurs LCL : poste de 
+développement Java 5/J2EE sur poste de travail, dispositif d’intégration continue, 
+automatisation des tests unitaires et IHM (selenium), contrôles qualité, pilotage qualimétrie et 
+outils collaboratifs. 
+
+- Mise en place d’un intranet qualité / Encadrement de miagistes L3, M1 et M2. 
+- Organisation de la veille (intégration continue, programmation orientée aspect, outils qualité). 
+- Recrutement de prestataires 
+- Encadrement de miagistes L3, M1 et M2 
+- Mise en place de formations (mise en œuvre des tests unitaires, ...). 
+- Architecture logicielle : définition des règles de développement, de conception. 
+- Migration de l’annuaire pages jaunes/blanches LCL avec une refonte de l’architecture 
+technique. 
+
+- Études d’architecture technique et mise en place de variante des modèles d’infrastructure 
+transactionnels de la banque / Pilotage de la cellule de niveau 2 Java. 
+
+ 
+
+2000 - 2004 Chef de Projets  
+LCL - Département Etudes et Développement - Equipe Intranet de Publication,   
+- Usine à Site LCL (publication de contenu, hébergement de 30 intranets métiers à fin 2004). 
+- Étude de cadrage d’une usine à site, puis, conception, pilotage de la réalisation (3 prestataires), 
+revue de code, intégration, recette, déploiement et rédaction du dossier d’architecture 
+technique  
+
+- Pilotage des projets d’hébergement d’intranet métiers : faisabilité / planification / budget / 
+recette / déploiement / gestion des risques / revue de code 
+
+- Administration de la base oracle et des serveurs unix de développement et recette. 
+- Recrutement de prestataires 
+-  
+
+1998 - 2000 Ingénieur d’Etudes Senior  
+SOPRA - Département Etudes et Développement - Equipe Banque en Ligne,   
+- Banque en ligne LCL (avec un projet de mise en place du service de bourse en ligne). 
+- Conception, réalisation, intégration, recette, déploiement. 
+- Encadrement d’un stagiaire ingénieur/Encadrement technique des prestataires, revue de code. 
+-  
+
+1998 (4 mois) Ingénieur d’Etudes  
+SOPRA - Euroconverter 
+- Intégration des apis SOPRA dans la suite bureautique lotus 123. 
+- Conception, réalisation, intégration, recette, déploiement. 
+
+ 
+
+Formation  
+ 
+
+1998 Master Génie Logiciel                                                                                             Telecom Paris Tech, Paris 
+ 
+
+1997 DEA Analyse Numérique (commun Polytechnique et ENS-UIm)                                                    Paris VI 
+ 
+
+1995 - 1996 Maîtrise de Mathématiques Appliquées / Maîtrise d’Ingénierie Mathématiques                     Paris VI 
+ 
+
+1994 Licence de Mathématiques                                                                                                                   Paris VI 
+ 
+
+1993 DEUG A                                                                                                                                                      Paris VI 
+ 
+
+Autres Informations  
+ 
+
+Langues Anglais : lu, parlé, écrit - Espagnol : scolaire  
+ 
+
+Loisirs Voile, Squash, jeux de stratégie 
+ 
+
+Divers Permis B 
+ 
+
+

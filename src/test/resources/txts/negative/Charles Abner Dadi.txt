@@ -1,0 +1,156 @@
+
+Charles-Abner Dadi
+
+Permanent Address
+125 Rue du Chemin Vert Hall2
+75 011 Paris, France
+(+33) 6 99 02 72 50
+20 June, 1988
+charles-abner.dadi@graduates.centraliens.net
+
+https://github.com/charlesDADI
+
+www.charlesdadi.fr.nf
+
+EDUCATION
+
+Master of Science, Machine Learning and Statistics (MVA)
+Ecole Normale Supe´rieure, Cachan, cum laude December 2013
+Courses and Projects
+
+• Reinforcement Learning : Implementation GP-UCB for an optimization problem
+• MCMC: Online EM algorithm for Hidden Markov Chain (R Cran)
+• Graph theory and applications :Clustering by Dirichlet’s process (R Cran)
+• Statistics in high dimension : Implementation of a one layer perceptron and theoric working about
+
+multi layer perceptron
+
+Master of Science, Quantitative Finance, DEA M2MO (Ex ”Laure ELIE”)
+University Paris VII, Diderot, Paris, cum laude October 2013
+Courses and Projects
+
+• Stochastic calculus and Application in Finance
+• Volatility model : Exact simulation for greeks under stochastic volatility using an Heston’s model
+
+(C++)
+
+• Times Series in finance: Value At Risk Modeling with a Garch Process and bootstrap model (R cran)
+• Risk model and regulation
+• Sequential prediction
+• Statistics: Spam Classifier using Machine Learning tools ( Random Forest, K-means, Logistic Regres-
+
+sion) (R Cran)
+
+• Extreme Value Theory
+
+MA, Applied Mathematics to Economics and Finance
+University Paris 1 Panthe´on-Sorbonne, Paris magna cum laude Juin 2011
+Rank: 1st/133
+Thesis: Introduction to Monte Carlo (R Carlo): supervised by Annie Millet
+
+French ’Classe Pre´pa.’ : preparatory class for busines school June 2009
+Lyce´e Montaigne/Optimal, Paris
+Economics, Mathematics, Philosophy
+
+French baccalaure´at, Specialization in Mathematics
+Lyce´e Voltaire, Paris, France June 2007
+Economics, Mathematics, Philosophy
+
+PROFESSIONAL EXPERIENCE
+
+Data scientist
+EkiMetrics, Paris Febrary 2014
+
+• Social Network Analysis : Information propagation topic extraction,vizualisation, mood extraction,
+graph clustering (Python-Gephi-D3js-APIs,Javascript,AWS)
+
+• Big data segmentation on mobile logs (HiveQL-Parallel computing Ipython)
+
+
+
+
+
+
+• URL classification : Supervised algorithm to classify Url ammong topics.(Scikit Learn, Parallel Com-
+puting Ipython) and benchmark several methodologie using (N-grams, tokenization, classification al-
+gorithm pipeline with Scikitlearn)
+
+• Dynamic Dashboarding (Python - AngularJS - NodeJs)
+
+FX Quantitative Strategist Assistant
+Natixis, Paris May – December 2013
+
+• Applied machine learning and statistical methods to the design, development and backtest of FX
+daily trading systems for a systematic decisions. Implement a risk management layer to do post-trade
+analysis and cross validate algorithm parameters. (R Cran, VBA)
+
+• Designed and developed a statistic algorithm to forecast FX 3M implied volatility based on financial
+and macroeconomic data.
+
+• Wrote fundamental analysis on FXEM, especially on EMEA and Latam currencies.
+• Provide ’trade ideas’ to clients based on fundamental analysis.
+
+Research Assistant in Machine Learning, Paris
+Departement of Statistics, University Paris 1 Panthe´on - Sorbonne March 2013
+– June 2013
+
+• Reviewed literature about Random Graph, Temporal Space Graph and Variational EM algorithm.
+• Developed a new statistical model to detect connection error in edges between individuals in a social
+
+graph. Model based on an EM algorithm for a graph mixture. Implemented a generative model to test
+the model robustness.(R Cran)
+
+• Developed a Variational EM algorithm to cluster social degree of individuals in a social graph. (R
+Cran)
+
+Quantitative Portfolio Analyst Assistant May – August 2012
+Amaika Asset Management, Paris
+
+• Developed a monitoring to measure daily contribution of performance of a portfolio. (VBA)
+• Developed a tool to calculate historic VaR and several risk indicators.
+• Developed several procedures to automate daily task.
+
+COMPUTER SKILLS
+
+• Analytics Back-end :
+Highly experienced in R, Python, Experienced in C++, VBA, Spark
+
+• Front-end :
+Experienced in Bootstrap, Jquery, NodeJS + AngularJS,
+
+• Vizualisation :
+Highly experienced: Gephi, matplotlib, ggplot2, D3js, NVD3js
+
+• Databases:
+Highly experienced in MongoDB, ElasticSearch, Experienced in HiveQL, Hortonworks
+
+• Others:
+Highly experienced AmazonWS, Ipython parallel computing, Linux environement, scraping tools :
+ImportIO, PhantomJS, GitHub
+
+• Others:
+Highly experienced in Excel, Latex, Bloomberg
+
+LANGUAGE
+
+French : Native
+English: Fluent, TOEIC (875/990) Sept.2011
+Spanish: Professional
+
+MEMBERSHIPS
+
+Member of the Alumni Association of Ecole Centrale Paris
+
+
+
+INTERESTS/PROJECTS
+
+Digital analysis of Bitcoin: http://nbviewer.ipython.org/gist/charlesDADI/1824eff428428b941719
+http://www.charlesdadi.fr.nf/art-of-trading-bitcoin-part-2.html
+
+Innovation and Entrepreneurship
+Karate´, Classical music
+
+
+
+

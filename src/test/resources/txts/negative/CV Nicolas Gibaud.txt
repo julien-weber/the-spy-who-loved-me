@@ -1,0 +1,131 @@
+
+Nicolas Gibaud 
+Diplômé Supélec spécialisé en analyse de données et  
+
+apprentissage automatique 
+
+A la recherche d’un emploi à partir de fin septembre 2014 
+
+02/05/1989  
+
+11 bis rue du val de grâce,  
+
+75005, Paris 
+
++33 (0)6.28.53.25.89 
+
+nicolas.gibaud@supelec.fr 
+
+Formation 
+
+2010-2014 :  Etudes à Supélec, spécialisé en traitement de l’information : Mathématiques appliquées, algorithmique et 
+
+programmation,  apprentissage automatique, problèmes de décisions dans l’incertain, traitement du signal et des images 
+
+Master 2 à l’Université de Lorraine : Mathématiques fondamentales et appliquées, mention bien :  
+
+Calcul stochastique, Probabilités, Equations aux dérivées partielles 
+Sujet de mémoire : Etude d’un algorithme d’entrainement des réseaux de neurones profonds 
+
+2007-2010 :  Classes préparatoires aux grandes écoles (PCSI-PC*),  lycées Louis le grand et Charlemagne (Paris) 
+
+2007 : Baccalauréat scientifique, mention très bien, lycée Lavoisier (Paris) 
+
+Expérience professionnelle et associative 
+
+Stages  
+
+Avril-Aout 
+
+2014 
+Stage de fin d’études à l’IPAL (Image and Pervasive Access Lab), laboratoire mixte  franco-singapourien CNRS-
+
+A*STAR, SINGAPOUR 
+
+Apprentissage automatique : réseaux de neurones profonds appliqués à la classification d’images :  
+
+ • Développement d’un Deep Belief Network, réseaux de neurones profonds basés sur des Restricted Boltzmann 
+Machine (code en python, basé sur la librairie de calcul symbolique Theano) 
+
+• Optimisation des paramètres du réseau pour l’application à la classification d’images, tests sur la base de 
+
+données de digits MNIST 
+
+Avril-Aout 
+
+2013 
+
+Stage de césure à EDF R&D, Département MIRE : Mesure et systèmes d’information des réseaux électrique, 
+
+Clamart, FRANCE 
+
+Etude d’évolution de standards internationaux en appui aux Smart Grids : 
+
+ • Création d’un modèle UML contextualisé de réseau de distribution à partir d’un modèle générique et test de 
+
+l’intégration de ce modèle dans le système d’information du groupe. 
+
+• Participation avec différents acteurs européens aux réflexions sur l’évolution de ce modèle afin d’anticiper 
+
+l’évolution de l’architecture des réseaux (Avènement des Smart Grids) 
+
+Sept 2012- 
+
+Mars 2013 
+
+Stage de césure à la CGE Gabon (Compagnie Générale d’Electricité)  Libreville, GABON 
+
+Ingénieur chargé d’affaires, support technique et management de projets  
+
+ • Renforcement des postes de transformation HTB/HTA de Libreville 
+
+• Recensement et géolocalisation des postes et des supports du réseau de distribution de la moitié du Gabon 
+
+(Encadrement d’une équipe de 15 personnes pour recenser 40000 points en trois mois) 
+
+Aout 2012  Stage court à AXA France, Département Gestion des ressources humaines : gestionnaire départs et retraites  
+
+Projets  
+
+2013-2014 Contrat d’Etude Industrielle : Développement d’un algorithme adaptatif de contrôle respiratoire pour des patients 
+atteints de trouble du sommeil. Mots clés : Apprentissage par renforcement, Processus décisionnels de Markov, 
+
+Python 
+
+2011 Projet 1
+ère
+
+ année : Module pour apprendre un robot à suivre une balle colorée. Mots-clés : Apprentissage 
+
+supervisé, réseaux de neurones, C++ 
+
+Vie associative 
+
+2011-2013 Membre actif du Bureau des Elèves et Secrétaire du bureau des arts, Supélec campus de Metz 
+
+Compétences 
+
+ 
+
+Centres d’intérêts - Loisirs 
+
+ Voyages, Kaggle (concours de data science), Piano (10 ans de pratique, plusieurs concerts), Volley-ball (compétition) 
+
+Langues 
+
+Anglais : Capacité professionnelle 
+complète (Certification B2.2) 
+
+Espagnol : Niveau scolaire 
+
+Japonais : Notions  
+
+Informatique 
+
+OS : Windows, Linux 
+
+Langages : Python,  Matlab, C++, Java, XML, SQL, HTML, PHP/CSS 
+
+Bureautique : Suite office, Latex 
+
+

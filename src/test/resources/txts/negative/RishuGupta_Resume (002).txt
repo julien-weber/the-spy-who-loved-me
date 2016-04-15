@@ -1,0 +1,102 @@
+
+RISHU GUPTA 
+12490 Quivira Rd. Apt 713, Overland Park, KS 66213 | 213-880-5684 | rishugupta87@gmail.com 
+
+ 
+EDUCATION   
+
+UNIVERSITY OF SOUTHERN CALIFORNIA (USC) LOS ANGELES, CA 
+
+Masters in Computer Science, May 2013 
+
+• Courses: Design and Analysis of Algorithms | Web Technologies | Operating Systems | Computer Networks | Artificial 
+Intelligence | Advance Mobile Devices And Game Consoles | Database Systems 
+
+ 
+PEOPLES EDUCATION SOCIETY INSTITUTE OF TECHNOLOGY Bangalore, Karnataka 
+
+Bachelors in Telecom Engineering, Jun 2009 
+
+ 
+SKILLS   
+
+• Programming Languages: Java, C, C++, Scala, Ruby 
+• Web and Mobile: HTML, CSS, JavaScript, JQuery, JSP, Servlets, Ajax, Bootstrap, Android, IPhone 
+• Databases: MySQL, Oracle 
+• Big Data Experience: Hadoop, HDFS, Hive, MapReduce, Apache Crunch, HBase, Ooozie. 
+
+ 
+WORK EXPERIENCE   
+
+Cerner Corporation Kansas City MO 
+
+Software Engineer Sep 2013 – present 
+
+• Design and build BigData systems utilizing Hadoop MapReduce and Apache Crunch for Population Health data systems 
+to improve health of both individual and entire population by creating a centralized clean health information model from 
+
+disparate sources that can be leveraged in prediction, prevention, care management and analytics. Languages used: Java, 
+
+Scala 
+
+• Designed algorithms to store and retrieve data received from difference hospital sources in real time using Hdfs, 
+ApacheCrunch, Hbase , Languages used: Java, Scala 
+
+• Responsible for consolidating an unbounded amount of claims, health plan membership, and EMR content from 
+different source systems in different formats into a standardized, consistent format understandable by downstream 
+
+Population Health subsystems utilizing Hadoop Map reduce, apache crunch. Languages used: Java  
+
+• Designed a tool that helped different teams to view and create mock health related data in the form of avro and write to 
+Hdfs. 
+
+• Technologies Used: Java, Twitter bootstrap, Javascript, Jquery, CSS, Html, Scala, SQL, Apache Crunch, Hive, HBase, 
+HDFS, Ruby 
+
+ 
+Wilshire Financial Network LOS ANGELES CA 
+
+Web Developer (Summer Internship) May 2013 – Aug 2013 
+
+• Developed and customized various Websites. (Wordpress, Bootstrap, HTML, CSS, JS) 
+ 
+
+ITC Infotech India Ltd Bangalore, Karnataka 
+
+Associate IT Consultant May 2010 – Dec 2011 
+
+• Worked as a Front End and Back End Developer for the product Flex PLM (HTML, CSS, JS, Java) 
+
+• Made custom applications for clients like Adidas/Reebok to facilitate the entire product development lifecycle of their 
+products. (Java) 
+
+• Responsible for Optimizing the layout to enhance user experience (HTML, CSS, JS) 
+
+ 
+OTHER PROJECT EXPERIENCE   
+
+• Developed and tested Kernel algorithms for the functioning of thread synchronization, Mutual Exclusion, 
+Thread/Process management, System Calls Virtual Memory management taking an instance of Supermarket 
+
+Simulation. (C / C++) 
+
+• Developed and implemented the Checkers Game using minimax algorithm with alpha-beta pruning to determine the 
+next move that will maximize a player’s chance of winning. (Java) 
+
+• Developed an android application called “Easy Trip”, a Mash Up of Trip Advisor and Facebook to help users search 
+for hotels. (Java, Html, CSS, JS) 
+
+• Designed a Web Crawler to measure and study the characteristics of selected USC school websites. (Java) 
+• Content extraction and search using Apache Tika to extract metadata and text content from the pdf's provided from the 
+
+FBI Vault. (Java) 
+
+• Developed an interactive gameplay for IPhone using Cocos2d Game Engine called “One Piece“ based on a comic 
+character named Luffy (Objective C) 
+
+ 
+
+ 
+
+
+

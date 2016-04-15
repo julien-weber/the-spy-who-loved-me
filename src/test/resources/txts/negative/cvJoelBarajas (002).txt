@@ -1,0 +1,257 @@
+
+Ph.D. Joel Barajas
+
+5405 Prospect Rd, Apt 8
+San Jose CA, 95129
+Phone: (831) 251-0134
+joelbz@gmail.com
+
+http://www.soe.ucsc.edu/~jbarajas
+
+Summary
+More than ten years of experience working in multi-disciplinary research groups across industry and govern-
+ment agencies in different domains (Online Advertising, Marketing, Mobile Advertising, Hard Drive Analytics,
+Healthcare, Medical Imaging). Strong analytical background in Statistics, Data Science, Causal Inference and
+Randomized Experiments. Lead student in different research projects in Data Science and Analystics. Five
+years of research experience in Online Advertising attribution and causal inference with publications in top
+outlets such as INFORMS Marketing Science Journal, ACM CIKM, ACM WWW, SIAM SDM, among others.
+Three years of teaching assistant experience (TA) at UC Santa Cruz in Data Mining, Web Mining, Optimization,
+Computational Advertising.
+
+Education
+University of California Santa Cruz Sept, 2007 - Sept, 2015
+Ph.D. Electrical Engineering (Statistics) Santa Cruz CA, USA
+
+GPA: 3.9/4.0
+
+Thesis: Online Display Advertising Causal Attribution and Evaluation
+
+Autonomous University of Barcelona Sept, 2005 - June, 2007
+M.S. Informatics Barcelona, Spain
+
+GPA: 9.6/10
+
+Thesis: Spectral Rigid Registration of Medical Images: Application to Tagged MRI and IVUS
+
+CICATA, National Polytechnic Institute, Mexico Jan, 2005 - Jan, 2007
+M.S. Advanced Technology Queretaro, Mexico
+
+GPA: 9.8/10
+
+Thesis: Cardiac Motion Estimation using Tagged Magnetic Resonance Images
+
+Monterrey Inst. of Tech. ITESM Qro., Mexico Jan, 2000 - Dec, 2004
+B.S. Electronic Systems Engineering Queretaro, Mexico
+
+GPA: 95/100
+
+Graduated with Honors (highest GPA of the major)
+
+Professional Experience
+Data Scientist July, 2015 - Current
+HGST (Western Digital) San Jose, CA
+Hard drive analytics. Time series analysis. Detection of outliers using principal component analysis.
+
+Research Assistant Sept, 2007 - Sept, 2015
+Technology and Information Management, UC Santa
+Cruz
+
+Santa Cruz, CA
+
+Research in the following areas: online advertising attribution, statistical topic modeling, information retrieval,
+and recommender systems. These projects have been sponsored by multiple companies including AOL, AT&T,
+Google, Microsoft, Crowdscience (acquired by YuMe), and Serendio. Modeling energy consumption by smart
+buildings in collaboration with UC Berkeley energy group.
+
+Research Intern Apr, 2010 - Sept, 2015
+AOL Advertising.com Palo Alto, CA
+Primary PhD student of the attribution research project between AOL and UCSC. Online display advertising
+campaign attribution estimation and research based on: the Potential Outcomes Causal Model and randomized
+experiments. Dynamic attribution modeling based on time series and survival analysis.
+
+Data Scientist Intern May, 2014 - Dec, 2014
+NativeX San Francisco
+Mobile advertising targeting enhancement. Cold-start conversion prediction using Bayesian Hierarchical models.
+Analysis of A/B testing evaluation of algorithms.
+
+
+
+Research Intern June, 2010 - Aug 2010
+AT&T Interactive San Francisco, CA
+Research in local search, and user review aggregation. Statistical topic modeling of user reviews based on
+business categories to improve business listing retrieval in local search.
+
+Research Assistant Jan, 2005 - July, 2007
+Computer Vision Center Autonomous University of Barcelona, Spain
+Reconstruction and registration of Intravascular Ultrasound (IVUS) images with the University Hospital German
+Trias I Pujol, Barcelona Spain and Boston Scientific. Analysis and estimation of the cardiac motion from Tagged
+and CINE MRI with the Santa Creu i San Pau Hospital, Barcelona Spain.
+
+Teaching Experience
+Knowledge Services and Data Analytics UCSC, Fall 08, Fall 09
+Introduction to Data Mining for Business Applications: Principal Component Analysis, Multiple Linear Re-
+gression, Latent Semantics Analysis, Clustering, Logistic Regression, Linear Discriminant Analysis, Decision
+Trees. Prof: Ram Akella.
+
+Stoch. Opt. in Info. Syst. and Tech. UCSC, Winter 08, Winter 09
+Optimization Techniques Applied in Computational Advertising: Constrained Optimization and Nonlinear Pro-
+gramming, Portfolios, Support Vector Machines, Expectation Maximization, Collaborative Filtering, Dynamic
+Programming, Computational Advertising. Prof: Ram Akella.
+
+Web Mining and Advanced Machine Learning UCSC, Spring 08, Winter 10
+Hadoop and Map-Reduce Programming, Human behavior modeling, Relevance feedback in IR, Click-stream
+Mining, Social Networks, Bayesian Networks and Graphical Models, Time Series, Reinforcement Learning.
+Prof: Ram Akella, James Shanahan.
+
+Financial Engineering and Management UCSC, Spring 09, Spring 10
+Net Present Value and Cost of Capital, Annuities, Internal Rate of Return, Valuing Projects, Portfolio Theory,
+Risk and Return, CAPM, Real Options, Decision Trees. Prof: Ram Akella.
+
+Artificial Intelligence, Compiler Design ITESM, 08/2000 - 12/2004
+Introductory course to Artificial Intelligence, Decision trees. Compiler Design, Chomsky classification, Au-
+tomata Theory (DFA,NFA), Parsers, yacc, intermediate code generation, peer tutoring. Prof: Carlos Ramirez.
+
+Coursework
+
+Information Systems Management:Data Mining and Business Analytics in Knowledge Services, Random Pro-
+cesses, Stochastic Optimization in Business Intelligence, Large Scale Web Analytics, Data Mining, Machine
+Learning, Computational Advertising, Financial Engineering
+
+Applied Mathematics and Statistics: Statistical Inference, Bayesian Statistics, Introduction to Bayesian Statis-
+tics, Bayesian Decision Theory, Time Series, Generalized Linear Models.
+
+Electrical Engineering: Information Theory, Statistical Signal Processing, Image Processing
+
+Knowledge
+
+Computational Advertising: Online Campaign Conversion Attribution, Targeted Display Advertising, Online
+Advertising in Marketplaces, Campaign Attribution Dynamics, Mobile Advertising, Sponsored Search, Mining
+Query logs, Query Intent Detection.
+
+Causal Analysis: Causal Attribution, Potential Outcomes Causal Model, Principal Stratification, Design of Ex-
+periments and A/B Testing, Survival Analysis, Observational Studies, Propensity Scores, Econometric Causal-
+ity, Instrumental Variables, Imperfect Experiments.
+
+Bayesian Statistics: MCMC Inference, Autoregressive Models, ARMAmodels, Dynamic Linear Models, Kalman
+Filters, EM, Hierarchical Models and Latent Variables, Decision Theory, Hypothesis Testing, Statistical Signal
+Processing, Missing Data Modeling, Bayesian Regression Models.
+
+Topic Modeling in Text Mining: Latent Semantics Indexing, Probabilistic Latent Semantics, Latent Dirichlet
+Allocation, Correlated Topics.
+
+Recommender Systems: Collaborative Filtering, Bayesian Recommender Systems, Regression Based Latent
+Factors, Social based recommendations, Community Discovery, Link Prediction.
+
+Machine Learning: Classification and Prediction, Linear and Logistic Regression, Decision Trees, Na¨ıve Bayes,
+Linear Discriminant Analysis, Support Vector Machines, Boosting, Clustering.
+
+
+
+Computer Vision and Image Analysis: Gabor Filters, Image Registration, Rigid Transformations, Active Shape
+Models, Binary Images, Filtering, Color Representation, Noise Estimation and Removal from a Single Image.
+Domain in the analysis of Cardiac Motion from Tagged Magnetic Resonance Images, Intravascular Ultrasound
+(IVUS) Image Acquisition and Reconstruction from RF signals.
+
+Software Skills
+
+Hadoop, Map-Reduce, R, R Shiny, Matlab, Java, Impala, ANSI C, C++, GSL Libraries, Perl, Lemur Toolkit,
+Maven, SVN, Eclipse, SQL, XML, Weka, OpenCV.
+
+Recent Publications
+
+J. Barajas, R. Akella, M. Holtan, A. Flores. Experimental Designs and Estimation for Online Display
+Advertising Attribution in Marketplaces. Marketing Science Journal INFORMS. In press.
+
+J. Barajas, R. Akella, M. Holtan, A. Flores. Estimating Ad Impact on Clicker Conversions for Causal
+Attribution: A Potential Outcomes Approach. In Proc of the 15th SIAM International Conference on
+Data Mining SDM 2015, SIAM, pp, 640-648, 2015.
+
+J. Barajas, R. Akella, M. Holtan. Evaluating User Targeting Policies: Simulation Based on Random-
+ized Experiment Data. In Proc of the 24th ACM International Conference Companion on WWW ’15, pp.
+11-12, 2015.
+
+J. Barajas, R. Akella, M. Holtan, J. Kwon, A. Flores, V. Andrei. Dynamic Evaluation of Online Display
+Advertising with Randomized Experiments: An Aggregated Approach. In Proc of the 22nd ACM
+International Conference Companion on WWW ’13, pp. 115-116, 2013.
+
+J. Barajas, R. Akella, M. Holtan, J. Kwon, A. Flores, V. Andrei. Dynamic Effects of Ad Impressions on
+Commercial Actions in Display Advertising. In Proc. of the 21st ACM CIKM ’12, pp. 1747-1751, 2012.
+
+K. L. Caballero, J. Barajas, R. Akella. The Generalized Dirichlet Distribution in Enhanced Topic
+Detection. In Proc. of the 21st ACM CIKM ’12, pp. 773-782, 2012.
+
+J. Kwon, R. Akella, J. Barajas, A. Flores, V. Andrei, M. Holtan. Inferring Ad Influence Under Segmen-
+tation Bias. In JSM Proceedings, Statistics in Marketing Section. American Statistical Association, 2012.
+
+J. Barajas, J. Kwon, R. Akella, A. Flores, M. Holtan, and V. Andrei. Marketing Campaign Evaluation
+in Targeted Display Advertising. In Proc. of the 6th ACM International Workshop on Data Mining for
+Online Advertising and Internet Economy ADKDD ’12, pp. 5:1-5:7, 2012.
+
+J. Barajas, J. Kwon, R. Akella, A. Flores, M. Holtan, and V. Andrei. Measuring Dynamic Effects of Dis-
+play Advertising in the Absence of User Tracking Information. In Proc. of the 6th ACM International
+Workshop on Data Mining for Online Advertising and Internet Economy ADKDD ’12, pp. 8:1-8:9, 2012.
+
+J. Barajas, R. Akella, M. Holtan, J. Kwon, A. Flores, V. Andrei. Impact of Ad Impressions on Dy-
+namic Commercial Actions: Value Attribution in Marketing Campaigns. In Proc of the 21st ACM
+International Conference Companion on WWW ’12, pp. 459-460, 2012.
+
+J. Barajas, R. Akella, M. Holtan, J. Kwon, B. Null. Measuring the Effectiveness of Display Advertising:
+A Time Series Approach. In Proc of the 20th ACM International Conference Companion on WWW ’11,
+pp. 7-8, 2011.
+
+R. Akella, Z. Xu, J. Barajas, K.L. Caballero. Knowledge Sciences in Services Automation: Integration
+Models and Perspectives for Service Centers. In Proc. of IEEE CASE 2009.
+
+Other Publications
+
+J. Barajas, K. L. Caballero, O. Rodriguez, P. Radeva. Cardiac Phase Extraction in IVUS Sequences
+Using 1-D Gabor Filters. In Proc. of 29th Conference of the IEEE EMBS 2007, pp. 343-346.
+
+J. Barajas, K. L. Caballero, J. Garcia, F. Carreras, S. Pujadas, P. Radeva. Correction of Misalignment
+Artifacts Among 2-D Cardiac MR Images in 3-D Space. In Proc. of First International Workshop on
+Computer Vision for Intravascular and Intracardiac Imaging from MICCAI 2006, pp. 114-121.
+
+K. L. Caballero, J. Barajas, O. Pujol, N. Savatella, P. Radeva. In-vivo IVUS Tissue Classification: a
+comparison between RF Signal Analysis and Reconstructed Images, In Pattern Recognition, Image
+Analysis and Applications, pp. 137-146.
+
+J. Garcia, D. Gil, J. Barajas, F. Carreras, P. Radeva. Characterization of Ventricular Torsion in Healthy
+Subjects Using Gabor Filters and a Variational Framework, In Proc. of Computers in Cardiology 2006,
+pp. 877-880.
+
+
+
+J. Barajas, J. Garcia, F. Carreras, P. Radeva. Angle Images using Gabor Filters in Cardiac Tagged
+MRI. In Artificial Intelligence Research and Development pp. 107- 114, 2005. ISBN: 1-58603-560-6
+
+J. Garcia, J. Barajas, F. Carreras, P. Radeva. An Intuitive Validation Technique to Compare Local
+versus Global Tagged MRI Analysis. In Proc. of Computers in Cardiology 2005, pp. 29-32 IEEE 2005.
+ISBN: 0-7803-9337-6
+
+Honors and Awards
+
+SIAM Student Travel Award to attend the SIAM International Conference on Data Mining (SDM15), 2015
+
+Doctoral fellowship, UCSC, 2007–2015.
+
+Ph.D fellowship, National Council of Science and Technology (CONACYT–UC MEXUS), 2007–2012.
+
+Research Formation Scholarship, Ministry of Education and Science (MEC), Spain. 2006–2007
+
+Spain Research Formation Scholarship, Regional Government of Catalonia Barcelona, Spain. 2006.
+
+Master Scholarship, National Council of Science and Technology (CONACYT), Mexico. 2005–2006
+
+Assistant Research Scholarship, Computer Vision Center Barcelona, Spain. 2005
+
+Highest GPA of generation in B.S. Electronic Systems Engineering, Mexico. 2004
+
+Academic Scholarship, ITESM Quere´taro, Mexico. 2000–2004
+
+Third and First place in the VII and VIII National Olympic of Chemistry, Mexico 1998,1999
+
+Languages
+
+English, Spanish
+
+

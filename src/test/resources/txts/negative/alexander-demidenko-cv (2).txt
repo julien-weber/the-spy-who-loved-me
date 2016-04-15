@@ -1,0 +1,90 @@
+
+Alexander Demidenko
+Software Developer
+
+United Kingdom
+H Tel: +44 7770 625-327
+
+B Email: kibarabara@gmail.com
+
+Keywords
+Languages C/C++, R
+
+OS Linux, MacOS, QNX, Windows
+Frameworks PhAB, Qt
+
+Modeling
+Software
+
+R, Matlab, Scilab
+
+Areas Programming, Modeling, Math
+
+Experience
+Aug
+
+2013-present
+Geophysical Software Developer, ARK CLS LTD, Bedford, UK.
+Working on various geophysical software; developing UI using Qt and implementing calculation algorithms;
+designing applications architecture and solutions.
+
+Mar 2013 -
+Apr 2013
+
+Software Developer, SecurityCode, Moscow, Russia.
+I started as iOS/C++ maintainer/developer of secure VPN client. Made automatic-build environment for
+building iOS client and closed several outstanding issues.
+
+Mar 2012 -
+Feb 2013
+
+Software Developer, OJSC MTT, Moscow, Russia.
+Initially I started as Desktop/Qt leader for MTT YouMagic client but after the first month I was asked
+to temporarily join the iOS mobile team where I learned Objective-C and essentials of the iOS. There I
+was contributing greatly to different parts of the mobile client and architecture solutions. Several months
+later I picked back up Desktop/Qt leadership and started to maintain and manage small outsource team 2-5
+people. As a result of our work YouMagic Linux Desktop client became a part of Linux ROSA distributive.
+Along with completing this goal our team was able to successfully create releases for other platforms such as
+Windows 7 and various Linux distributions.
+
+Sep 2010 -
+Oct 2011
+
+Software Developer, ScienceSoft, Minsk, Belarus.
+In 2010 I moved to Belarus and joined pretty big outsourcing company placed in Minsk. There I started as
+C++ developer and started to learn Qt technology and became a big fun of it. Several months later I joined
+growing Viber mobile client team and I’ve been porting sound engine from iOS into Android. Touched
+NDK/JNI technologies and successfully accomplished porting. Later I was temporarily maintaining and
+developing fTalk client and right after joined Viber PC team and started to work on Desktop client. I
+was responsible for developing various parts of GUI client along with making improvements to existing
+application engine.
+
+Oct 2009 -
+Aug 2010
+
+Software Developer, Moscow Institute of Radiotechnics, Moscow, Russia.
+In 2009 I moved to next company. There I was responsible for developing software that stood for visualization
+of data and telemetry from custom-made hardware. Main stack of technologies was C/C++, QNX.
+
+Jan 2008 -
+Aug 2009
+
+Software Developer, Moscow Institute of Space Device Engineering, Moscow, Russia.
+Started in the beginning of 2008 as software developer in space industry. Met C/C++ languages and QNX.
+Mainly I was working software that was retrieving and validating data from custom-made hardware.
+
+Education
+2002-2007 PhD, Moscow State Institute of Electronics and Mathematics, Moscow, Incomplete.
+2002-2007 Engineer, Moscow State Institute of Electronics and Mathematics, Moscow.
+
+Languages
+English Fluent
+Russian Native
+
+
+
+	Keywords
+	Experience
+	Education
+	Languages
+

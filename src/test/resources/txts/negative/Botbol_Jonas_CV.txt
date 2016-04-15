@@ -1,0 +1,96 @@
+
+Jonas Botbol
+22 Cours de l’Ile Seguin
+92 100 Boulogne-Billancourt, France
+Phone: +33 (0) 6 65 52 71 92
+Email: jonas.botbol@polytechnique.org
+
+Education
+
+2014 – 2015 E.N.S.A.E., Paris.
+Master of Data Science.
+Data Mining, Computational Statistics, Mathematic and Informatic tools for Big Data.
+
+2014 – 2015 Ecole Normale Supérieure de Cachan, Paris.
+Master Mathématiques Vision Apprentissage (MVA).
+Machine & Reinforcement Learning, Probabilistic Graphical Models, Kernel Methods.
+
+2011 – 2014 École Polytechnique, Paris.
+Top mark at the mathematics entrance exam; also admitted to the ENS Paris.
+Majors: Applied Mathematics: Stochastic Calculus, Monte Carlo Methods, Probabilistic
+models in Communication Networks; Statistical Physics.
+
+2009 – 2011 Lycée Kléber, Strasbourg, France.
+Completed a two-year scientific program in preparation for the national “Grande École”
+competitive exam. Majors: Fundamental Mathematics and Physics (mpsi-MP*).
+
+Work Experience
+
+May-Sept 2015
+(5 months)
+
+Microsoft Enginnering center, Paris.
+Content and telemetry mining for anomaly detection in Media Services production environ-
+ments : use of Big Data analysis tools (Map/Reduce) for machine learning.
+
+Apr-Aug 2014
+(4 months)
+
+Société Générale-CIB, Paris La Défense.
+Research Internship on High Frequency trading strategies on major FX currencies :
+statistical analysis, data mining (software : R) .
+
+July 2013 Crédit Agricole-CIB, Paris La Défense.
+Internship as a Trading Assistant in Alternatives Derivatives (Interest rate swaps).
+
+March–June 2013
+(4 months)
+
+Lycée Raspail, Paris.
+Preparatory school Examiner in Mathematics .
+
+Oct–Apr 2013
+(7 months)
+
+Académie de La Courneuve, Seine-Saint-Denis.
+Teaching Assistant in sciences courses in an action priority zone in Paris suburbs.
+
+2011 – 2015 Private tutor in Mathematics to high school and pre-engineering students in Paris.
+September 2011 Military training as a cadet officer at the military of La Courtine, France .
+
+. Experience of the military environment, which aims to improve leadership/team-work skills.
+
+Language and Computer Skills
+
+· French (mother tongue), English (fluent) , Spanish (fluent), Hebrew (fluent).
+· Computer skills: R, Matlab, Python, Java, C, C++, Hadoop, Spark , Maple, HTML, PHP, SQL, CAML .
+Additional experience and achievements
+
+· Pair-project in Big Data : Implementation of PageRank algorithm on a big graph using Hadoop.
+· Pair-project : Classification of EEG using Wavelet Transforms to predict brain activity during sleep (kaggle).
+· Pair-project in Dynamic Bayesian Networks : use of Hidden Markov model for audio speech recognition.
+· Pair-project in Reinforcement Learning : Thompson Sampling in contextual bandits with applications in
+Display Advertising (Matlab).
+· Pair-project in Machine Learning : Prediction of buzz on a topic in a social network like Twitter (Python) .
+· Pair-project in High-Frequency Trading: optimally hedging a portfolio in a Brownian market model with
+microstructure noise under the supervision of Professor Mathieu Rosenbaum (software : R).
+· Pair-project in Probabilistic Algorithms (e.g. Hyperloglog) in order to deal with large amounts of data
+optimizing time and memory with very good precision (software : Java) .
+· Scientific project with 5 people about the Minority Game and its application in modeling markets dynamics
+and econophysics under the supervision of Professor Damien Challet (software : Python).
+· Binet Shalom, Ecole Polytechnique student organization, president : organized cultural events at the Ecole
+Polytechnique with hundreds of participants (meals, debates...).
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+
+Alexey Svyatkovskiy
+Lafayette, Indiana Area
+Research Assistant at Purdue University
+alexey.svyatkovskiy@cern.ch - 7655322672
+
+Experience
+Research Assistant at Purdue University
+June 2009 - Present (5 years 6 months)
+
+Statistical data analysis, physics analysis, software engineering for the CMS experiment at the
+CERN LHC.
+
+• Analyze large amounts of complex data with Hadoop on a distributed system of computing
+resources
+
+- Developed pattern classification methods and software for signal extraction and background
+suppression using decision trees and linear discriminant techniques
+
+- Estimated backgrounds with semi-supervised data-driven techniques to reduce systematic error
+- Developed unfolding method removing various detector effects to facilitate comparisons of data
+
+and Monte Carlo simulations to the theoretical models
+- Evaluated data properties using simultaneous fitting of multiple event classes
+
+• Refined data mining workflow and software for data analysis utilizing multiple CPU cores taking
+into account limited storage resources, and communication overhead between network nodes
+
+- Optimized data structures and event size for large scale data analysis
+• Develop and validate object-oriented software for reconstruction of complex particle collision
+events from electronic signals from multi-particle detectors for use in physics analysis making use
+of the Kalman filter algorithm
+• Developed a pattern recognition algorithm to tag electromagnetic showers in CMS detector
+chambers
+• Participate in international team to develop software for validation and quality certification of
+collected data utilizing C++, Python, and ROOT
+• Communicate effectively with international groups within the collaboration
+
+- Clearly and effectively present personal, team, and collaboration results for peer review in
+weekly meetings, international conferences, collaboration meetings
+• Develop communication with colleagues from various groups for prompt feedback
+
+Visiting Physicist at CERN
+May 2011 - July 2011 (3 months)
+
+Data collection shifter responsible for running of multi-detector experiment. Performed real-time
+monitoring of trigger system and data quality. Provided diagnostic and troubleshooting support for
+possible problems related to trigger performance.
+
+
+
+Visiting Physicist at Fermilab
+January 2011 - February 2011 (2 months)
+
+As a member of a small team, organized and facilitated analysis development workshop attended
+by more than 40 international novices, peers, and executives. My responsibilities included:
+
+• Developing and facilitating interactive tutorials involving scientific principles, practical applications
+and programming
+• Testing tutorial exercises
+
+Teaching Assistant at Purdue University
+August 2008 - May 2009 (10 months)
+
+• Physics laboratory teaching assistant for a full-credit coarse on modern classical mechanics,
+combining experimentation and modeling in VPython.
+• Grader for full-credit undergraduate calculus course.
+
+Education
+Purdue University
+PhD, Physics, specialization in Computational Engineering, 2008 - 2013
+
+Saint Petersburg State University
+Master of Science (MS), Theoretical and Mathematical Physics, 2005 - 2008
+Saint Petersburg State University
+Bachelor of Science (BS), Physics, 2001 - 2005
+
+Honors And Awards
+Outstanding Graduate of Saint-Petersburg State University, 2008
+CERN Summer Student, 2008
+Dynasty Foundation Scholarship, 2006-2008
+
+
+
+Alexey Svyatkovskiy
+Lafayette, Indiana Area
+Research Assistant at Purdue University
+alexey.svyatkovskiy@cern.ch - 7655322672
+
+
