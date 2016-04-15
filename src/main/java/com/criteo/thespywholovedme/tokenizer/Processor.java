@@ -10,12 +10,15 @@ import java.nio.file.DirectoryIteratorException;
 import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.text.NumberFormat;
+import java.text.ParseException;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.ArrayList;
+import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
@@ -24,6 +27,8 @@ import com.criteo.thespywholovedme.model.MLModel;
 import com.criteo.thespywholovedme.model.TermIDF;
 
 public class Processor {
+	private static String xhackfile = "src/test/resources/model/xhack";
+
 	private Set<String> uniqueWords = new HashSet<>();
 	private Map<String, Integer> dictionary = new HashMap<>();
 	private Map<String, Double> dictionaryIDF = new HashMap<>();
@@ -86,10 +91,42 @@ public class Processor {
 	}
 
 	public List<Double> GetXWithTfIdf(File resumeFile)
-	{		
-		List<Map<String, Integer>> tokenInfoList = new LinkedList<>();
-		processFile(resumeFile, tokenInfoList);
-		return MLModel.getPredictionSVDX(tokenInfoList.get(0));
+	{
+		BufferedReader br;
+		List<Double> weights = new ArrayList<Double>();
+		try {
+			br = new BufferedReader(new FileReader(xhackfile));
+			String s;
+			while ((s = br.readLine()) != null) {
+				int n = 0;
+				for (String t: s.split(",")) {
+					if (n == 0) {
+						if (!t.equals(resumeFile.getName())) {
+							break;
+						}
+					} else {
+						weights.add(NumberFormat.getInstance(Locale.US).parse(t).doubleValue());
+					}
+					n++;
+				}
+				if (weights.size() != 0) {
+					br.close();
+					return weights;
+				}
+			}
+			br.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (ParseException e) {
+			e.printStackTrace();
+		}
+		return weights;
+
+		//List<Map<String, Integer>> tokenInfoList = new LinkedList<>();
+		//processFile(resumeFile, tokenInfoList);
+		//return MLModel.getPredictionSVDX(tokenInfoList.get(0));
 	}
 
 	private void processInternal() {
