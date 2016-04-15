@@ -9,6 +9,7 @@ import org.apache.commons.lang.NumberUtils;
 public class TokenizerHelper {
 
 	static Set<String> dictStopWords;
+	static Set<String> techWords;
 	static
 	{
 		String stopWords =
@@ -22,6 +23,13 @@ public class TokenizerHelper {
 		for (int i = 0; i < tks.length; i++) {
 			dictStopWords.add(tks[i]);
 		}
+		
+		String specialWords = "aws, iis";
+		techWords = new HashSet();
+		tks = specialWords.split(",");
+		for (int i = 0; i < tks.length; i++) {
+			techWords.add(tks[i]);
+		}	
 	}
 
 	private static final Pattern normalizePattern = Pattern.compile("\\p{InCombiningDiacriticalMarks}+");
