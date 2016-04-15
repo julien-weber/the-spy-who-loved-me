@@ -2,6 +2,7 @@ package com.criteo.thespywholovedme.model;
 
 
 public  class TermIDF {
+    private static final double DELTA = 1e-15;
     private String term;
     private Double idf;
 
@@ -34,7 +35,7 @@ public  class TermIDF {
             return true;
   
         TermIDF rhs = (TermIDF) obj;
-        return term.equals(rhs.getTerm()) && idf == rhs.getIdf();
+        return term.equals(rhs.getTerm()) && Math.abs(idf - rhs.getIdf()) < DELTA;
     }
 }
 

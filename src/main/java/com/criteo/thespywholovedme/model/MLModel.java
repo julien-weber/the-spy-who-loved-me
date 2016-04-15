@@ -1,6 +1,9 @@
 package com.criteo.thespywholovedme.model;
 
-import org.python.util.PythonInterpreter; 
+import org.python.util.PythonInterpreter;
+
+import com.criteo.thespywholovedme.tokenizer.DictionaryHelper;
+
 import java.io.File;
 
 import java.io.BufferedReader;
@@ -17,6 +20,7 @@ import java.util.Map;
 public class MLModel {
 	private static String filePath = "src/test/resources/model/featureVectorFile";
 	private static String weightsFilePath = "src/test/resources/model/weights.txt";
+	private static String dictPath = "src/test/resources/model/dict.txt";
 
 	private static List<TermIDF> masterDictionary;
 	
@@ -24,6 +28,7 @@ public class MLModel {
 		FeatureExtractor featureExtractor = new FeatureExtractor();
 		featureExtractor.writeFeatures(filePath, dictionary, posResumes, negResumes);
 		masterDictionary = dictionary;
+		DictionaryHelper.Save(dictionary, dictPath);
 		
 		PythonInterpreter interp = new PythonInterpreter();
 		File file = new File(filePath);
@@ -43,6 +48,9 @@ public class MLModel {
 	
 	
 	public static List<Double> getPredictionSVDX(Map<String, Integer> resume) {
+	    if (masterDictionary == null || masterDictionary.isEmpty()) {
+	      masterDictionary = DictionaryHelper.Load(dictPath);
+	    }
 		FeatureExtractor featureExtractor = new FeatureExtractor();
 		return featureExtractor.getSVDX(masterDictionary, resume);
 		
