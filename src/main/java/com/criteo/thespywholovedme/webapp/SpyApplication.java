@@ -2,7 +2,10 @@ package com.criteo.thespywholovedme.webapp;
 
 import java.io.File;
 import java.util.Arrays;
+import java.util.List;
 
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.filefilter.FileFilterUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
@@ -13,6 +16,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
+
+import com.criteo.thespywholovedme.prediction.Prediction;
+import com.criteo.thespywholovedme.tokenizer.Processor;
+import com.google.common.collect.Lists;
 
 @SpringBootApplication
 @EnableAutoConfiguration
@@ -56,5 +63,25 @@ public class SpyApplication {
 
             }
         };
+    }
+
+    @Bean
+    public Processor processor() {
+        String goodResumesPath = "profiles_hired_output";
+        List<File> goodResumesInText = Lists.newArrayList(FileUtils.listFiles(new File(goodResumesPath), FileFilterUtils.trueFileFilter(), FileFilterUtils.directoryFileFilter()));
+
+        String badResumesPath = "profiles_rejected_output";
+        List<File> badResumesInText = Lists.newArrayList(FileUtils.listFiles(new File(badResumesPath), FileFilterUtils.trueFileFilter(), FileFilterUtils.directoryFileFilter()));
+
+        // 2. Tokenizer + ML
+        Processor processor = new Processor();
+        processor.process(goodResumesInText, badResumesInText);
+
+        return processor;
+    }
+
+    @Bean
+    public Prediction prediction() {
+        return Prediction.getInstance();
     }
 }
