@@ -3,9 +3,11 @@ package com.criteo.thespywholovedme.webapp.controller;
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
+import java.util.Map;
 
 import javax.servlet.http.HttpServletResponse;
 
+import org.python.google.common.collect.Maps;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -40,8 +42,9 @@ public class SpyController {
     }
 
     @RequestMapping(method = RequestMethod.POST, value = "/upload")
-    public String handlePdfUpload(@RequestParam("file") MultipartFile file, RedirectAttributes redirectAttributes) {
+    public @ResponseBody ResponseMessage handlePdfUpload(@RequestParam("file") MultipartFile file, RedirectAttributes redirectAttributes) {
         String name = file.getOriginalFilename();
+        ResponseMessage response = new ResponseMessage();
         if (!file.isEmpty()) {
             try {
                 File uploadedPdf = new File(uploadDirectory + "/" + name);
@@ -51,14 +54,15 @@ public class SpyController {
 
                 Double prediction = resumePredictionService.runPredictionForFile(uploadedPdf);
 
-                redirectAttributes.addFlashAttribute("message", "Prediction is " + prediction + "!!!");
+                response.score = prediction;
             } catch (Exception e) {
-                redirectAttributes.addFlashAttribute("message", "You failed to upload " + name + " => " + e.getMessage());
+                response.error = "You failed to upload " + name + " => " + e.getMessage();
             }
         } else {
-            redirectAttributes.addFlashAttribute("message", "You failed to upload " + name + " because the file was empty");
+            response.error = "You failed to upload " + name + " because the file was empty";
         }
-        return "redirect:/";
+
+        return response;
     }
 
     @ExceptionHandler(Exception.class)
@@ -66,5 +70,26 @@ public class SpyController {
         logger.error("Error caught", e);
         response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
         return e.getMessage();
+    }
+
+    public static class ResponseMessage {
+        private String error;
+        private Double score;
+
+        public String getError() {
+            return error;
+        }
+
+        public void setError(String error) {
+            this.error = error;
+        }
+
+        public Double getScore() {
+            return score;
+        }
+
+        public void setScore(Double score) {
+            this.score = score;
+        }
     }
 }

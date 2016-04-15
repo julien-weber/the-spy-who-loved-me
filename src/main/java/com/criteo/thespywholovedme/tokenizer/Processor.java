@@ -13,6 +13,7 @@ import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Map;
@@ -47,7 +48,8 @@ public class Processor {
 			{
 				for (Path entry: stream) {
 					resumeCount++;
-					processFile(entry.toFile(), i==0);
+					processFile(entry.toFile(), 
+							i==0 ? positive_tokenInfoList : negative_tokenInfoList);
 				}
 
 			} catch (DirectoryIteratorException ex) {
@@ -56,16 +58,10 @@ public class Processor {
 				ex.printStackTrace();
 			}
 		}
-		System.out.println("size of dictionary: " + dictionary.size());
-
-		computeIDF();
-
-		MLModel.createModel(IDFList, positive_tokenInfoList, negative_tokenInfoList);
 		
-		System.out.println();
-		outputResumeTokenInfo();
+		processInternal();
 	}
-
+	
 	public void process(List<File> positive, List<File> negative) {
 
 		for (File file : positive) {
@@ -73,7 +69,7 @@ public class Processor {
 				continue;
 
 			resumeCount++;
-			processFile(file, true);
+			processFile(file, positive_tokenInfoList);
 
 		}
 
@@ -82,24 +78,28 @@ public class Processor {
 				continue;
 
 			resumeCount++;
-			processFile(file, true);
+			processFile(file, negative_tokenInfoList);
 
 		}
 
-		System.out.println("size of dictionary: " + dictionary.size());
-
-		computeIDF();
-
-		System.out.println();
-		outputResumeTokenInfo();
+		processInternal();
 	}
 
 	public List<Double> GetXWithTfIdf(File resumeFile)
-	{
-		return null;
+	{		
+		List<Map<String, Integer>> tokenInfoList = new LinkedList<>();
+		processFile(resumeFile, tokenInfoList);
+		return MLModel.getPredictionSVDX(tokenInfoList.get(0));
 	}
 
-	void computeIDF() {
+	private void processInternal() {
+		System.out.println("size of dictionary: " + dictionary.size());
+		computeIDF();
+		outputResumeTokenInfo();
+		MLModel.createModel(IDFList, positive_tokenInfoList, negative_tokenInfoList);
+	}
+	
+	private void computeIDF() {
 		for (String key : dictionary.keySet()) {
 			double idf = Math.log(resumeCount / dictionary.get(key));
 			dictionaryIDF.put(key, idf);
@@ -124,12 +124,9 @@ public class Processor {
 		}
 	}
 
-	void processFile(File file, boolean positive) {
+	void processFile(File file, List<Map<String, Integer>> tokenInfoList) {
 		// read file line by line
 		try (BufferedReader br = new BufferedReader(new FileReader(file))) {
-			List<Map<String, Integer>> tokenInfoList = positive ?
-					positive_tokenInfoList : negative_tokenInfoList;
-
 			Map<String, Integer> tokenInfo = new HashMap<>();
 			tokenInfoList.add(tokenInfo);
 

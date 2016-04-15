@@ -19,7 +19,7 @@ import com.google.common.collect.Lists;
 @Component
 public class PdfToTextService {
 
-    private static final String[] EXTENSIONS = { "pdf", "doc", "docx", "txt" };
+    private static final String[] EXTENSIONS = { "pdf", "doc", "docx", "txt", "output" };
 
     @Value("${pdf-2-txt.txt_output_directory}")
     private String outputDirectory;
