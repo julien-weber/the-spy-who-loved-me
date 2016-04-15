@@ -26,7 +26,6 @@ public class EndToEndTest {
     static Logger log = LoggerFactory.getLogger(EndToEndTest.class);
 
     @Test
-    @Ignore
     public void training() {
 
         String goodResumesPath = "profiles_hired_output";
@@ -53,11 +52,11 @@ public class EndToEndTest {
         File convertedResume = convertedResumes.get(0);
 
         Processor processor = new Processor();
-        List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
-        //List<Double> weight = MLModel.getWeightVector();
+        // List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
+        List<Double> weight = MLModel.getWeightVector();
 
-        List<Double> XWithTfIdf = Arrays.asList(1.0, 1.0, 2.0);
-        //List<Double> XWithTfIdf = processor.GetXWithTfIdf(convertedResume);
+        // List<Double> XWithTfIdf = Arrays.asList(1.0, 1.0, 2.0);
+        List<Double> XWithTfIdf = processor.GetXWithTfIdf(convertedResume);
 
         Prediction prediction = Prediction.getInstance();
         double finalScore = prediction.getFinalScore(weight, XWithTfIdf);
