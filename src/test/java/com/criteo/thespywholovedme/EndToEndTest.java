@@ -14,6 +14,7 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.criteo.thespywholovedme.model.MLModel;
 import com.criteo.thespywholovedme.prediction.Prediction;
 import com.criteo.thespywholovedme.prediction.PredictionTest;
 import com.criteo.thespywholovedme.tokenizer.Processor;
@@ -53,10 +54,10 @@ public class EndToEndTest {
 
         Processor processor = new Processor();
         List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
-        // List<Double> weight = processor.GetWeight();
+        //List<Double> weight = MLModel.getWeightVector();
 
         List<Double> XWithTfIdf = Arrays.asList(1.0, 1.0, 2.0);
-        // List<Double> XWithTfIdf = processor.GetXWithTfIdf(convertedResume);
+        //List<Double> XWithTfIdf = processor.GetXWithTfIdf(convertedResume);
 
         Prediction prediction = Prediction.getInstance();
         double finalScore = prediction.getFinalScore(weight, XWithTfIdf);
