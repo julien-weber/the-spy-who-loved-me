@@ -28,7 +28,7 @@ public class Prediction {
     }
 
     public double getFinalScore(List<Double> weight, List<Double> XWithTfIdf) {
-        assert (weight.size() == XWithTfIdf.size());
+        // assert (weight.size() == XWithTfIdf.size());
         double score = 0.0;
         for (int ii = 0; ii < weight.size(); ++ii) {
             score += weight.get(ii) * XWithTfIdf.get(ii);

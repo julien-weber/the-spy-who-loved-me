@@ -38,6 +38,7 @@ public class EndToEndTest {
     }
 
     @Test
+    @Ignore
     public void predictTest() {
         // String resumeToPredictStr = "target/txts/JonWuTechResume.pdf";
         String resumeToPredictStr = "src/test/resources/pdfs/JonWuTechResume.pdf";
