@@ -67,10 +67,12 @@ public class SVD {
 			   }
 			   
 		   }
-		   XM = MatrixUtils.createRealMatrix(firstNArray);
+		   //XM = MatrixUtils.createRealMatrix(firstNArray);
+		   
+		   RealMatrix localUHalfS = MatrixUtils.createRealMatrix(firstNArray);
 		   
 		   
-		   XM.multiply(UHalfS);
+		   XM.multiply(localUHalfS);
 		   
 		   double[] result = XM.getRow(0);
 		   List<Double> resultList = new ArrayList<Double>();
