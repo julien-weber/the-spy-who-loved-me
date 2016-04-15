@@ -1,24 +1,25 @@
 package com.criteo.thespywholovedme.tools;
 
-import com.google.common.collect.Lists;
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.FilenameUtils;
-import org.apache.tika.metadata.Metadata;
-import org.apache.tika.parser.ParseContext;
-import org.apache.tika.parser.pdf.PDFParser;
-import org.apache.tika.sax.BodyContentHandler;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Component;
-
 import java.io.File;
 import java.io.InputStream;
 import java.util.Collection;
 import java.util.List;
 
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.FilenameUtils;
+import org.apache.tika.metadata.Metadata;
+import org.apache.tika.parser.AutoDetectParser;
+import org.apache.tika.parser.ParseContext;
+import org.apache.tika.sax.BodyContentHandler;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+import com.google.common.collect.Lists;
+
 @Component
 public class PdfToTextService {
 
-    private static final String[] EXTENSIONS = { "pdf" };
+    private static final String[] EXTENSIONS = { "pdf", "doc", "docx", "txt" };
 
     @Value("${pdf-2-txt.txt_output_directory}")
     private String outputDirectory;
@@ -60,7 +61,8 @@ public class PdfToTextService {
         try (InputStream input = FileUtils.openInputStream(pdfFile)) {
             BodyContentHandler handler = new BodyContentHandler();
             Metadata metadata = new Metadata();
-            PDFParser parser = new PDFParser();
+            AutoDetectParser parser = new AutoDetectParser();
+            // PDFParser parser = new PDFParser();
             ParseContext parseContext = new ParseContext();
 
             parser.parse(input, handler, metadata, parseContext);
