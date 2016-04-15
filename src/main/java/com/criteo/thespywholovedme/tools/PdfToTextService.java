@@ -7,19 +7,27 @@ import org.apache.tika.metadata.Metadata;
 import org.apache.tika.parser.ParseContext;
 import org.apache.tika.parser.pdf.PDFParser;
 import org.apache.tika.sax.BodyContentHandler;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
 
 import java.io.File;
 import java.io.InputStream;
 import java.util.Collection;
 import java.util.List;
 
+@Component
 public class PdfToTextService {
 
     private static final String[] EXTENSIONS = { "pdf" };
 
-    private File outputDirectory;
+    @Value("${pdf-2-txt.txt_output_directory}")
+    private String outputDirectory;
 
-    public PdfToTextService(File outputDirectory) {
+    public PdfToTextService() {
+
+    }
+
+    public PdfToTextService(String outputDirectory) {
         this.outputDirectory = outputDirectory;
     }
 

@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -20,8 +21,11 @@ public class SpyApplication {
 
     private static final Logger logger = LoggerFactory.getLogger(SpyApplication.class);
 
-    public static final String PDF_DIR = "web/pdf-input";
-    public static final String TXT_DIR = "web/txt-output";
+    @Value("${web.upload_directory}")
+    private String PDF_DIR = "web/pdf-input";
+
+    @Value("${pdf-2-txt.txt_output_directory}")
+    private String TXT_DIR = "web/txt-output";
 
     /**
      * @param args
