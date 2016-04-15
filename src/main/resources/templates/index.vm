@@ -1,18 +1,35 @@
 <!DOCTYPE html>
 <meta charset="UTF-8">
-
+<head>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/scripts/dropzone.js"></script>
+	<script type="text/javascript">
+		Dropzone.autoDiscover = false;
+		$(function() {
+		  // Now that the DOM is fully loaded, create the dropzone, and setup the
+		  // event listeners
+		  var myDropzone = new Dropzone("#dropzone-form");
+		  myDropzone.on("success", function(file, response) {
+		  	if(response.error != null) {
+		    	$("#error").text("There was an error:" + response.error);
+		    	$("#score").text();	
+            } else {
+            	$("#score").text("The Score is: " + response.score);
+            	$("#error").text();
+            }
+		  });
+		})
+	</script>
+	<link rel="stylesheet" href="/scripts/dropzone.css">
+</head>
 <body>
-	<h1>Hello!</h1>
-	#if($message)
-	<h2>$message</h2>
-	#end
+	<h1>ISpy</h1>
+	<div id="error"></div>
+	<h2 id="score"></h2>
 	
 	<div>
-		<form method="POST" enctype="multipart/form-data" action="/upload">
-			<table>
-				<tr><td>File to upload:</td><td><input type="file" name="file" /></td></tr>
-				<tr><td></td><td><input type="submit" value="Upload" /></td></tr>
-			</table>
+		<form id="dropzone-form" method="POST" enctype="multipart/form-data" action="/upload" class="dropzone">
+			
 		</form>
 	</div>
 	
