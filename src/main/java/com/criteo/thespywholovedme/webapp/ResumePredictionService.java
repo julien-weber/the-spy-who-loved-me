@@ -14,9 +14,9 @@ public class ResumePredictionService {
     @Autowired
     private PdfToTextService pdfToTextService;
 
-    public String runPredictionForFile(File pdfInput) {
+    public Double runPredictionForFile(File pdfInput) {
         List<File> file = pdfToTextService.convert(pdfInput);
 
-        return "80%";
+        return 0.8d;
     }
 }

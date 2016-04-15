@@ -49,7 +49,7 @@ public class SpyController {
                 FileCopyUtils.copy(file.getInputStream(), stream);
                 stream.close();
 
-                String prediction = resumePredictionService.runPredictionForFile(uploadedPdf);
+                Double prediction = resumePredictionService.runPredictionForFile(uploadedPdf);
 
                 redirectAttributes.addFlashAttribute("message", "Prediction is " + prediction + "!!!");
             } catch (Exception e) {
