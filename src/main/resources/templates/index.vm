@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <meta charset="UTF-8">
 <head>
+	<style>
+		.scoreNumber{color:#2DE583}
+	</style>
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript" src="/scripts/dropzone.js"></script>
 	<script type="text/javascript">
@@ -11,11 +14,13 @@
 		  var myDropzone = new Dropzone("#dropzone-form");
 		  myDropzone.on("success", function(file, response) {
 		  	if(response.error != null) {
-		    	$("#error").text("There was an error:" + response.error);
-		    	$("#score").text();	
+		    	$("#errorDiv").html("<span color='red'>There was an error:</span>" + response.error);
+		    	$("#scoreH2").empty();
             } else {
-            	$("#score").text("The Score is: " + response.score);
-            	$("#error").text();
+            	$("#scoreH2")
+            		.append("The Score is: <span class='scoreNumber'>" + response.score +"</span>")
+            		.append("<img src='images/steve.jpg'/>");
+            	$("#errorDiv").empty();
             }
 		  });
 		})
@@ -24,8 +29,8 @@
 </head>
 <body>
 	<h1>ISpy</h1>
-	<div id="error"></div>
-	<h2 id="score"></h2>
+	<div id="errorDiv"></div>
+	<h2 id="scoreH2"></h2>
 	
 	<div>
 		<form id="dropzone-form" method="POST" enctype="multipart/form-data" action="/upload" class="dropzone">
