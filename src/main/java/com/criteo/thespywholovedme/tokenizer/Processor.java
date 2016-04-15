@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.net.URL;
 import java.nio.file.DirectoryIteratorException;
 import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
@@ -18,6 +19,7 @@ import java.util.Map;
 import java.util.Set;
 
 import com.criteo.thespywholovedme.model.FeatureExtractor;
+import com.criteo.thespywholovedme.model.MLModel;
 import com.criteo.thespywholovedme.model.TermIDF;
 
 public class Processor {
@@ -30,7 +32,7 @@ public class Processor {
 	private List<Map<String, Integer>> negative_tokenInfoList = new ArrayList<>();
 	private List<TermIDF> IDFList = new ArrayList<>();
 
-	void process(String[] dirs) {
+	void process(String[] dirs) {		
 		if (dirs == null || dirs.length == 0)
 			return;
 
@@ -49,9 +51,9 @@ public class Processor {
 				}
 
 			} catch (DirectoryIteratorException ex) {
-				System.err.println(ex.getMessage());
+				ex.printStackTrace();
 			} catch (IOException ex) {
-				System.err.println(ex.getMessage());
+				ex.printStackTrace();
 			}
 		}
 		System.out.println("size of dictionary: " + dictionary.size());
@@ -92,10 +94,8 @@ public class Processor {
 
 	public List<Double> GetWeight()
 	{
-		FeatureExtractor extractor = new FeatureExtractor();
-		String [] keyWords = extractor.extractStringFeatures(IDFList, positive_tokenInfoList, negative_tokenInfoList);
-
-		return null;
+		MLModel.createModel(IDFList, positive_tokenInfoList, negative_tokenInfoList);
+		return MLModel.getWeightVector();
 	}
 
 	public List<Double> GetXWithTfIdf(File resumeFile)
