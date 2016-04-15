@@ -31,6 +31,7 @@ public class Processor {
 
 	private Set<String> uniqueWords = new HashSet<>();
 	private Map<String, Integer> dictionary = new HashMap<>();
+
 	private Map<String, Double> dictionaryIDF = new HashMap<>();
 	private int resumeCount = 0;
 
@@ -166,6 +167,7 @@ public class Processor {
 		try (BufferedReader br = new BufferedReader(new FileReader(file))) {
 			Map<String, Integer> tokenInfo = new HashMap<>();
 			tokenInfoList.add(tokenInfo);
+			Set<String> shownTokens = new HashSet<String> ();
 
 			String line;
 			while ((line = br.readLine()) != null) {
@@ -177,9 +179,14 @@ public class Processor {
 
 					for (String token : tokens)
 					{
-						if (!dictionary.containsKey(token)) {
-							dictionary.put(token, 1);
-						}
+					    if (!shownTokens.contains(token)) { // first show in the resume
+  					        if (!dictionary.containsKey(token)) {
+                                dictionary.put(token, 1);
+                            } else {
+                                dictionary.put(token, dictionary.get(token) + 1);
+                            }
+  					        shownTokens.add(token);
+					    }
 
 						if (!tokenInfo.containsKey(token)) {
 							tokenInfo.put(token,  1);
