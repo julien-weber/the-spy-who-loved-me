@@ -27,7 +27,7 @@ public class Prediction {
         return Holder.instance;
     }
 
-    public double getFinalScore(List<Double> weight, Path pathToResume, List<Double> XWithTfIdf) {
+    public double getFinalScore(List<Double> weight, List<Double> XWithTfIdf) {
         assert (weight.size() == XWithTfIdf.size());
         double score = 0.0;
         for (int ii = 0; ii < weight.size(); ++ii) {

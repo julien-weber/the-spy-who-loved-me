@@ -20,10 +20,25 @@ public class EndToEndTest {
 	static Logger log = LoggerFactory.getLogger(PredictionTest.class);
 
     @Test
-    public void endToEndTest() {
+    public void endToEndTest()
+    {
+    	String resumeToPredictStr = "target/txts/NewCadidate.pdf";
 
     	//Training:
+    	Processor processor = Training();
 
+        //Make a prediction
+    	//TODO integrate with ML
+    	List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
+    	//List<Double> weight = processor.GetWeight();
+        List<Double> XWithTfIdf = Arrays.asList(1.0, 1.0, 2.0);
+     	//File resumeToPredict = new File(resumeToPredictStr);
+        //List<Double> XWithTfIdf = processor.GetXWithTfIdf(resumeToPredict);
+        MakePrediction(weight, XWithTfIdf);
+    }
+
+    private Processor Training()
+    {
     	//1. Convert Files from Pdf to Text
     	String outputPathGoodResumes = "target/txts/positive";
     	File outputDirectoryGoodResumes = new File(outputPathGoodResumes);
@@ -41,17 +56,14 @@ public class EndToEndTest {
         Processor processor = new Processor();
 		processor.process(goodResumesInText, badResumesInText);
 
-    	//TODO integrate with ML
-    	List<Double> weight = Arrays.asList(0.1, 0.5, 1.0);
-    	//weight = processor.GetWeight();
-        List<Double> XWithTfIdf = Arrays.asList(1.0, 1.0, 2.0);
-        //String resumeToPredictStr = "target/txts/NewCadidate.pdf";
-     	//File resumeToPredict = new File(resumeToPredictStr);
-        //XWithTfIdf = processor.GetXWithTfIdf(resumeToPredict);
+        return processor;
+    }
 
-        //Making a prediction for a new Resume.
+    private void MakePrediction(List<Double> weight, List<Double> XWithTfIdf)
+    {
+    	 //Making a prediction for a new Resume.
         Prediction prediction = Prediction.getInstance();
-        double finalScore = prediction.getFinalScore(weight, null, XWithTfIdf);
+        double finalScore = prediction.getFinalScore(weight, XWithTfIdf);
         log.info("the final score is " + finalScore);
         if (finalScore >  0.5)
         {
@@ -61,7 +73,6 @@ public class EndToEndTest {
         {
         	log.info("Candidate is not hired");
         }
-
 
     }
 }
