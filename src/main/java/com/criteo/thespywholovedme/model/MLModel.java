@@ -4,6 +4,7 @@ import org.python.core.Py;
 import org.python.core.PyString; 
 import org.python.core.PySystemState; 
 import org.python.util.PythonInterpreter; 
+import java.io.File;
 
 import java.util.List;
 import java.util.Map;
@@ -20,8 +21,14 @@ public class MLModel {
 		masterDictionary = dictionary;
 		
 		PythonInterpreter interp = new PythonInterpreter();
+		File file = new File(filePath);
+		String absPath = file.getAbsolutePath();
+		String command = " scr/main/python/script " + absPath;
+
 		try {
-		  interp.exec("import re");
+		//	Runtime.getRuntime().exec(command);	
+			
+		  interp.exec("src/main/python/learning_model.py learning " + absPath);
 		} 
 		catch (Exception ex) {
 		  ex.printStackTrace();
@@ -30,7 +37,7 @@ public class MLModel {
 	}
 	
 	
-	public static List<Double> getSVDX(Map<String, Integer> resume) {
+	public static List<Double> getPredictionSVDX(Map<String, Integer> resume) {
 		FeatureExtractor featureExtractor = new FeatureExtractor();
 		return featureExtractor.getSVDX(masterDictionary, resume);
 		
