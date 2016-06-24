@@ -4,8 +4,6 @@ import java.text.Normalizer;
 import java.util.*;
 import java.util.regex.Pattern;
 
-import org.apache.commons.lang.NumberUtils;
-
 public class TokenizerHelper {
 
 	static Set<String> dictStopWords;
@@ -35,6 +33,7 @@ public class TokenizerHelper {
 		}
 	}
 
+	private static final PorterStemmer stemmer = new PorterStemmer();
 	private static final Pattern normalizePattern = Pattern.compile("\\p{InCombiningDiacriticalMarks}+");
 	private static int nMaxToken = 15;
 
@@ -60,9 +59,12 @@ public class TokenizerHelper {
 
 			if (!dictStopWords.contains(tks[i])) {
 				String token = tks[i];
-				if (!dictSingularWords.contains(tks[i]))
-					token = EnglishNoun.singularOf(tks[i]);
-
+				if (!dictSingularWords.contains(tks[i])) {
+					stemmer.add(tks[i]);
+					stemmer.stem();
+					token = stemmer.toString();
+					stemmer.reset();
+				}
 				acceptedTokens.add(token);
 			}
 		}
