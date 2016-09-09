@@ -39,7 +39,7 @@ public class Processor {
 	private List<Map<String, Integer>> negative_tokenInfoList = new ArrayList<>();
 	private List<TermIDF> IDFList = new ArrayList<>();
 
-	void process(String[] dirs) {		
+	void process(String[] dirs) {
 		if (dirs == null || dirs.length == 0)
 			return;
 
@@ -54,7 +54,7 @@ public class Processor {
 			{
 				for (Path entry: stream) {
 					resumeCount++;
-					processFile(entry.toFile(), 
+					processFile(entry.toFile(),
 							i==0 ? positive_tokenInfoList : negative_tokenInfoList);
 				}
 
@@ -64,10 +64,10 @@ public class Processor {
 				ex.printStackTrace();
 			}
 		}
-		
+
 		processInternal();
 	}
-	
+
 	public void process(List<File> positive, List<File> negative) {
 
 		for (File file : positive) {
@@ -93,52 +93,55 @@ public class Processor {
 
 	public List<Double> GetXWithTfIdf(File resumeFile)
 	{
-		BufferedReader br;
-		List<Double> weights = new ArrayList<Double>();
-		try {
-			br = new BufferedReader(new FileReader(xhackfile));
-			String s;
-			while ((s = br.readLine()) != null) {
-				int n = 0;
-				for (String t: s.split(",")) {
-					if (n == 0) {
-						if (!t.equals(resumeFile.getName())) {
-							break;
-						}
-					} else {
-						weights.add(NumberFormat.getInstance(Locale.US).parse(t).doubleValue());
-					}
-					n++;
-				}
-				if (weights.size() != 0) {
-					br.close();
-					return weights;
-				}
-			}
-			br.close();
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		} catch (ParseException e) {
-			e.printStackTrace();
-		}
-		return weights;
+		return getXWithTfIdfWithHack(resumeFile);
 
 		//List<Map<String, Integer>> tokenInfoList = new LinkedList<>();
 		//processFile(resumeFile, tokenInfoList);
 		//return MLModel.getPredictionSVDX(tokenInfoList.get(0));
 	}
 
+	private List<Double> getXWithTfIdfWithHack(File resumeFile) {
+
+	        List<Double> weights = new ArrayList<Double>();
+	        try (BufferedReader br = new BufferedReader(new FileReader(xhackfile));){
+	            String s;
+	            while ((s = br.readLine()) != null) {
+	                int n = 0;
+	                for (String t: s.split(",")) {
+	                    if (n == 0) {
+	                        if (!t.equals(resumeFile.getName())) {
+	                            break;
+	                        }
+	                    } else {
+	                        weights.add(NumberFormat.getInstance(Locale.US).parse(t).doubleValue());
+	                    }
+	                    n++;
+	                }
+	                if (weights.size() != 0) {
+	                    br.close();
+	                    return weights;
+	                }
+	            }
+	        } catch (FileNotFoundException e) {
+	            e.printStackTrace();
+	        } catch (IOException e) {
+	            e.printStackTrace();
+	        } catch (ParseException e) {
+	            e.printStackTrace();
+	        }
+	        return weights;
+	}
+
 	private void processInternal() {
+
 		System.out.println("size of dictionary: " + dictionary.size());
 		computeIDF();
-		outputResumeTokenInfo();
+//		outputResumeTokenInfo();
 		System.out.println("tokenization done");
-		
+
 		MLModel.createModel(IDFList, positive_tokenInfoList, negative_tokenInfoList);
 	}
-	
+
 	private void computeIDF() {
 		for (String key : dictionary.keySet()) {
 			double idf = Math.log(resumeCount / dictionary.get(key));
@@ -149,15 +152,16 @@ public class Processor {
 	}
 
 	void outputResumeTokenInfo() {
+
 		for (Map<String, Integer> tokenInfo: positive_tokenInfoList) {
 			for (String token : tokenInfo.keySet()) {
-				//System.out.println(token + ": " + tokenInfo.get(token));
+				System.out.println(token + ": " + tokenInfo.get(token));
 			}
 		}
 
 		for (Map<String, Integer> tokenInfo: negative_tokenInfoList) {
 			for (String token : tokenInfo.keySet()) {
-				//System.out.println(token + ": " + tokenInfo.get(token));
+				System.out.println(token + ": " + tokenInfo.get(token));
 			}
 		}
 	}
