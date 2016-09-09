@@ -3,7 +3,6 @@ package com.criteo.thespywholovedme.tokenizer;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -136,9 +135,7 @@ public class DictionaryHelper {
         }
 
         // save to file
-        BufferedWriter output = null;
-        try {
-            output = new BufferedWriter(new FileWriter(file));
+        try(BufferedWriter output = new BufferedWriter(new FileWriter(file))) {
             StringBuilder sb = new StringBuilder();
             for (TermIDF termIdf: dict) {
                 sb.append(termIdf.getTerm());
@@ -149,15 +146,6 @@ public class DictionaryHelper {
             output.write(sb.toString());
         } catch (IOException e) {
             e.printStackTrace();
-        } finally {
-            if (output != null) {
-                try {
-                    output.close();
-                } catch (IOException e) {
-                    // TODO Auto-generated catch block
-                    e.printStackTrace();
-                }
-            }
         }
     }
 }
